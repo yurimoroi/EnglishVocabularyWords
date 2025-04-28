@@ -6,7 +6,7 @@ import { useRouter } from "next/navigation";
 export default function QuestionPage() {
   const router = useRouter();
   const [selectedType, setSelectedType] = useState("TOEIC");
-  const [selectedDirection, setSelectedDirection] = useState("englishToJapanese");
+  const [selectedDirection, setSelectedDirection] = useState("japaneseToEnglish");
 
   const buttonStyle =
     "bg-violet-500 hover:bg-violet-600 text-white font-medium py-4 px-6 rounded-lg transition-colors duration-200 shadow-md hover:shadow-lg hover:cursor-pointer";
@@ -17,8 +17,8 @@ export default function QuestionPage() {
   ];
 
   const directionTypes = [
-    { id: "englishToJapanese", label: "英語 → 日本語" },
     { id: "japaneseToEnglish", label: "日本語 → 英語" },
+    { id: "englishToJapanese", label: "英語 → 日本語" },
   ];
 
   const handleQuestionSetClick = (set: string) => {
