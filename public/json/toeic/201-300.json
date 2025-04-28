@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "word": "expense",
+    "meaning": "【名】費用、経費",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 2,
+    "word": "overseas",
+    "meaning": "【形】海外の　【副】海外で",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 3,
+    "word": "satisfied",
+    "meaning": "【形】満足した",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 4,
+    "word": "appear",
+    "meaning": "【動】現れる、掲載される、～のように見える",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 5,
+    "word": "develop",
+    "meaning": "【動】（計画等を）作り出す、開発する、（スキルを）高める",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 6,
+    "word": "improve",
+    "meaning": "【動】改善する、改良する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 7,
+    "word": "reasonable",
+    "meaning": "【形】（値段が）手ごろな、妥当な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 8,
+    "word": "unable",
+    "meaning": "【形】（～することが）できない",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 9,
+    "word": "delay",
+    "meaning": "【動】遅らせる　【名】遅れ",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 10,
+    "word": "legal",
+    "meaning": "【形】法律に関する、合法の",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 11,
+    "word": "regulation",
+    "meaning": "【名】規制、規則",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 12,
+    "word": "expand",
+    "meaning": "【動】拡大する、進出する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 13,
+    "word": "launch",
+    "meaning": "【名】開始、発売　【動】開始する、発売する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 14,
+    "word": "recommendation",
+    "meaning": "【名】推薦",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 15,
+    "word": "direct",
+    "meaning": "【動】向ける、管理する　【形】直接の",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 16,
+    "word": "profit",
+    "meaning": "【名】利益　【動】利益を与える",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 17,
+    "word": "seek",
+    "meaning": "【動】探し求める",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 18,
+    "word": "entry",
+    "meaning": "【名】エントリー（作品）、入場",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 19,
+    "word": "claim",
+    "meaning": "【名】申し立て、首長、所有権　【動】主張する、所有権を主張する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 20,
+    "word": "crew",
+    "meaning": "【名】グループ、班、乗員",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 21,
+    "word": "demand",
+    "meaning": "【名】需要　【動】要求する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 22,
+    "word": "figure",
+    "meaning": "【名】数字、人物",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 23,
+    "word": "raise",
+    "meaning": "【動】上げる、（お金を）集める、高める　【名】昇給",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 24,
+    "word": "attach",
+    "meaning": "【動】添付する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 25,
+    "word": "attract",
+    "meaning": "【動】引き付ける、呼び込む",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 26,
+    "word": "insurance",
+    "meaning": "【名】保険",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 27,
+    "word": "departure",
+    "meaning": "【名】出発、逸脱",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 28,
+    "word": "mayor",
+    "meaning": "【名】町長、市長",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 29,
+    "word": "balance",
+    "meaning": "【名】残金、残額、バランス",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 30,
+    "word": "estimate",
+    "meaning": "【名】見積もり　【動】見積もる",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 31,
+    "word": "district",
+    "meaning": "【名】地区",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 32,
+    "word": "former",
+    "meaning": "【形】前の、かつての　【名】前者",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 33,
+    "word": "modern",
+    "meaning": "【形】現代的な、近代的な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 34,
+    "word": "tip",
+    "meaning": "【名】アドバイス、コツ",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 35,
+    "word": "establish",
+    "meaning": "【動】設立する、創立する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 36,
+    "word": "option",
+    "meaning": "【名】選択肢、オプション",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 37,
+    "word": "retire",
+    "meaning": "【動】退職する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 38,
+    "word": "search",
+    "meaning": "【名】捜索、検索　【動】探す、検索する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 39,
+    "word": "specific",
+    "meaning": "【形】具体的な、特定の",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 40,
+    "word": "agricultural",
+    "meaning": "【形】農業の",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 41,
+    "word": "historical",
+    "meaning": "【形】歴史（上）の",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 42,
+    "word": "helpful",
+    "meaning": "【形】役立つ、助けになる",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 43,
+    "word": "complaint",
+    "meaning": "【名】苦情、クレーム",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 44,
+    "word": "related",
+    "meaning": "【形】関連した",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 45,
+    "word": "simply",
+    "meaning": "【副】単純に、単に",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 46,
+    "word": "unique",
+    "meaning": "【形】他にはない、独自の、特有の",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 47,
+    "word": "concerning",
+    "meaning": "【前】～に関する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 48,
+    "word": "reputation",
+    "meaning": "【名】評判",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 49,
+    "word": "ability",
+    "meaning": "【名】能力",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 50,
+    "word": "arrival",
+    "meaning": "【名】到着",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 51,
+    "word": "familiar",
+    "meaning": "【形】よく知っている、おなじみの",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 52,
+    "word": "ideal",
+    "meaning": "【形】理想的な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 53,
+    "word": "maintain",
+    "meaning": "【動】維持する、主張する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 54,
+    "word": "landscaping",
+    "meaning": "【名】造園",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 55,
+    "word": "organaze",
+    "meaning": "【動】（イベントなどを）計画する、取りまとめる、組織化する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 56,
+    "word": "significant",
+    "meaning": "【形】かなりの、大幅な、重要な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 57,
+    "word": "occation",
+    "meaning": "【名】特別な行事、（何かが起こる）時、好機",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 58,
+    "word": "standard",
+    "meaning": "【名】基準　【形】標準の",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 59,
+    "word": "background",
+    "meaning": "【名】経歴、背景",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 60,
+    "word": "guided",
+    "meaning": "【形】ガイド付きの",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 61,
+    "word": "advanced",
+    "meaning": "【形】進んだ、上級の、高度な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 62,
+    "word": "alternative",
+    "meaning": "【形】代わりの　【名】代案",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 63,
+    "word": "confident",
+    "meaning": "【形】確信している、自信がある",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 64,
+    "word": "decade",
+    "meaning": "【名】10年間、10年",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 65,
+    "word": "initial",
+    "meaning": "【形】初めの、当初の",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 66,
+    "word": "separate",
+    "meaning": "【形】分かれた、別々の　【動】分ける",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 67,
+    "word": "celebration",
+    "meaning": "【名】お祝い、祝典",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 68,
+    "word": "concern",
+    "meaning": "【名】心配、懸念、関心事",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 69,
+    "word": "environment",
+    "meaning": "【名】環境",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 70,
+    "word": "operate",
+    "meaning": "【動】操作する、運営する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 71,
+    "word": "various",
+    "meaning": "【形】様々な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 72,
+    "word": "brief",
+    "meaning": "【形】短い",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 73,
+    "word": "full-time",
+    "meaning": "【形】常勤の",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 74,
+    "word": "overall",
+    "meaning": "【形】全体の　【副】全体として",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 75,
+    "word": "achieve",
+    "meaning": "【動】達成する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 76,
+    "word": "basis",
+    "meaning": "【名】ベース、基準、根拠",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 77,
+    "word": "complex",
+    "meaning": "【名】複合施設、集合住宅　【形】複雑な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 78,
+    "word": "delighted",
+    "meaning": "【形】とても喜んでいる",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 79,
+    "word": "obtain",
+    "meaning": "【動】得る、取得する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 80,
+    "word": "honor",
+    "meaning": "【動】称える、（契約等を）守る　【名】名誉",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 81,
+    "word": "properly",
+    "meaning": "【副】ちゃんと、適切に",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 82,
+    "word": "suitable",
+    "meaning": "【形】相応しい、適切な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 83,
+    "word": "electronic",
+    "meaning": "【形】電子の、電子的な、オンラインの",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 84,
+    "word": "finalize",
+    "meaning": "【動】取りまとめる、仕上げる、最終決定する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 85,
+    "word": "generous",
+    "meaning": "【形】寛大な、気前の良い",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 86,
+    "word": "preparation",
+    "meaning": "【名】準備、用意",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 87,
+    "word": "duty",
+    "meaning": "【名】任務、職務、関税",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 88,
+    "word": "earn",
+    "meaning": "【動】得る、もたらす",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 89,
+    "word": "willing",
+    "meaning": "【形】～することを嫌がらない、～する気がある",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 90,
+    "word": "worth",
+    "meaning": "【前】価値がある",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 91,
+    "word": "fund",
+    "meaning": "【動】資金を提供する　【名】資金、基金",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 92,
+    "word": "overnight",
+    "meaning": "【形】一晩の、翌日配送の　【副】一晩",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 93,
+    "word": "particularly",
+    "meaning": "【副】特に",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 94,
+    "word": "aspect",
+    "meaning": "【名】面、局面",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 95,
+    "word": "hesitate",
+    "meaning": "【動】ためらう",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 96,
+    "word": "involved",
+    "meaning": "【形】関わった",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 97,
+    "word": "regularly",
+    "meaning": "【副】定期的に",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 98,
+    "word": "scholarship",
+    "meaning": "【名】奨学金",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 99,
+    "word": "shortly",
+    "meaning": "【副】じきに、まもなく",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 100,
+    "word": "automobile",
+    "meaning": "【形】自動車の、自動車",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  }
+]
