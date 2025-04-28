@@ -3,800 +3,800 @@
     "id": 1,
     "word": "expense",
     "meaning": "【名】費用、経費",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "travel _____s",
+    "translation": "出張経費",
+    "remark": "【類】expenditure（支出）、spendinig（支出）"
   },
   {
     "id": 2,
     "word": "overseas",
     "meaning": "【形】海外の　【副】海外で",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "_____ markets",
+    "translation": "海外市場",
+    "remark": "travel overseas（海外を旅行する）といった形で副詞としても使われる。"
   },
   {
     "id": 3,
     "word": "satisfied",
     "meaning": "【形】満足した",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "I am fully _____ with the service.",
+    "translation": "私はサービスに完全に満足しています。",
+    "remark": "【動】satisfyu（満足させる）　【名】satisfaction（満足）　【形】satisafactory（満足させるような）　【副】satisafactorily（満足させるように）"
   },
   {
     "id": 4,
     "word": "appear",
     "meaning": "【動】現れる、掲載される、～のように見える",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "Where would the article most likely _____?",
+    "translation": "この記事が最も掲載されそうなのはどこですか？",
+    "remark": "「～にように見える」の意味でも出る"
   },
   {
     "id": 5,
     "word": "develop",
     "meaning": "【動】（計画等を）作り出す、開発する、（スキルを）高める",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "_____ a plan",
+    "translation": "計画を作り出す",
+    "remark": "「開発する」「（スキル等を）高める」の意味でも出る。"
   },
   {
     "id": 6,
     "word": "improve",
     "meaning": "【動】改善する、改良する",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "_____ customer service",
+    "translation": "顧客サービスを改善する",
+    "remark": "【名】improvement（改善）"
   },
   {
     "id": 7,
     "word": "reasonable",
     "meaning": "【形】（値段が）手ごろな、妥当な",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "a _____ price",
+    "translation": "手ごろな値段",
+    "remark": "同様に価格を表す形容詞:affordable（手ごろな）、competitive（他に負けない）、inexpensive（安価な）"
   },
   {
     "id": 8,
     "word": "unable",
     "meaning": "【形】（～することが）できない",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "What is the _____ to do?",
+    "translation": "男性ができないことは何ですか。",
+    "remark": "【反】able（～できる）"
   },
   {
     "id": 9,
     "word": "delay",
     "meaning": "【動】遅らせる　【名】遅れ",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "All flights have been _____ed.",
+    "translation": "すべての便が遅れています。",
+    "remark": "delayは「遅らせる」という意味なので、「～が遅れる」という場合は受け身になることに注意。"
   },
   {
     "id": 10,
     "word": "legal",
     "meaning": "【形】法律に関する、合法の",
-    "example": "",
-    "translation": "",
+    "example": "_____ advice",
+    "translation": "法律に関するアドバイス",
     "remark": ""
   },
   {
     "id": 11,
     "word": "regulation",
     "meaning": "【名】規制、規則",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "under the _____s",
+    "translation": "規制の下で",
+    "remark": "underを使った重要表現:under construction（建設中）、under negotiation（交渉中）、under consideration（検討中）それぞれ「状況下」のイメージ　【動】regulate（規制する）"
   },
   {
     "id": 12,
     "word": "expand",
     "meaning": "【動】拡大する、進出する",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "Our business is _____ing.",
+    "translation": "当初の事業は拡大しています。",
+    "remark": "名詞のexpansion（拡大、進出）も重要。　【形】expansive（広範囲の）　【類】enlarge（拡大する、拡張する）"
   },
   {
     "id": 13,
     "word": "launch",
     "meaning": "【名】開始、発売　【動】開始する、発売する",
-    "example": "",
-    "translation": "",
+    "example": "the _____ of a new product",
+    "translation": "新商品の発売",
     "remark": ""
   },
   {
     "id": 14,
     "word": "recommendation",
     "meaning": "【名】推薦",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "a letter of _____",
+    "translation": "推薦状",
+    "remark": "【動】recommend（推薦する、勧める）"
   },
   {
     "id": 15,
     "word": "direct",
     "meaning": "【動】向ける、管理する　【形】直接の",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "Please _____ any questions to me.",
+    "translation": "質問は私のほうにしてください。",
+    "remark": "形容詞でも頻出。　【副】directly（直接）"
   },
   {
     "id": 16,
     "word": "profit",
     "meaning": "【名】利益　【動】利益を与える",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "increase _____s",
+    "translation": "利益を増やす",
+    "remark": "派生語も頻出。　【形】profitable（利益になる）　【名】profitability（利益性）"
   },
   {
     "id": 17,
     "word": "seek",
     "meaning": "【動】探し求める",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "_____ interns for the summer",
+    "translation": "下記研修生を募集する",
+    "remark": "【関】job seeker（求職者）"
   },
   {
     "id": 18,
     "word": "entry",
     "meaning": "【名】エントリー（作品）、入場",
-    "example": "",
-    "translation": "",
+    "example": "the winning _____",
+    "translation": "入賞したエントリー作品",
     "remark": ""
   },
   {
     "id": 19,
     "word": "claim",
     "meaning": "【名】申し立て、首長、所有権　【動】主張する、所有権を主張する",
-    "example": "",
-    "translation": "",
+    "example": "file a _____",
+    "translation": "申し立てを行う",
     "remark": ""
   },
   {
     "id": 20,
     "word": "crew",
     "meaning": "【名】グループ、班、乗員",
-    "example": "",
-    "translation": "",
+    "example": "a repair _____",
+    "translation": "修理班",
     "remark": ""
   },
   {
     "id": 21,
     "word": "demand",
     "meaning": "【名】需要　【動】要求する",
-    "example": "",
-    "translation": "",
+    "example": "meet _____",
+    "translation": "需要を満たす",
     "remark": ""
   },
   {
     "id": 22,
     "word": "figure",
     "meaning": "【名】数字、人物",
-    "example": "",
-    "translation": "",
+    "example": "sales _____s",
+    "translation": "売上数字",
     "remark": ""
   },
   {
     "id": 23,
     "word": "raise",
     "meaning": "【動】上げる、（お金を）集める、高める　【名】昇給",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "_____ money for charity",
+    "translation": "事前のためにお金を集める",
+    "remark": "「上げる、高める」の意味でも出る。"
   },
   {
     "id": 24,
     "word": "attach",
     "meaning": "【動】添付する",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "I have _____ed my resume.",
+    "translation": "履歴書を添付しました。",
+    "remark": "attach/enclose（同封する）/accompany（添える）/include（含む）の言い換えに注意。　【名】attachment（添付ファイル、付属品）　【反】detach（切り離す）"
   },
   {
     "id": 25,
     "word": "attract",
     "meaning": "【動】引き付ける、呼び込む",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "a way of _____ing customers",
+    "translation": "お客様を引き付ける方法",
+    "remark": "派生語も頻出。　【形】attractive（魅力的な）　【名】attraction（名所、魅力）"
   },
   {
     "id": 26,
     "word": "insurance",
     "meaning": "【名】保険",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "provide health _____ for employees",
+    "translation": "社員に健康保険を提供する",
+    "remark": "【動】insure（保険を掛ける、保証する）　【関】insurance policy（保険証書）、policyholder（保険契約者）、premium（保険料）"
   },
   {
     "id": 27,
     "word": "departure",
     "meaning": "【名】出発、逸脱",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "the scheduled _____ date",
+    "translation": "出発予定日",
+    "remark": "departureにはｍ「通常のやり方から離れること」の意味もあり、同義語問題での出題例がある。　【動】depart（出発する）"
   },
   {
     "id": 28,
     "word": "mayor",
     "meaning": "【名】町長、市長",
-    "example": "",
-    "translation": "",
+    "example": "the _____ of Tex Town",
+    "translation": "テックス・タウンの町長",
     "remark": ""
   },
   {
     "id": 29,
     "word": "balance",
     "meaning": "【名】残金、残額、バランス",
-    "example": "",
-    "translation": "",
+    "example": "an account _____",
+    "translation": "口座残高",
     "remark": ""
   },
   {
     "id": 30,
     "word": "estimate",
     "meaning": "【名】見積もり　【動】見積もる",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "an _____ for the project",
+    "translation": "プロジェクトの見積もり",
+    "remark": "動詞でも頻出。　【形】estimated（推定の、おおよその）　【関】underestimate（低く見積もる、過小評価する）"
   },
   {
     "id": 31,
     "word": "district",
     "meaning": "【名】地区",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "a commercial _____",
+    "translation": "商業地区",
+    "remark": "【類】area/region（地域）"
   },
   {
     "id": 32,
     "word": "former",
     "meaning": "【形】前の、かつての　【名】前者",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "a _____ employee",
+    "translation": "かつての社員",
+    "remark": "副詞のformerly（以前）も重要。　【類】previous（前の）"
   },
   {
     "id": 33,
     "word": "modern",
     "meaning": "【形】現代的な、近代的な",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "design a _____ building",
+    "translation": "近代的な建物を設計する",
+    "remark": "類義語のcontemporary（現代の）も重要。　【動】modernize（現代的にする）"
   },
   {
     "id": 34,
     "word": "tip",
     "meaning": "【名】アドバイス、コツ",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "_____s on packing",
+    "translation": "荷造りのコツ",
+    "remark": "【類】advise（助言、アドバイス）"
   },
   {
     "id": 35,
     "word": "establish",
     "meaning": "【動】設立する、創立する",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "_____ a business",
+    "translation": "会社を設立する",
+    "remark": "【類】found（設立する）"
   },
   {
     "id": 36,
     "word": "option",
     "meaning": "【名】選択肢、オプション",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "an _____ to change the date",
+    "translation": "日付を変更する選択肢",
+    "remark": "option to do（～する選択肢）の形は文保問題でも出題例あり。　【形】optional（任意の、強制的ではない）"
   },
   {
     "id": 37,
     "word": "retire",
     "meaning": "【動】退職する",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "_____ after 20 years of service",
+    "translation": "20年の勤務の後、退職する",
+    "remark": "人気を満了して退職する場合はretireが使われ、自分の意志で退職する場合はleaveやquitが通常使われる。名詞のretirement（退職）も重要語。"
   },
   {
     "id": 38,
     "word": "search",
     "meaning": "【名】捜索、検索　【動】探す、検索する",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "the _____ for the next president",
+    "translation": "次の社長探し",
+    "remark": "動詞の場合、「～を探す」という意味では、search for X（Xを探す）と前置詞のforを伴い、「（ネット等を）検索する、捜索する」の意味では直接目的語を伴う。"
   },
   {
     "id": 39,
     "word": "specific",
     "meaning": "【形】具体的な、特定の",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "a _____ example",
+    "translation": "具体的な例",
+    "remark": "「特定の」の意味も重要。　【副】specifically（具体的に、特に）　【名】specifics（詳細）"
   },
   {
     "id": 40,
     "word": "agricultural",
     "meaning": "【形】農業の",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "_____ technology",
+    "translation": "農業の技術",
+    "remark": "【名】agriculture（農業）"
   },
   {
     "id": 41,
     "word": "historical",
     "meaning": "【形】歴史（上）の",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "_____ figures",
+    "translation": "歴史上の人物",
+    "remark": "【副】historically（歴史的に）　【類】historic（歴史上重要な）"
   },
   {
     "id": 42,
     "word": "helpful",
     "meaning": "【形】役立つ、助けになる",
-    "example": "",
-    "translation": "",
+    "example": "I hope you find this information _____.",
+    "translation": "この情報があなたの役に立つことを願っています。",
     "remark": ""
   },
   {
     "id": 43,
     "word": "complaint",
     "meaning": "【名】苦情、クレーム",
-    "example": "",
-    "translation": "",
+    "example": "_____s about the noise",
+    "translation": "騒音についての苦情",
     "remark": ""
   },
   {
     "id": 44,
     "word": "related",
     "meaning": "【形】関連した",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "exoerience in a _____ field",
+    "translation": "関連分野での経験",
+    "remark": "related to X（Xに関連した）も重要表現。　relateにはtellの意味もあり、同義語問題で注意が必要。　【類】relevant（関連した）、pertain to X（Xに関連した）"
   },
   {
     "id": 45,
     "word": "simply",
     "meaning": "【副】単純に、単に",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "_____ fill out the form below.",
+    "translation": "単純に以下の養子にご記入ください。",
+    "remark": "他意がないことも表す。　【関】simply out（簡単に言うと）　【同】onlu/just/merely/purely（単に）"
   },
   {
     "id": 46,
     "word": "unique",
     "meaning": "【形】他にはない、独自の、特有の",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "offer a _____ opportunity",
+    "translation": "他の類を見ない機会を提供する",
+    "remark": "「独自の」の意味も頻出。　【関】unique to X（Xに特有の）"
   },
   {
     "id": 47,
     "word": "concerning",
     "meaning": "【前】～に関する",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "any questions _____ the order",
+    "translation": "注文に関する質問",
+    "remark": "前置詞で、直後に名詞が続く形に注意。同義語の前置詞regarding、in/with regard toも頻出。"
   },
   {
     "id": 48,
     "word": "reputation",
     "meaning": "【名】評判",
-    "example": "",
-    "translation": "",
+    "example": "a well-deserved _____",
+    "translation": "確固たる評判",
     "remark": ""
   },
   {
     "id": 49,
     "word": "ability",
     "meaning": "【名】能力",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "_____ to speak three languages",
+    "translation": "3ヵ国語を話す能力",
+    "remark": "形容詞able（～できる）の名詞。　【類】capabilly（能力）"
   },
   {
     "id": 50,
     "word": "arrival",
     "meaning": "【名】到着",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "the time of _____",
+    "translation": "到着時刻",
+    "remark": "動詞のarrive（到着する、届く）も頻出。　【反】departure（出発）"
   },
   {
     "id": 51,
     "word": "familiar",
     "meaning": "【形】よく知っている、おなじみの",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "I am _____ with the area",
+    "translation": "私はその地域をよく知っています。",
+    "remark": "【動】familiarize（慣れ親しませる）　【名】familiarity（よく知っていること）　【反】infamiliar（よく知らない）"
   },
   {
     "id": 52,
     "word": "ideal",
     "meaning": "【形】理想的な",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "an _____ location",
+    "translation": "理想的な立地",
+    "remark": "【副】ideally（理想的に）　【類】impeccable（非の打ちどころのない）、perfect（完璧な）"
   },
   {
     "id": 53,
     "word": "maintain",
     "meaning": "【動】維持する、主張する",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "_____ a Web site",
+    "translation": "ウェブサイトを維持管理する",
+    "remark": "maintain that SVの形で、「SがVだと主張する（=claim）」の意味も表す。　【名】maintenance（維持管理）"
   },
   {
     "id": 54,
     "word": "landscaping",
     "meaning": "【名】造園",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "a _____ company",
+    "translation": "造園会社",
+    "remark": "【類】gardening（園芸）gardener（植木屋）　【関】landscape paintings（風景画）、greenhouse（温室）"
   },
   {
     "id": 55,
     "word": "organaze",
     "meaning": "【動】（イベントなどを）計画する、取りまとめる、組織化する",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "_____ an event",
+    "translation": "イベントを取りまとめる",
+    "remark": "【関】organizer（主催者）"
   },
   {
     "id": 56,
     "word": "significant",
     "meaning": "【形】かなりの、大幅な、重要な",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "a _____ increase in profits",
+    "translation": "かなりの利益増",
+    "remark": "副詞のsignificantly（大幅に、かなり）も頻出。　【名】significance（重要性）　【類】considerable/substantial（かなりの）"
   },
   {
     "id": 57,
     "word": "occation",
     "meaning": "【名】特別な行事、（何かが起こる）時、好機",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "a special _____",
+    "translation": "特別な行事",
+    "remark": "時や好機の意味でも出る。"
   },
   {
     "id": 58,
     "word": "standard",
     "meaning": "【名】基準　【形】標準の",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "safety _____s",
+    "translation": "安全基準",
+    "remark": "形容詞でも出る。　【類】criterion（基準）※通常は複数形のcriteriaが使われる。"
   },
   {
     "id": 59,
     "word": "background",
     "meaning": "【名】経歴、背景",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "an impressive educational _____",
+    "translation": "優れた学歴",
+    "remark": "「背景」の意味でも出る。"
   },
   {
     "id": 60,
     "word": "guided",
     "meaning": "【形】ガイド付きの",
-    "example": "",
-    "translation": "",
+    "example": "a _____ tour",
+    "translation": "ガイド付きのツアー",
     "remark": ""
   },
   {
     "id": 61,
     "word": "advanced",
     "meaning": "【形】進んだ、上級の、高度な",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "_____ technology",
+    "translation": "先端（進んだ）技術",
+    "remark": "「上級の」意味でも出る。　【関】advanced degree（上位学位：修士号、博士号といった、大卒の資格である学士以上の学位いのこと）　【名】advance（進歩、前進）"
   },
   {
     "id": 62,
     "word": "alternative",
     "meaning": "【形】代わりの　【名】代案",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "an _____ date",
+    "translation": "代わりの日",
+    "remark": "名詞でも出る。　【副】alternatively（もしくは）　【同】alternate（代わりの）　【類】substitute（代用する、代用品、代行）"
   },
   {
     "id": 63,
     "word": "confident",
     "meaning": "【形】確信している、自信がある",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "I'm _____ that I can do it.",
+    "translation": "私にはそれができる自信があります。",
+    "remark": "that説を取る形と、confidential（機密の）との意味の違いに注意。　【名】confidence（確信、自信）　【類】convinced（確信して）"
   },
   {
     "id": 64,
     "word": "decade",
     "meaning": "【名】10年間、10年",
-    "example": "",
-    "translation": "",
+    "example": "over the past two _____s",
+    "translation": "過去20年間に渡って",
     "remark": ""
   },
   {
     "id": 65,
     "word": "initial",
     "meaning": "【形】初めの、当初の",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "attend the _____ training session",
+    "translation": "最初の研修に参加する",
+    "remark": "副詞のinitially（最初に、当初は）と合わせて文法問題でも頻出。"
   },
   {
     "id": 66,
     "word": "separate",
     "meaning": "【形】分かれた、別々の　【動】分ける",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "My order arrived in two _____ shipments.",
+    "translation": "私の注文は2回の別々の配送で届いた。",
+    "remark": "副詞のseparately（別々に、別に）も重要。"
   },
   {
     "id": 67,
     "word": "celebration",
     "meaning": "【名】お祝い、祝典",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "the grand opening _____",
+    "translation": "グランドオープンのお祝い",
+    "remark": "【動】celebrate（祝う）　【形】celebrated（有名な）　【関】celebrity（有名人）　【類】desrivity/gala（祝祭）"
   },
   {
     "id": 68,
     "word": "concern",
     "meaning": "【名】心配、懸念、関心事",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "express _____",
+    "translation": "懸念を示す",
+    "remark": "形容詞のconcerned（心配して）も重要。"
   },
   {
     "id": 69,
     "word": "environment",
     "meaning": "【名】環境",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "work _____",
+    "translation": "職場環境",
+    "remark": "【形】environmental（環境の）　【副】environmentally（環境に）"
   },
   {
     "id": 70,
     "word": "operate",
     "meaning": "【動】操作する、運営する",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "_____ a machine safety",
+    "translation": "機会を安全に操作する",
+    "remark": "「（会社が）営業する」の意味でも出る。　【名】operation（運営、操作）　【関】operating costs（運営費）"
   },
   {
     "id": 71,
     "word": "various",
     "meaning": "【形】様々な",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "_____ design and patterns",
+    "translation": "様々なデザインや柄",
+    "remark": "【名】variety（種類、多様性）　【動】vary（異なる）　【関】variable（【形】変えられる　【名】変動要素）　【類】erratic（不規則な）"
   },
   {
     "id": 72,
     "word": "brief",
     "meaning": "【形】短い",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "a _____ report",
+    "translation": "短い報告書",
+    "remark": "「短時間の」の意味でも出る。　【副】briefly（手短に、少しの間）"
   },
   {
     "id": 73,
     "word": "full-time",
     "meaning": "【形】常勤の",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "_____ employees",
+    "translation": "常勤の社員",
+    "remark": "【反】part-time（パートタイムの）　【関】a permanent job（正社員職）"
   },
   {
     "id": 74,
     "word": "overall",
     "meaning": "【形】全体の　【副】全体として",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "the _____ budget",
+    "translation": "全体の予算",
+    "remark": "副詞でも出る。"
   },
   {
     "id": 75,
     "word": "achieve",
     "meaning": "【動】達成する",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "_____ a sales target",
+    "translation": "販売目標を達成する",
+    "remark": "【名】achevement（業績、達成）　【類】attain/meet a target（目標を達成する）"
   },
   {
     "id": 76,
     "word": "basis",
     "meaning": "【名】ベース、基準、根拠",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "pay on a monthly _____",
+    "translation": "月単位で支払う",
+    "remark": "「月ベースで」の意味。前置詞onとセットで押さえよう。　【関】on a daily/weekly/yearly basis（日/週/年単位で）"
   },
   {
     "id": 77,
     "word": "complex",
     "meaning": "【名】複合施設、集合住宅　【形】複雑な",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "a sports _____",
+    "translation": "スポーツの複合施設",
+    "remark": "「複雑な」の意味の形容詞でも出る。"
   },
   {
     "id": 78,
     "word": "delighted",
     "meaning": "【形】とても喜んでいる",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "We are _____ to see you.",
+    "translation": "お会いできてとてもうれしいです。",
+    "remark": "be delighted that SVの形も出題例あり。　【類】pleased（喜んで）　【関】delightful（人をとても喜ばせるような）"
   },
   {
     "id": 79,
     "word": "obtain",
     "meaning": "【動】得る、取得する",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "_____ information from the internet",
+    "translation": "インターネットから情報を得る",
+    "remark": "obtain A from B（AをBから得る）の形で頻出。"
   },
   {
     "id": 80,
     "word": "honor",
     "meaning": "【動】称える、（契約等を）守る　【名】名誉",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "_____ an employee",
+    "translation": "社員を称える",
+    "remark": "「（契約等を）守る」の意味も頻出。　【類】accolade（栄誉）"
   },
   {
     "id": 81,
     "word": "properly",
     "meaning": "【副】ちゃんと、適切に",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "_____ trained staff",
+    "translation": "きちんと訓練されたスタッフ",
+    "remark": "proper（適切な）　【反】inproperly（不適切に）"
   },
   {
     "id": 82,
     "word": "suitable",
     "meaning": "【形】相応しい、適切な",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "_____ for outdoor use",
+    "translation": "アウトドア用に適した",
+    "remark": "【副】suitably（適切に）　【名】suitrability（適正、ふさわしいこと）"
   },
   {
     "id": 83,
     "word": "electronic",
     "meaning": "【形】電子の、電子的な、オンラインの",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "personal _____ devices",
+    "translation": "個人用の電子機器",
+    "remark": "「オンラインの」の意味でも出る。　【副】electronically（電子的に、オンラインで）"
   },
   {
     "id": 84,
     "word": "finalize",
     "meaning": "【動】取りまとめる、仕上げる、最終決定する",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "_____ a contract",
+    "translation": "契約を取りまとめる",
+    "remark": "物事を最終的な形にすること。　【形】final（最終的な、最終の）　【副】finally（ついに、最終的に）"
   },
   {
     "id": 85,
     "word": "generous",
     "meaning": "【形】寛大な、気前の良い",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "a _____ donation to a charity",
+    "translation": "慈善団体への寛大な寄付",
+    "remark": "【副】generously（寛大に、気前よく）　【名】generousity（寛大さ、気前の良さ）"
   },
   {
     "id": 86,
     "word": "preparation",
     "meaning": "【名】準備、用意",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "in _____ for an event",
+    "translation": "イベントの準備のため",
+    "remark": "【形】preparatory（予備の、準備の）"
   },
   {
     "id": 87,
     "word": "duty",
     "meaning": "【名】任務、職務、関税",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "main _____s of a teacher",
+    "translation": "教師の主な任務",
+    "remark": "on duty（勤務中）も重要表現。　【類】responsibility（職務）"
   },
   {
     "id": 88,
     "word": "earn",
     "meaning": "【動】得る、もたらす",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "_____ the respect of people",
+    "translation": "人々の尊敬を得る",
+    "remark": "SVOOの形をとることも押さえよう。　【関】earnings（収入）"
   },
   {
     "id": 89,
     "word": "willing",
     "meaning": "【形】～することを嫌がらない、～する気がある",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "I am _____ to work overseas.",
+    "translation": "私は海外で働く意思がある。",
+    "remark": "自ら行うwill（意思）がある、という意味。　【名】willingness（意欲）"
   },
   {
     "id": 90,
     "word": "worth",
     "meaning": "【前】価値がある",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "The book is _____ reading.",
+    "translation": "その本は読む価値がある。",
+    "remark": "worth（価値がある）は頻出後。前置詞で後に名詞や動名詞が続く語法を押さえる。"
   },
   {
     "id": 91,
     "word": "fund",
     "meaning": "【動】資金を提供する　【名】資金、基金",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "a project _____ed by the government",
+    "translation": "政府に資金提供されているプロジェクト",
+    "remark": "名詞も頻出。　【関】funding（資金提供）"
   },
   {
     "id": 92,
     "word": "overnight",
     "meaning": "【形】一晩の、翌日配送の　【副】一晩",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "free _____ delivery",
+    "translation": "無料の翌日配送",
+    "remark": "副詞でも出る。"
   },
   {
     "id": 93,
     "word": "particularly",
     "meaning": "【副】特に",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "_____ interested in history",
+    "translation": "歴史に特に興味がある",
+    "remark": "【形】particular（特定の）　【類】especially（特に）　【関】in particular（特に）"
   },
   {
     "id": 94,
     "word": "aspect",
     "meaning": "【名】面、局面",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "every _____ of a project",
+    "translation": "プロジェクトのすべての面",
+    "remark": "同義語のfacet（面）も出題例があるので押さえよう。　【類】phase（段階）、factor（要素）"
   },
   {
     "id": 95,
     "word": "hesitate",
     "meaning": "【動】ためらう",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "Please do not _____ to contact us.",
+    "translation": "遠慮することなくご連絡ください。",
+    "remark": "同じ意味のPlease feel free to contact us.も重要表現。hisitateは自動詞で受け身にならないことも押さえておこう。　【形】hesitant（ためらって）"
   },
   {
     "id": 96,
     "word": "involved",
     "meaning": "【形】関わった",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "I was not _____ with the project.",
+    "translation": "私はそのプロジェクトに関わっていなかった。",
+    "remark": "【動】involve（含む、人を巻き込む）"
   },
   {
     "id": 97,
     "word": "regularly",
     "meaning": "【副】定期的に",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "a _____ updated list",
+    "translation": "定期的に更新されるリスト",
+    "remark": "形容詞のregular（通常の、定期的な）と合わせて覚えておこう。"
   },
   {
     "id": 98,
     "word": "scholarship",
     "meaning": "【名】奨学金",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "apply for a _____",
+    "translation": "奨学金を申請する",
+    "remark": "【類】grant（助成金、補助金）"
   },
   {
     "id": 99,
     "word": "shortly",
     "meaning": "【副】じきに、まもなく",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "The meeting will begin _____.",
+    "translation": "会議はじきに始まります。",
+    "remark": "shortly after/beforeの形を除き、単独では、通常、未来を表す時制で用いられることに注意。　【同】soon（もうすぐ）"
   },
   {
     "id": 100,
     "word": "automobile",
     "meaning": "【形】自動車の、自動車",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "_____ manufacturing",
+    "translation": "自動車製造",
+    "remark": "【同】automotive（自動車の）"
   }
 ]

@@ -11,7 +11,7 @@
     "id": 2,
     "word": "branch",
     "meaning": "【名】支店",
-    "example": "open a new ______",
+    "example": "open a new _____",
     "translation": "新しい支店をオープンする",
     "remark": "【関】branch manager(支店長)"
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "word": "paid",
     "meaning": "【形】有給の、支払い済みの",
-    "example": "______ leave",
+    "example": "_____ leave",
     "translation": "有給休暇",
     "remark": "【同】paid vacation / holidays"
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "word": "unfortunately",
     "meaning": "【副】残念なことに、残念ながら",
-    "example": "______ , there are some problems.",
+    "example": "_____, there are some problems.",
     "translation": "残念なことに、いくつか問題があります。",
     "remark": "【反】fortunately (幸運なことに)"
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "word": "original",
     "meaning": "【形】元の、最初の 【名】オリジナル、原本",
-    "example": "in ______ condition",
+    "example": "in _____ condition",
     "translation": "元の状態で",
     "remark": "【副】originally (もともと、最初に)【名】originality(独創性) "
   },
@@ -43,7 +43,7 @@
     "id": 6,
     "word": "rent",
     "meaning": "【名】家賃 【動】賃貸借する",
-    "example": "a ______ increase",
+    "example": "a _____ increase",
     "translation": "家賃の賃上げ",
     "remark": "【関】rental(レンタルの)"
   },
@@ -51,7 +51,7 @@
     "id": 7,
     "word": "memo",
     "meaning": "【名】社内文書",
-    "example": "write a ______",
+    "example": "write a _____",
     "translation": "社内文書を書く",
     "remark": ""
   },
@@ -59,7 +59,7 @@
     "id": 8,
     "word": "luggage",
     "meaning": "【名】旅行かばん",
-    "example": "shop for ______",
+    "example": "shop for _____",
     "translation": "旅行かばんを買い求める",
     "remark": "【同】baggage(旅行かばん、手荷物)"
   },
@@ -67,7 +67,7 @@
     "id": 9,
     "word": "editor",
     "meaning": "【名】編集者",
-    "example": "a newspaper ______",
+    "example": "a newspaper _____",
     "translation": "編集者",
     "remark": "【動】【名】edit(編集する、編集)【形】【名】editorial(編集の、社説)"
   },
@@ -75,7 +75,7 @@
     "id": 10,
     "word": "exhibition",
     "meaning": "【名】展示会、展示物、展示",
-    "example": "an art ______",
+    "example": "an art _____",
     "translation": "美術展",
     "remark": "【類】exposition(展示会)"
   },
@@ -83,7 +83,7 @@
     "id": 11,
     "word": "leading",
     "meaning": "【形】首位の、一流の",
-    "example": "a ______ company",
+    "example": "a _____ company",
     "translation": "トップの会社",
     "remark": "【類】foremost(ベストの) , top(トップの)"
   },
@@ -91,7 +91,7 @@
     "id": 12,
     "word": "organization",
     "meaning": "【名】団体、社会、組織（化）",
-    "example": "lead an ______",
+    "example": "lead an _____",
     "translation": "組織を率いる",
     "remark": "【形】organizational(組織化の)【動】organize(取りまとめる、組織化する)"
   },
@@ -99,7 +99,7 @@
     "id": 13,
     "word": "release",
     "meaning": "【動】発売する、公表する【動】発売",
-    "example": "______ a new album",
+    "example": "_____ a new album",
     "translation": "ニューアルバムを発売する",
     "remark": ""
   },
@@ -107,7 +107,7 @@
     "id": 14,
     "word": "limited",
     "meaning": "【形】限られた",
-    "example": "for a ______ time",
+    "example": "for a _____ time",
     "translation": "期間限定で",
     "remark": "【動】【名】limit(制限する、制限)【反】unlimited(無制限の)"
   },
@@ -115,7 +115,7 @@
     "id": 15,
     "word": "procedure",
     "meaning": "【形】経験豊富な",
-    "example": "a normal ______",
+    "example": "a normal _____",
     "translation": "通常の手続き",
     "remark": "【動】proceed(進む)【類】process(プロセス、過程)"
   },
@@ -123,7 +123,7 @@
     "id": 16,
     "word": "experienced",
     "meaning": "【名】社員、人事部",
-    "example": "an ______ engineer",
+    "example": "an _____ engineer",
     "translation": "経験豊かなエンジニア",
     "remark": "【反】inexperienced(経験不足の、未熟な)"
   },
@@ -131,7 +131,7 @@
     "id": 17,
     "word": "personnel",
     "meaning": "【名】社員、人事部",
-    "example": "all company ______",
+    "example": "all company _____",
     "translation": "全社員",
     "remark": ""
   },
@@ -139,7 +139,7 @@
     "id": 18,
     "word": "author",
     "meaning": "【名】著者、作者【動】（本を）書く",
-    "example": "the ______ of a popular book",
+    "example": "the _____ of a popular book",
     "translation": "人気本の著者",
     "remark": ""
   },
@@ -147,7 +147,7 @@
     "id": 19,
     "word": "benefit",
     "meaning": "【名】特典、福利厚生【動】〜のためになる",
-    "example": "employee ______s",
+    "example": "employee _____s",
     "translation": "従業員の福利厚生",
     "remark": ""
   },
@@ -155,7 +155,7 @@
     "id": 20,
     "word": "focus",
     "meaning": "【動】（意識等を）〜に集中させる、重点を置く【名】焦点、集中",
-    "example": "______ on one point",
+    "example": "_____ on one point",
     "translation": "1点に集中する",
     "remark": ""
   },
@@ -163,7 +163,7 @@
     "id": 21,
     "word": "participate",
     "meaning": "【動】参加する",
-    "example": "______ in the workshop",
+    "example": "_____ in the workshop",
     "translation": "セミナーに参加する",
     "remark": "【名】participation(参加)【関】participant(参加者)"
   },
@@ -171,7 +171,7 @@
     "id": 22,
     "word": "cause",
     "meaning": "【名】原因、大義【動】引き起こす",
-    "example": "the ______ of the problem",
+    "example": "the _____ of the problem",
     "translation": "問題の原因",
     "remark": ""
   },
@@ -179,7 +179,7 @@
     "id": 23,
     "word": "degree",
     "meaning": "【名】学位、程度（温度や角度の単位の）度",
-    "example": "a ______  in journalism",
+    "example": "a _____  in journalism",
     "translation": "ジャーナリズムの学位",
     "remark": ""
   },
@@ -187,7 +187,7 @@
     "id": 24,
     "word": "directly",
     "meaning": "【副】直接",
-    "example": "purchase ______  from a Web site",
+    "example": "purchase _____  from a Web site",
     "translation": "ウェブサイトから直接購入する",
     "remark": "【形】direct(直接の)【反】indirectly(間接的に)"
   },
@@ -195,7 +195,7 @@
     "id": 25,
     "word": "host",
     "meaning": "【名】司会者【動】主催する",
-    "example": "the ______  of a television show",
+    "example": "the _____  of a television show",
     "translation": "テレビ番組の司会者",
     "remark": ""
   },
@@ -203,7 +203,7 @@
     "id": 26,
     "word": "expert",
     "meaning": "【名】専門家【形】専門的な",
-    "example": "an ______  in the field",
+    "example": "an _____  in the field",
     "translation": "その分野の専門家",
     "remark": "【類】connoiseur(食べ物や芸術、音楽といった特定の分野の分野に詳しい目利き)"
   },
@@ -211,7 +211,7 @@
     "id": 27,
     "word": "impress",
     "meaning": "【動】感心させる、好印象を与える",
-    "example": "We were ______ed by your knowledge.",
+    "example": "We were _____ed by your knowledge.",
     "translation": "我々はあなたの知識に感心した。",
     "remark": "【形】impressive(主な)【名】impression(印象)"
   },
@@ -219,7 +219,7 @@
     "id": 28,
     "word": "mainly",
     "meaning": "【副】主に",
-    "example": "work ______ in the steel industry",
+    "example": "work _____ in the steel industry",
     "translation": "主に鉄道業界で働く",
     "remark": "【形】main(主な)【類】primarily / chiefly / largely(主に)"
   },
@@ -227,7 +227,7 @@
     "id": 29,
     "word": "suggestion",
     "meaning": "【名】提案",
-    "example": "make ______s",
+    "example": "make _____s",
     "translation": "提案を行う",
     "remark": "【類】proposal(提案), recommendation(推薦)"
   },
@@ -235,7 +235,7 @@
     "id": 30,
     "word": "supplier",
     "meaning": "【名】納入業者、供給業者",
-    "example": "relationships with ______s",
+    "example": "relationships with _____s",
     "translation": "納入業者との関係",
     "remark": "【類】vendor(業者、露天商)"
   },
@@ -243,7 +243,7 @@
     "id": 31,
     "word": "document",
     "meaning": "【名】書類【動】（文書や映像等で）記録する",
-    "example": "an important ______",
+    "example": "an important _____",
     "translation": "重要な書類",
     "remark": "【類】documentation(証明書類)"
   },
@@ -251,7 +251,7 @@
     "id": 32,
     "word": "remind",
     "meaning": "【動】再確認する、念押しする",
-    "example": "______ employees about the policy",
+    "example": "_____ employees about the policy",
     "translation": "従業員に規則に関して再確認する",
     "remark": ""
   },
@@ -259,7 +259,7 @@
     "id": 33,
     "word": "require",
     "meaning": "【動】求める、要求する",
-    "example": "Workers are ______d to wear uniform",
+    "example": "Workers are _____d to wear uniform",
     "translation": "作業員は制服の着用を求められます。",
     "remark": "【関】prerequisite(前提条件)"
   },
@@ -267,7 +267,7 @@
     "id": 34,
     "word": "representative",
     "meaning": "【名】担当者、代表者",
-    "example": "a sales ______",
+    "example": "a sales _____",
     "translation": "営業担当者",
     "remark": ""
   },
@@ -275,7 +275,7 @@
     "id": 35,
     "word": "packaging",
     "meaning": "【名】梱包、パッケージ",
-    "example": "the ______ area",
+    "example": "the _____ area",
     "translation": "梱包エリア",
     "remark": ""
   },
@@ -283,7 +283,7 @@
     "id": 36,
     "word": "descriptipn",
     "meaning": "【名】説明、記述、描写",
-    "example": "a job ______",
+    "example": "a job _____",
     "translation": "職務内容の説明",
     "remark": ""
   },
@@ -291,7 +291,7 @@
     "id": 37,
     "word": "property",
     "meaning": "【名】不動産、資産",
-    "example": "a ______ manager",
+    "example": "a _____ manager",
     "translation": "不動産の管理人",
     "remark": ""
   },
@@ -299,7 +299,7 @@
     "id": 38,
     "word": "extension",
     "meaning": "【名】内線、延長",
-    "example": "Call me at ______ 4649.",
+    "example": "Call me at _____ 4649.",
     "translation": "内線4649にお電話ください。",
     "remark": "※TOEICでは、「延長」の意味より「内線」の意味の方が頻出"
   },
@@ -307,7 +307,7 @@
     "id": 39,
     "word": "inquire",
     "meaning": "【動】尋ねる、問い合わせる",
-    "example": "______ about a job",
+    "example": "_____ about a job",
     "translation": "仕事について問い合わせる",
     "remark": ""
   },
@@ -315,7 +315,7 @@
     "id": 40,
     "word": "merchandise",
     "meaning": "【名】商品",
-    "example": "display ______",
+    "example": "display _____",
     "translation": "商品を陳列する",
     "remark": ""
   },
@@ -323,7 +323,7 @@
     "id": 41,
     "word": "highly",
     "meaning": "【副】非常に",
-    "example": "a ______ successful business",
+    "example": "a _____ successful business",
     "translation": "非常に成功しているビジネス",
     "remark": ""
   },
@@ -331,7 +331,7 @@
     "id": 42,
     "word": "result",
     "meaning": "【動】生じる、終わる【名】結果",
-    "example": "The campaign ______ed in success.",
+    "example": "The campaign _____ed in success.",
     "translation": "そのキャンペーンは成功という結果になった。",
     "remark": ""
   },
@@ -339,7 +339,7 @@
     "id": 43,
     "word": "assistance",
     "meaning": "【名】支援、援助",
-    "example": "Thank you for your ______.",
+    "example": "Thank you for your _____.",
     "translation": "ご支援ありがとうございます。",
     "remark": "【動】assist(助ける)【類】help(助ける)"
   },
@@ -347,7 +347,7 @@
     "id": 44,
     "word": "encourage",
     "meaning": "【動】奨励します、促す",
-    "example": "Employees are ______d to attend the event.",
+    "example": "Employees are _____d to attend the event.",
     "translation": "従業員がイベントに参加することを奨励します。",
     "remark": "【関】encouraging news(励みになるニュース)【反】discourage(やめさせる)"
   },
@@ -355,7 +355,7 @@
     "id": 45,
     "word": "individual",
     "meaning": "【名】個人【形】個人の、個別の",
-    "example": "each ______ in the company",
+    "example": "each _____ in the company",
     "translation": "会社の一人一人の個人",
     "remark": "【副】individually(個別に)"
   },
@@ -363,7 +363,7 @@
     "id": 46,
     "word": "laboratory",
     "meaning": "【名】研究所、実験室",
-    "example": "when entering the ______",
+    "example": "when entering the _____",
     "translation": "研究所に入る時",
     "remark": "【関】experiment(実験、実験する)"
   },
@@ -371,7 +371,7 @@
     "id": 47,
     "word": "consider",
     "meaning": "【動】考える、検討する",
-    "example": " ______ working in Japan",
+    "example": " _____ working in Japan",
     "translation": "日本での勤務を検討する",
     "remark": "【形】considerate(思いやりのある)【類】weigh(比較検討する)"
   },
@@ -379,7 +379,7 @@
     "id": 48,
     "word": "headquarters",
     "meaning": "【名】本社",
-    "example": "move the ______ to Boston",
+    "example": "move the _____ to Boston",
     "translation": "本社をボストンに移転する",
     "remark": ""
   },
@@ -387,7 +387,7 @@
     "id": 49,
     "word": "ship",
     "meaning": "【動】出荷する【名】船",
-    "example": "We are ready to ______ your order.",
+    "example": "We are ready to _____ your order.",
     "translation": "注文を出荷する準備ができました。",
     "remark": "【関】shipping date(配送日)"
   },
@@ -395,58 +395,408 @@
     "id": 50,
     "word": "commercial",
     "meaning": "【形】商業（用）の、商業的な【名】CM",
-    "example": " ______ buildings",
+    "example": " _____ buildings",
     "translation": "商業ビル",
     "remark": ""
   },
-  { "id": 51, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 52, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 53, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 54, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 55, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 56, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 57, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 58, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 59, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 60, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 61, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 62, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 63, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 64, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 65, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 66, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 67, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 68, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 69, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 70, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 71, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 72, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 73, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 74, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 75, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 76, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 77, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 78, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 79, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 80, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 81, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 82, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 83, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 84, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 85, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 86, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 87, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 88, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 89, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 90, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 91, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 92, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 93, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 94, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 95, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 96, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 97, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 98, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 99, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
-  { "id": 100, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" }
+  {
+    "id": 51,
+    "word": "device",
+    "meaning": "【名】機器、装置",
+    "example": "a medical _____",
+    "translation": "医療機器",
+    "remark": ""
+  },
+  {
+    "id": 52,
+    "word": "intended",
+    "meaning": "【形】意図された、向けられた",
+    "example": "For whom is the notice _____?",
+    "translation": "このお知らせは誰に向けられていますか。",
+    "remark": "【動】intend(意図する)【名】intention(意図)"
+  },
+  {
+    "id": 53,
+    "word": "brochure",
+    "meaning": "【名】パンフレット",
+    "example": "a product _____",
+    "translation": "製品パンフレット",
+    "remark": ""
+  },
+  {
+    "id": 54,
+    "word": "mail",
+    "meaning": "【名】郵便物、郵便配達　【動】郵送する",
+    "example": "by express _____",
+    "translation": "速達郵便で",
+    "remark": ""
+  },
+  {
+    "id": 55,
+    "word": "prefer",
+    "meaning": "【動】～を（…よりも）好む",
+    "example": "I _____ to work part-time.",
+    "translation": "私はパートタイムで働く方が好きです",
+    "remark": "【関】respondent(回答者)【類】reply(返事をする、返事)"
+  },
+  {
+    "id": 56,
+    "word": "response",
+    "meaning": "【名】返答、返事",
+    "example": "I'm writing in _____ to your letter.",
+    "translation": "お手紙へのご返事です。",
+    "remark": ""
+  },
+  {
+    "id": 57,
+    "word": "region",
+    "meaning": "【名】地域",
+    "example": "companies in the _____",
+    "translation": "その地域の会社",
+    "remark": ""
+  },
+  {
+    "id": 58,
+    "word": "donation",
+    "meaning": "【名】寄付",
+    "example": "_____s to a museum",
+    "translation": "ミュージアムへの寄付",
+    "remark": "【動】donate(寄付する)【関】donor(寄付者)【類】contribution(寄付、貢献)"
+  },
+  {
+    "id": 59,
+    "word": "quarter",
+    "meaning": "【名】四半期",
+    "example": "the third _____",
+    "translation": "第3四半期",
+    "remark": ""
+  },
+  {
+    "id": 60,
+    "word": "agreement",
+    "meaning": "【名】契約（書）、同意（書）、合意",
+    "example": "a rental _____",
+    "translation": "賃貸契約書",
+    "remark": "【動】agree(同意する)【形】agreeable(合意可能な、快適な)"
+  },
+  {
+    "id": 61,
+    "word": "journal",
+    "meaning": "【名】専門誌",
+    "example": "a scientific _____",
+    "translation": "科学の専門誌",
+    "remark": "【類】a trade magazine(業界誌)"
+  },
+  {
+    "id": 62,
+    "word": "distribute",
+    "meaning": "【動】配布する、流通させる",
+    "example": "_____ a document",
+    "translation": "書類を配布する",
+    "remark": "【名】distribution(配布、流通)【関】distributor(流通業者)"
+  },
+  {
+    "id": 63,
+    "word": "potential",
+    "meaning": "【形】見込みがある、潜在的な　【名】可能性",
+    "example": "_____ customers",
+    "translation": "見込み客",
+    "remark": ""
+  },
+  {
+    "id": 64,
+    "word": "reschedule",
+    "meaning": "【動】スケジュールを変更する",
+    "example": "_____ an appointment",
+    "translation": "アポを予定変更する",
+    "remark": ""
+  },
+  {
+    "id": 65,
+    "word": "renew",
+    "meaning": "【動】更新する",
+    "example": "_____ a contract",
+    "translation": "契約を更新する",
+    "remark": "【名】renewal(更新)"
+  },
+  {
+    "id": 66,
+    "word": "warehouse",
+    "meaning": "【名】倉庫",
+    "example": "ship from a _____",
+    "translation": "倉庫から出荷する",
+    "remark": ""
+  },
+  {
+    "id": 67,
+    "word": "refund",
+    "meaning": "【名】返金　【動】返金する",
+    "example": "a full _____",
+    "translation": "全額返金",
+    "remark": "【関】partial refund(部分返金)"
+  },
+  {
+    "id": 68,
+    "word": "advise",
+    "meaning": "【動】勧める、忠告する，助言する",
+    "example": "What are listeners _____d to do?",
+    "translation": "聞き手は何をするように勧められていますか。",
+    "remark": "【形】advisable(望ましい)"
+  },
+  {
+    "id": 69,
+    "word": "immediately",
+    "meaning": "【副】すぐに、即座に",
+    "example": "The tickets sold out _____.",
+    "translation": "チケットは即売れ切れた。",
+    "remark": "【形】immediate(すぐの、近い)"
+  },
+  {
+    "id": 70,
+    "word": "coucil",
+    "meaning": "【名】議会",
+    "example": "the city _____",
+    "translation": "市議会",
+    "remark": ""
+  },
+  {
+    "id": 71,
+    "word": "broadcast",
+    "meaning": "【動】放送する、放送",
+    "example": "The program is usually _____ on Saturdays.",
+    "translation": "その番組は通常土曜日に放送される。",
+    "remark": ""
+  },
+  {
+    "id": 72,
+    "word": "responsible",
+    "meaning": "【形】担当している、責任がある",
+    "example": "I am _____ for training employees.",
+    "translation": "私は従業員の研修を担当している。",
+    "remark": ""
+  },
+  {
+    "id": 73,
+    "word": "avoid",
+    "meaning": "【動】避ける",
+    "example": "_____ wasting time",
+    "translation": "時間の無駄遣いを避ける",
+    "remark": ""
+  },
+  {
+    "id": 74,
+    "word": "effective",
+    "meaning": "【形】効果的な",
+    "example": "_____ advertising campaigns",
+    "translation": "効果的な広告キャンペーン",
+    "remark": "【副】effectively(効果的に)【名】effect(効果)、effectiveness(有効性)"
+  },
+  {
+    "id": 75,
+    "word": "invitation",
+    "meaning": "【名】招待（状）",
+    "example": "receive an _____",
+    "translation": "招待状を受け取る",
+    "remark": ""
+  },
+  {
+    "id": 76,
+    "word": "reduce",
+    "meaning": "【動】（値段を）下げる、減らす",
+    "example": "_____ prices",
+    "translation": "値段を下げる",
+    "remark": "【名】reduction(削減)【関】reduced price(値下げ価格)【類】shorten(短縮する)"
+  },
+  {
+    "id": 77,
+    "word": "vehicle",
+    "meaning": "【名】乗り物、車両",
+    "example": "park a _____",
+    "translation": "乗り物を駐車する",
+    "remark": ""
+  },
+  {
+    "id": 78,
+    "word": "efficient",
+    "meaning": "【形】効率的な",
+    "example": "_____ use of energy",
+    "translation": "エネルギーの効果的な使用",
+    "remark": "【副】efficiently(効率的に)【名】efficiency(効率、効率性)【反】inefficient(非効率な)"
+  },
+  {
+    "id": 79,
+    "word": "manufacturer",
+    "meaning": "【名】メーカー、製造業者",
+    "example": "a car _____",
+    "translation": "自動車メーカー",
+    "remark": "【関】manufacture(【動】製造する【名】製造), manufacturing(製造、製造業)"
+  },
+  {
+    "id": 80,
+    "word": "comfortable",
+    "meaning": "【形】快適な、楽な、自信がある",
+    "example": "_____ rooms and friendly staff",
+    "translation": "快適な部屋とフレンドリーなスタッフ",
+    "remark": "【名】comfort(快適さ)【副】comfortably(快適に)【反】uncomfortable(不快な、落ち着かない)"
+  },
+  {
+    "id": 81,
+    "word": "correct",
+    "meaning": "【形】正確な、正しい　【動】修正する",
+    "example": "the _____ address",
+    "translation": "正しい住所",
+    "remark": "【副】correctly(正しく)【反】incorrect(不正確な)"
+  },
+  {
+    "id": 82,
+    "word": "downtown",
+    "meaning": "【形】中心街の　【副】中心街で　【名】中心街",
+    "example": "_____ restaurants",
+    "translation": "中心街のレストラン",
+    "remark": "【類】urban(都会の)"
+  },
+  {
+    "id": 83,
+    "word": "method",
+    "meaning": "【名】方法",
+    "example": "the _____ of payment",
+    "translation": "支払い方法",
+    "remark": "【類】means(手段、方法)【類】approach to sales(独自の販売手法)"
+  },
+  {
+    "id": 84,
+    "word": "entire",
+    "meaning": "【形】全体の",
+    "example": "the _____ staff",
+    "translation": "全スタッフ",
+    "remark": "【副】entirely(完全に)【名】entirety(全部)"
+  },
+  {
+    "id": 85,
+    "word": "range",
+    "meaning": "【名】範囲",
+    "example": "a wide _____ of services",
+    "translation": "広範囲のサービス",
+    "remark": "【類】extent(範囲)"
+  },
+  {
+    "id": 86,
+    "word": "setting",
+    "meaning": "【名】環境",
+    "example": "a hotel in a beautiful _____",
+    "translation": "美しい環境にあるホテル",
+    "remark": "【関】atmosphere(雰囲気)"
+  },
+  {
+    "id": 87,
+    "word": "apologize",
+    "meaning": "【動】お詫びする",
+    "example": "We _____ for the inconvenience.",
+    "translation": "ご不便をおかけしますことをおわびします。",
+    "remark": "【名】apology(おわび)"
+  },
+  {
+    "id": 88,
+    "word": "frequent",
+    "meaning": "【形】頻繁な",
+    "example": "_____ se of the Internet",
+    "translation": "インターネットの頻繁な使用",
+    "remark": "【副】frequently(頻繁に)【名】fuequency(頻度)【関】frequent customer(常連客)"
+  },
+  {
+    "id": 89,
+    "word": "promotion",
+    "meaning": "【名】昇進、販売促進",
+    "example": "Tex's _____ to sales manager",
+    "translation": "テックスの営業マネージャーへの昇進",
+    "remark": "【形】promotional(販促の)"
+  },
+  {
+    "id": 90,
+    "word": "regarding",
+    "meaning": "【前】～に関する",
+    "example": "_____ your order",
+    "translation": "あなたのご注文に関して",
+    "remark": "※同義語の前置詞concerning,in/with regard toも頻出"
+  },
+  {
+    "id": 91,
+    "word": "temporary",
+    "meaning": "【形】一時的な、臨時の",
+    "example": "_____ workers",
+    "translation": "臨時雇いの従業員",
+    "remark": "【副】temporarily(一時的に)【関】permanent staff(常連のフタッフ、正社員)"
+  },
+  {
+    "id": 92,
+    "word": "traditional",
+    "meaning": "【形】伝統的な、従来の",
+    "example": "_____ Italian dishes",
+    "translation": "伝統的なイタリア料理",
+    "remark": "【名】tradition(伝統)【類】conventional(従来型の、型にはまった)【関】heritage(伝統、遺産)"
+  },
+  {
+    "id": 93,
+    "word": "admission",
+    "meaning": "【名】入場、入場料、入場許可",
+    "example": "_____ is free for all mebers.",
+    "translation": "メンバーは入場料無料です。",
+    "remark": "【動】admit(認める)【関】general-admission seating(自由席、一般席)"
+  },
+  {
+    "id": 94,
+    "word": "fit",
+    "meaning": "【動】合う、入る",
+    "example": "The room can _____ 50 people.",
+    "translation": "その部屋には50人が入る。",
+    "remark": ""
+  },
+  {
+    "id": 95,
+    "word": "reference",
+    "meaning": "【名】照会先、照会、参照",
+    "example": "contact _____ ",
+    "translation": "照会先に連絡をとる",
+    "remark": ""
+  },
+  {
+    "id": 96,
+    "word": "status",
+    "meaning": "【名】状況、地位",
+    "example": "shipment _____",
+    "translation": "配送状況",
+    "remark": ""
+  },
+  {
+    "id": 97,
+    "word": "fuel",
+    "meaning": "【名】燃料",
+    "example": "_____ costs",
+    "translation": "燃料のコスト",
+    "remark": ""
+  },
+  {
+    "id": 98,
+    "word": "nearly",
+    "meaning": "【副】ほとんど、もう少しで",
+    "example": "_____ two years",
+    "translation": "2年近く",
+    "remark": "【同】almost(もう少しで)"
+  },
+  {
+    "id": 99,
+    "word": "cafeteria",
+    "meaning": "【名】社員食堂",
+    "example": "meet in the _____ for lunch",
+    "translation": "昼食のために社員食堂に集まる",
+    "remark": ""
+  },
+  {
+    "id": 100,
+    "word": "determine",
+    "meaning": "【動】決定する、判断する、決心する",
+    "example": "_____ how to sell the product",
+    "translation": "製品の売り方を決定する",
+    "remark": "【形】determined(断固とした)【名】determination(決意、決定、判断)【類】decide(決まる)、gauge(判断する)"
+  }
 ]
