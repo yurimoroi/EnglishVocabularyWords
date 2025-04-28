@@ -49,6 +49,8 @@ export default function JapaneseToEnglishPage() {
 
   const handleAnswer = (understood: boolean) => {
     // TODO: ここで理解度を保存する処理を追加
+    if (!understood) {
+    }
     setShowAnswer(true);
   };
 
