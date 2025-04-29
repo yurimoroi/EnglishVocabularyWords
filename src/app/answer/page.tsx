@@ -2,6 +2,9 @@
 
 import { useEffect, useState } from "react";
 import { useSearchParams, useRouter } from "next/navigation";
+import { doc, setDoc, getDoc, updateDoc } from "firebase/firestore";
+import { db } from "@/lib/firebase/firebase";
+import { useAuth } from "@/contexts/AuthContext";
 
 interface Question {
   id: number;
@@ -13,10 +16,12 @@ interface Question {
 }
 
 export default function AnswerPage() {
+  const { user } = useAuth();
+
   const searchParams = useSearchParams();
   const router = useRouter();
-  const type = searchParams.get("type");
-  const range = searchParams.get("range");
+  const type = searchParams.get("type") as string;
+  const range = searchParams.get("range") as string;
   const random = searchParams.get("random");
   const mode = searchParams.get("mode");
   const onlyWrong = searchParams.get("onlyWrong");
@@ -47,6 +52,22 @@ export default function AnswerPage() {
           processedQuestions = [...data].sort(() => Math.random() - 0.5);
         }
 
+        // 間違えた問題のみを表示する場合
+        if (onlyWrong === "true" && user) {
+          const userDocRef = doc(db, "results", user.uid);
+          const userDoc = await getDoc(userDocRef);
+
+          if (userDoc.exists()) {
+            const userData = userDoc.data();
+            if (userData[type] && userData[type][range]) {
+              const wrongQuestionIds = userData[type][range];
+              processedQuestions = processedQuestions.filter((question: Question) =>
+                wrongQuestionIds.includes(question.id)
+              );
+            }
+          }
+        }
+
         setQuestions(processedQuestions);
         setLoading(false);
       } catch (err) {
@@ -58,7 +79,7 @@ export default function AnswerPage() {
     if (type && range) {
       fetchQuestions();
     }
-  }, [type, range, random]);
+  }, [type, range, random, onlyWrong, user]);
 
   const handleAnswer = (understood: boolean) => {
     if (understood) {
@@ -74,6 +95,37 @@ export default function AnswerPage() {
     if (currentQuestionIndex < questions.length - 1) {
       setCurrentQuestionIndex(currentQuestionIndex + 1);
       setShowAnswer(false);
+    }
+  };
+
+  const handleSaveResult = async () => {
+    try {
+      if (user === null) return;
+
+      const userDocRef = doc(db, "results", user.uid);
+      const userDoc = await getDoc(userDocRef);
+
+      if (userDoc.exists()) {
+        // 既存のデータを取得
+        const existingData = userDoc.data();
+
+        // 同じtypeのrangeのみを更新
+        await updateDoc(userDocRef, {
+          [type]: {
+            ...existingData[type],
+            [range]: wrongQuestionIds,
+          },
+        });
+      } else {
+        // 新規登録
+        await setDoc(userDocRef, {
+          [type]: {
+            [range]: wrongQuestionIds,
+          },
+        });
+      }
+    } catch (error) {
+      console.error("誤った問題の保存に失敗しました:", error);
     }
   };
 
@@ -116,6 +168,8 @@ export default function AnswerPage() {
     } else {
       message = "もう一度復習してみましょう！";
     }
+
+    handleSaveResult();
 
     return (
       <div className="p-8 max-w-3xl mx-auto">
