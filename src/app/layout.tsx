@@ -7,8 +7,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "職員管理システム",
-  description: "保育園・幼稚園の職員管理システム",
+  title: "EVW",
+  description: "英単語を学習するサイトです",
 };
 
 export default function RootLayout({

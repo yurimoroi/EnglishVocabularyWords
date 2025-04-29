@@ -32,10 +32,16 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     const unsubscribe = onAuthStateChanged(auth, (user) => {
       setUser(user);
       setLoading(false);
+
+      const pathname = ["/login", "/signup"];
+
+      if (user === null && !pathname.includes(window.location.pathname)) {
+        router.push("/login");
+      }
     });
 
     return unsubscribe;
-  }, []);
+  }, [router]);
 
   const signIn = async (email: string, password: string) => {
     try {

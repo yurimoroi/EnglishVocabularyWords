@@ -7,6 +7,8 @@ export default function QuestionPage() {
   const router = useRouter();
   const [selectedType, setSelectedType] = useState("TOEIC");
   const [selectedDirection, setSelectedDirection] = useState("japaneseToEnglish");
+  const [isRandom, setIsRandom] = useState(false);
+  const [isOnlyWrong, setIsOnlyWrong] = useState(false);
 
   const buttonStyle =
     "bg-violet-500 hover:bg-violet-600 text-white font-medium py-4 px-6 rounded-lg transition-colors duration-200 shadow-md hover:shadow-lg hover:cursor-pointer";
@@ -25,12 +27,10 @@ export default function QuestionPage() {
     // セット名から数値範囲を抽出（例：'TOEIC 1-100' から '1-100'）
     const range = set.split(" ")[1];
 
-    // 選択された方向に基づいてパスを決定
-    const basePath =
-      selectedDirection === "englishToJapanese" ? "/englishToJapanese" : "/japaneseToEnglish";
-
     // クエリパラメータとしてタイプとファイル名を渡す
-    router.push(`${basePath}?type=${selectedType.toLowerCase()}&range=${range}`);
+    router.push(
+      `/answer?type=${selectedType.toLowerCase()}&range=${range}&mode=${selectedDirection}&random=${isRandom}&onlyWrong=${isOnlyWrong}`
+    );
   };
 
   const toeicSets = [
@@ -60,13 +60,6 @@ export default function QuestionPage() {
   return (
     <div className="p-8">
       <h1 className="text-gray-700 font-bold mb-6">問題を解いて、単語を覚えよう</h1>
-
-      {/* 過去の間違えた問題ボタン */}
-      <div className="mb-8">
-        <button className="w-full bg-red-500 hover:bg-red-600 text-white font-medium py-4 px-6 rounded-lg transition-colors duration-200 shadow-md hover:shadow-lg hover:cursor-pointer">
-          過去に間違えた問題を復習する
-        </button>
-      </div>
 
       {/* 問題の方向セレクター */}
       <div className="mb-6">
@@ -104,6 +97,28 @@ export default function QuestionPage() {
             </option>
           ))}
         </select>
+      </div>
+
+      {/* 出題設定 */}
+      <div className="mb-6 flex flex-col gap-4">
+        <label className="flex items-center space-x-2">
+          <input
+            type="checkbox"
+            checked={isRandom}
+            onChange={(e) => setIsRandom(e.target.checked)}
+            className="rounded border-gray-300 text-violet-600 focus:ring-violet-500"
+          />
+          <span className="text-sm text-gray-700">ランダムに出題する</span>
+        </label>
+        <label className="flex items-center space-x-2">
+          <input
+            type="checkbox"
+            checked={isOnlyWrong}
+            onChange={(e) => setIsOnlyWrong(e.target.checked)}
+            className="rounded border-gray-300 text-violet-600 focus:ring-violet-500"
+          />
+          <span className="text-sm text-gray-700">過去に間違えた問題のみ出題する</span>
+        </label>
       </div>
 
       {/* 問題セットのグリッド */}
