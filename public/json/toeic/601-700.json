@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "word": "observe",
+    "meaning": "【動】気づく、順守する、観察する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 2,
+    "word": "prossess",
+    "meaning": "【動】(財産、所有物として)持つ、所有する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 3,
+    "word": "sharply",
+    "meaning": "【副】急激に、はっきりと",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 4,
+    "word": "adjustment",
+    "meaning": "【名】調整、調節",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 5,
+    "word": "aisle",
+    "meaning": "【名】通路",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 6,
+    "word": "capture",
+    "meaning": "【動】(映像や写真に)記録する、とらえる",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 7,
+    "word": "consist",
+    "meaning": "【動】～から成る",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 8,
+    "word": "desirable",
+    "meaning": "【形】望ましい",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 9,
+    "word": "heavily",
+    "meaning": "【副】大量に、非常に頻繁に",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 10,
+    "word": "investigate",
+    "meaning": "【動】調査する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 11,
+    "word": "measurement",
+    "meaning": "【名】寸法、測定",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 12,
+    "word": "urgent",
+    "meaning": "【形】緊急の",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 13,
+    "word": "checkout",
+    "meaning": "【名】レジ、(ホテルの)チェックアウト",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 14,
+    "word": "dispose",
+    "meaning": "【動】処分する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 15,
+    "word": "modify",
+    "meaning": "【動】修正する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 16,
+    "word": "outlet",
+    "meaning": "【名】店舗、コンセント",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 17,
+    "word": "prescription",
+    "meaning": "【名】処方箋",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 18,
+    "word": "situated",
+    "meaning": "【形】位置している",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 19,
+    "word": "surprisingly",
+    "meaning": "【副】驚いたことに",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 20,
+    "word": "transform",
+    "meaning": "【動】(姿、形、性質等を)一変させる",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 21,
+    "word": "undergo",
+    "meaning": "【動】(検査、修理等を)経験する、受ける",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 22,
+    "word": "blueprint",
+    "meaning": "【名】設計図、青写真",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 23,
+    "word": "boost",
+    "meaning": "【動】押し上げる、引き上げる 【名】押し上げること",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 24,
+    "word": "considerably",
+    "meaning": "【副】かなり",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 25,
+    "word": "eliminate",
+    "meaning": "【動】取り除く、排除する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 26,
+    "word": "exclusively",
+    "meaning": "【副】限定で、独占的に",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 27,
+    "word": "leak",
+    "meaning": "【動】漏れる、漏らす 【名】漏れ",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 28,
+    "word": "preliminary",
+    "meaning": "【形】仮の、暫定の、本番前の",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 29,
+    "word": "sophosticated",
+    "meaning": "【形】洗練された、高性能の",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 30,
+    "word": "statistics",
+    "meaning": "【名】統計、統計学",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 31,
+    "word": "vacant",
+    "meaning": "【形】空の、空いた、欠員の",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 32,
+    "word": "evidence",
+    "meaning": "【名】証拠、証明",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 33,
+    "word": "excursion",
+    "meaning": "【名】お出かけ、小旅行",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 34,
+    "word": "influence",
+    "meaning": "【動】影響を与える 【名】影響",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 35,
+    "word": "ordinary",
+    "meaning": "【形】普通の、通常の",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 36,
+    "word": "reject",
+    "meaning": "【動】却下する、拒否する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 37,
+    "word": "tailor",
+    "meaning": "【動】(ニーズや目的に合うように)合わせる、調整する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 38,
+    "word": "assume",
+    "meaning": "【動】引き受ける、思い込む、仮定する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 39,
+    "word": "engagement",
+    "meaning": "【名】約束",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 40,
+    "word": "fame",
+    "meaning": "【名】名声",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 41,
+    "word": "modest",
+    "meaning": "【形】少しの、高価ではない、謙虚な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 42,
+    "word": "oatent",
+    "meaning": "【名】特許",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 43,
+    "word": "pursue",
+    "meaning": "【動】追及する、追い求める",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 44,
+    "word": "remote",
+    "meaning": "【形】人里離れた、可能性が低い",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 45,
+    "word": "reveal",
+    "meaning": "【動】明らかにする",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 46,
+    "word": "allowance",
+    "meaning": "【名】手当、小遣い、許容量",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 47,
+    "word": "crucial",
+    "meaning": "【形】非常に重要な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 48,
+    "word": "distinguished",
+    "meaning": "【形】際立って優れた、傑出した",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 49,
+    "word": "disturb",
+    "meaning": "【動】邪魔する、悩ませる",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 50,
+    "word": "fluent",
+    "meaning": "【形】流暢な、堪能な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 51,
+    "word": "fulfill",
+    "meaning": "【動】満たす、果たす",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 52,
+    "word": "objective",
+    "meaning": "【名】目的、目標",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 53,
+    "word": "restrict",
+    "meaning": "【動】制限する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 54,
+    "word": "steadily",
+    "meaning": "【副】着実に",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 55,
+    "word": "adequate",
+    "meaning": "【形】(需要を満たすのに)十分な、適切な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 56,
+    "word": "assessment",
+    "meaning": "【名】評価、見積もり",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 57,
+    "word": "attribute",
+    "meaning": "【動】起因すると考える、おかげであるとする",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 58,
+    "word": "beforehand",
+    "meaning": "【副】予め、事前に",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 59,
+    "word": "challenging",
+    "meaning": "【形】(困難だが)やりがいのある",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 60,
+    "word": "endeavor",
+    "meaning": "【名】努力、試み 【動】努力する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 61,
+    "word": "inspiring",
+    "meaning": "【形】やる気が出るような、活気づける",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 62,
+    "word": "remarkable",
+    "meaning": "【形】驚くべき、注目すべき",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 63,
+    "word": "measure",
+    "meaning": "【名】対策、手段 【動】測定する、評価する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 64,
+    "word": "struggle",
+    "meaning": "【動】奮闘する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 65,
+    "word": "wage",
+    "meaning": "【名】賃金",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 66,
+    "word": "adapt",
+    "meaning": "【動】適応する、適応させる、改作する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 67,
+    "word": "ambitious",
+    "meaning": "【形】意欲的な、野心的な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 68,
+    "word": "capable",
+    "meaning": "【形】能力がある",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 69,
+    "word": "consequence",
+    "meaning": "【名】(～が招いた)結果",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 70,
+    "word": "impose",
+    "meaning": "【動】課す、負わせる、強制する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 71,
+    "word": "latter",
+    "meaning": "【名】後者",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 72,
+    "word": "output",
+    "meaning": "【名】生産高、生産量",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 73,
+    "word": "proudly",
+    "meaning": "【副】誇らしげに、堂々と",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 74,
+    "word": "stable",
+    "meaning": "【形】安定した",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 75,
+    "word": "transition",
+    "meaning": "【名】移行、転身",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 76,
+    "word": "consent",
+    "meaning": "【名】合意",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 77,
+    "word": "dependable",
+    "meaning": "【形】信頼できる",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 78,
+    "word": "deligent",
+    "meaning": "【形】勤勉な、まじめな",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 79,
+    "word": "illustrate",
+    "meaning": "【動】(例や図を使って)説明する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 80,
+    "word": "independently",
+    "meaning": "【副】単独で、独立して",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 81,
+    "word": "mission",
+    "meaning": "【名】使命、ミッション",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 82,
+    "word": "moderate",
+    "meaning": "【形】ほどほどの、高度な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 83,
+    "word": "outlook",
+    "meaning": "【名】見通し、モノの見方",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 84,
+    "word": "precisely",
+    "meaning": "【副】正確に",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 85,
+    "word": "concentrated",
+    "meaning": "【形】集中的な、濃縮された",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 86,
+    "word": "ample",
+    "meaning": "【形】十分な、あり余るほどの",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 87,
+    "word": "asset",
+    "meaning": "【名】財産、役立つ人やモノ",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 88,
+    "word": "controversial",
+    "meaning": "【形】議論を引き起こす、議論の的になる",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 89,
+    "word": "disappointing",
+    "meaning": "【形】期待外れの、がっかりさせるような",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 90,
+    "word": "instrumental",
+    "meaning": "【形】重要な役割を果たす",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 91,
+    "word": "interruption",
+    "meaning": "【名】中断",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 92,
+    "word": "perspective",
+    "meaning": "【名】観点、見方、考え方",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 93,
+    "word": "scope",
+    "meaning": "【名】範囲、予知",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 94,
+    "word": "speculation",
+    "meaning": "【名】推測、推量",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 95,
+    "word": "supplement",
+    "meaning": "【動】補う 【名】付録、付記、栄養補助食品",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 96,
+    "word": "understaffed",
+    "meaning": "【形】人手不足の",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 97,
+    "word": "rarely",
+    "meaning": "【副】滅多に～しない、まれに",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 98,
+    "word": "caution",
+    "meaning": "【名】注意、警告 【動】注意する、警告する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 99,
+    "word": "legislation",
+    "meaning": "【名】法律、法制化",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 100,
+    "word": "logical",
+    "meaning": "【形】妥当な、論理的な、筋の通った",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  }
+]

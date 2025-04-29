@@ -47,18 +47,13 @@ export default function AnswerPage() {
         const data = await response.json();
         let processedQuestions = data;
 
-        // ランダム出題の場合、問題をシャッフル
-        if (random === "true") {
-          processedQuestions = [...data].sort(() => Math.random() - 0.5);
-        }
-
         // 間違えた問題のみを表示する場合
         if (onlyWrong === "true" && user) {
-          const userDocRef = doc(db, "results", user.uid);
-          const userDoc = await getDoc(userDocRef);
+          const resultDocRef = doc(db, "results", user.uid);
+          const resultDoc = await getDoc(resultDocRef);
 
-          if (userDoc.exists()) {
-            const userData = userDoc.data();
+          if (resultDoc.exists()) {
+            const userData = resultDoc.data();
             if (userData[type] && userData[type][range]) {
               const wrongQuestionIds = userData[type][range];
               processedQuestions = processedQuestions.filter((question: Question) =>
@@ -66,6 +61,11 @@ export default function AnswerPage() {
               );
             }
           }
+        }
+
+        // ランダム出題の場合、問題をシャッフル
+        if (random === "true") {
+          processedQuestions = [...data].sort(() => Math.random() - 0.5);
         }
 
         setQuestions(processedQuestions);
@@ -233,13 +233,23 @@ export default function AnswerPage() {
               <h2 className="text-base sm:text-lg font-bold text-gray-700 mb-2">意味</h2>
               <p className="text-lg sm:text-xl text-violet-600 mb-4">{currentQuestion.meaning}</p>
 
-              <h2 className="text-base sm:text-lg font-bold text-gray-700 mb-2">例文</h2>
-              <p className="text-sm sm:text-base text-gray-600 mb-2">{currentQuestion.example}</p>
+              {currentQuestion.example && (
+                <>
+                  <h2 className="text-base sm:text-lg font-bold text-gray-700 mb-2">例文</h2>
+                  <p className="text-sm sm:text-base text-gray-600 mb-2">
+                    {currentQuestion.example}
+                  </p>
+                </>
+              )}
 
-              <h2 className="text-base sm:text-lg font-bold text-gray-700 mb-2">訳</h2>
-              <p className="text-sm sm:text-base text-gray-600 mb-2">
-                {currentQuestion.translation}
-              </p>
+              {currentQuestion.translation && (
+                <>
+                  <h2 className="text-base sm:text-lg font-bold text-gray-700 mb-2">訳</h2>
+                  <p className="text-sm sm:text-base text-gray-600 mb-2">
+                    {currentQuestion.translation}
+                  </p>
+                </>
+              )}
             </>
           ) : (
             <>
@@ -282,12 +292,16 @@ export default function AnswerPage() {
                     {currentQuestion.meaning}
                   </p>
 
-                  <h3 className="font-bold text-gray-700 mb-2 text-sm sm:text-base">
-                    Example Meaning:
-                  </h3>
-                  <p className="text-sm sm:text-base text-gray-600 mb-4">
-                    {currentQuestion.translation}
-                  </p>
+                  {currentQuestion.translation && (
+                    <>
+                      <h3 className="font-bold text-gray-700 mb-2 text-sm sm:text-base">
+                        Example Meaning:
+                      </h3>
+                      <p className="text-sm sm:text-base text-gray-600 mb-4">
+                        {currentQuestion.translation}
+                      </p>
+                    </>
+                  )}
                 </>
               )}
               {currentQuestion.remark && (
