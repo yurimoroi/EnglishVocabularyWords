@@ -26,7 +26,7 @@ export function ClientLayout({ children }: ClientLayoutProps) {
           isSidebarOpen ? "lg:pl-64" : "pl-0"
         }`}
       >
-        <div className="px-4 py-6">{children}</div>
+        <div className="px-4 py-4">{children}</div>
       </main>
     </div>
   );
