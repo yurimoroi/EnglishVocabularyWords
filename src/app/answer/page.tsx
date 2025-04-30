@@ -151,6 +151,26 @@ export default function AnswerPage() {
     return (
       <div className="p-8">
         <div className="text-center text-gray-600">問題が見つかりませんでした。</div>
+        <div className="flex justify-center mt-4">
+          <button
+            onClick={() => router.push("/question")}
+            className="text-gray-600 hover:text-gray-800 flex items-center cursor-pointer"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              className="h-4 w-4 mr-1"
+              viewBox="0 0 20 20"
+              fill="currentColor"
+            >
+              <path
+                fillRule="evenodd"
+                d="M9.707 16.707a1 1 0 01-1.414 0l-6-6a1 1 0 010-1.414l6-6a1 1 0 011.414 1.414L5.414 9H17a1 1 0 110 2H5.414l4.293 4.293a1 1 0 010 1.414z"
+                clipRule="evenodd"
+              />
+            </svg>
+            問題選択に戻る
+          </button>
+        </div>
       </div>
     );
   }
@@ -203,11 +223,11 @@ export default function AnswerPage() {
             router.push("/question");
           }
         }}
-        className="mb-2 text-gray-600 hover:text-gray-800 flex items-center"
+        className="mb-2 text-xs text-gray-600 hover:text-gray-800 flex items-center cursor-pointer"
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"
-          className="h-5 w-5 mr-1"
+          className="h-3 w-3 mr-1"
           viewBox="0 0 20 20"
           fill="currentColor"
         >
@@ -231,31 +251,31 @@ export default function AnswerPage() {
           {mode === "japaneseToEnglish" ? (
             <>
               <h2 className="text-xs font-bold text-gray-700 mb-1">意味</h2>
-              <p className="text-sm text-violet-600">{currentQuestion.meaning}</p>
+              <p className="text-xs text-violet-600">{currentQuestion.meaning}</p>
 
               {currentQuestion.example && (
                 <>
                   <h2 className="text-xs font-bold text-gray-700 mt-3 mb-1">例文</h2>
-                  <p className="text-sm text-gray-600">{currentQuestion.example}</p>
+                  <p className="text-xs text-gray-600">{currentQuestion.example}</p>
                 </>
               )}
 
               {currentQuestion.translation && (
                 <>
-                  <h2 className="text-xs font-bold text-gray-700 mt-3 mb-1">訳</h2>
-                  <p className="text-sm text-gray-600">{currentQuestion.translation}</p>
+                  <h2 className="text-xs font-bold text-gray-700 mt-3 mb-1">日本語訳</h2>
+                  <p className="text-xs text-gray-600">{currentQuestion.translation}</p>
                 </>
               )}
             </>
           ) : (
             <>
               <h2 className="text-xs font-bold text-gray-700 mb-1">Word</h2>
-              <p className="text-sm text-violet-600">{currentQuestion.word}</p>
+              <p className="text-xs text-violet-600">{currentQuestion.word}</p>
 
               {currentQuestion.example && (
                 <>
                   <h2 className="text-xs font-bold text-gray-700 mt-3 mb-1">Example</h2>
-                  <p className="text-sm text-gray-600">{currentQuestion.example}</p>
+                  <p className="text-xs text-gray-600">{currentQuestion.example}</p>
                 </>
               )}
             </>
@@ -282,27 +302,27 @@ export default function AnswerPage() {
             <div className="mb-4 p-4 bg-gray-50 rounded-lg">
               {mode === "japaneseToEnglish" ? (
                 <>
-                  <h3 className="font-bold text-gray-700 mb-1 text-sm">単語:</h3>
-                  <p className="text-sm text-gray-600">{currentQuestion.word}</p>
+                  <h3 className="font-bold text-gray-700 mb-1 text-xs">単語:</h3>
+                  <p className="text-xs text-gray-600">{currentQuestion.word}</p>
                 </>
               ) : (
                 <>
-                  <h3 className="font-bold text-gray-700 mb-1 text-sm">Meaning:</h3>
-                  <p className="text-sm text-gray-600">{currentQuestion.meaning}</p>
+                  <h3 className="font-bold text-gray-700 mb-1 text-xs">Meaning:</h3>
+                  <p className="text-xs text-gray-600">{currentQuestion.meaning}</p>
 
                   {currentQuestion.translation && (
                     <>
-                      <h3 className="font-bold text-gray-700 mt-3 mb-1 text-sm">
+                      <h3 className="font-bold text-gray-700 mt-3 mb-1 text-xs">
                         Example Meaning:
                       </h3>
-                      <p className="text-sm text-gray-600">{currentQuestion.translation}</p>
+                      <p className="text-xs text-gray-600">{currentQuestion.translation}</p>
                     </>
                   )}
                 </>
               )}
               {currentQuestion.remark && (
                 <>
-                  <h3 className="font-bold text-gray-700 mt-3 mb-1 text-sm">
+                  <h3 className="font-bold text-gray-700 mt-3 mb-1 text-xs">
                     {mode === "japaneseToEnglish" ? "備考:" : "Remark:"}
                   </h3>
                   <p className="text-xs text-gray-600">{currentQuestion.remark}</p>

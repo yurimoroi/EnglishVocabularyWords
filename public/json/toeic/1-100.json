@@ -10,22 +10,22 @@
   {
     "id": 2,
     "word": "following",
-    "meaning": "【前】～に続いて　【形】次の、以下の",
+    "meaning": "【前】～に続いて 【形】次の、以下の",
     "example": "_____ the speech, we had dinner.",
     "translation": "スピーチに続いて、夕食をとった。",
-    "remark": "【動】follow（従う）　【関】be followed by X（Xが後に続く）"
+    "remark": "【動】follow(従う) 【関】be followed by X(Xが後に続く)"
   },
   {
     "id": 3,
     "word": "refer",
-    "meaning": "【動】参照する、言及する、（人を）紹介する",
+    "meaning": "【動】参照する、言及する、(人を)紹介する",
     "example": "Please _____ to the map.",
     "translation": "地図を参照してください。",
     "remark": ""
   },
   {
     "id": 4,
-    "word": "available",
+    "word": "avairable",
     "meaning": "【形】入手できる、利用できる、購入できる、手が空いている",
     "example": "Tickets are _____ online.",
     "translation": "",
@@ -58,7 +58,7 @@
   {
     "id": 8,
     "word": "likely",
-    "meaning": "【副】おそらく　【形】～しそうだ",
+    "meaning": "【副】おそらく 【形】～しそうだ",
     "example": "Who most _____ is the woman?",
     "translation": "",
     "remark": ""
@@ -66,7 +66,7 @@
   {
     "id": 9,
     "word": "offer",
-    "meaning": "【動】申し出る、提供する　【名】申し出、オファー",
+    "meaning": "【動】申し出る、提供する 【名】申し出、オファー",
     "example": "What does the man _____ to do?",
     "translation": "",
     "remark": ""
@@ -90,7 +90,7 @@
   {
     "id": 12,
     "word": "local",
-    "meaning": "【形】地元の　【名】地元の人",
+    "meaning": "【形】地元の 【名】地元の人",
     "example": "_____ businesses",
     "translation": "",
     "remark": ""
@@ -98,7 +98,7 @@
   {
     "id": 13,
     "word": "purchase",
-    "meaning": "【動】購入する　【名】購入品",
+    "meaning": "【動】購入する 【名】購入品",
     "example": "_____ tickets",
     "translation": "",
     "remark": ""
@@ -122,7 +122,7 @@
   {
     "id": 16,
     "word": "tour",
-    "meaning": "【動】見学する、旅行する　【名】見学、旅行",
+    "meaning": "【動】見学する、旅行する 【名】見学、旅行",
     "example": "while _____ing the factory",
     "translation": "",
     "remark": ""
@@ -130,7 +130,7 @@
   {
     "id": 17,
     "word": "research",
-    "meaning": "【名】研究、調査　【動】研究する、調査する",
+    "meaning": "【名】研究、調査 【動】研究する、調査する",
     "example": "market _____",
     "translation": "",
     "remark": ""
@@ -146,7 +146,7 @@
   {
     "id": 19,
     "word": "delivery",
-    "meaning": "【名】配達（物）",
+    "meaning": "【名】配達(物)",
     "example": "change a _____ date",
     "translation": "",
     "remark": ""
@@ -186,7 +186,7 @@
   {
     "id": 24,
     "word": "survey",
-    "meaning": "【名】アンケート調査　【動】アンケート調査を行う",
+    "meaning": "【名】アンケート調査 【動】アンケート調査を行う",
     "example": "a customer _____",
     "translation": "",
     "remark": ""
@@ -194,7 +194,7 @@
   {
     "id": 25,
     "word": "review",
-    "meaning": "【動】検討する、論評する　【名】検討、論評",
+    "meaning": "【動】検討する、論評する 【名】検討、論評",
     "example": "_____ a report",
     "translation": "",
     "remark": ""
@@ -218,7 +218,7 @@
   {
     "id": 28,
     "word": "detail",
-    "meaning": "【名】詳細　【動】詳しく調べる",
+    "meaning": "【名】詳細 【動】詳しく調べる",
     "example": "_____s of a plan",
     "translation": "",
     "remark": ""
@@ -234,7 +234,7 @@
   {
     "id": 30,
     "word": "repair",
-    "meaning": "【名】修理　【動】修理する",
+    "meaning": "【名】修理 【動】修理する",
     "example": "a computer _____ shop",
     "translation": "",
     "remark": ""
@@ -242,7 +242,7 @@
   {
     "id": 31,
     "word": "increase",
-    "meaning": "【名】増加　【動】増える、増やす",
+    "meaning": "【名】増加 【動】増える、増やす",
     "example": "an _____ in sales",
     "translation": "",
     "remark": ""
@@ -266,7 +266,7 @@
   {
     "id": 34,
     "word": "advertising",
-    "meaning": "【名】広告（業）、宣伝（活動）",
+    "meaning": "【名】広告(業)、宣伝(活動)",
     "example": "an _____ campaign",
     "translation": "",
     "remark": ""
@@ -274,7 +274,7 @@
   {
     "id": 35,
     "word": "charge",
-    "meaning": "【動】請求する　【名】料金、責任",
+    "meaning": "【動】請求する 【名】料金、責任",
     "example": "We _____ $50 for the service.",
     "translation": "",
     "remark": ""
@@ -330,7 +330,7 @@
   {
     "id": 42,
     "word": "budget",
-    "meaning": "【名】予算　【動】予算に計上する",
+    "meaning": "【名】予算 【動】予算に計上する",
     "example": "this year's _____",
     "translation": "",
     "remark": ""
@@ -346,7 +346,7 @@
   {
     "id": 44,
     "word": "contract",
-    "meaning": "【名】契約（書）",
+    "meaning": "【名】契約(書)",
     "example": "before signing a _____",
     "translation": "",
     "remark": ""
@@ -354,7 +354,7 @@
   {
     "id": 45,
     "word": "management",
-    "meaning": "【名】経営（陣）、管理",
+    "meaning": "【名】経営(陣)、管理",
     "example": "a _____ seminar",
     "translation": "",
     "remark": ""
@@ -386,7 +386,7 @@
   {
     "id": 49,
     "word": "award",
-    "meaning": "【名】賞　【動】授与する",
+    "meaning": "【名】賞 【動】授与する",
     "example": "_____s ceremony",
     "translation": "",
     "remark": ""
@@ -402,7 +402,7 @@
   {
     "id": 51,
     "word": "display",
-    "meaning": "【名】展示　【動】展示する",
+    "meaning": "【名】展示 【動】展示する",
     "example": "products on _____",
     "translation": "",
     "remark": ""
@@ -426,7 +426,7 @@
   {
     "id": 54,
     "word": "exhibit",
-    "meaning": "【名】展示物、展示会　【動】展示する",
+    "meaning": "【名】展示物、展示会 【動】展示する",
     "example": "a museum _____",
     "translation": "",
     "remark": ""
@@ -442,7 +442,7 @@
   {
     "id": 56,
     "word": "note",
-    "meaning": "【動】注意する、述べる　【名】メモ",
+    "meaning": "【動】注意する、述べる 【名】メモ",
     "example": "Please _____ that prices may change.",
     "translation": "",
     "remark": ""
@@ -450,7 +450,7 @@
   {
     "id": 57,
     "word": "process",
-    "meaning": "【動】処理する　【名】プロセス、過程、処理",
+    "meaning": "【動】処理する 【名】プロセス、過程、処理",
     "example": "_____ an order",
     "translation": "",
     "remark": ""
@@ -466,7 +466,7 @@
   {
     "id": 59,
     "word": "menbership",
-    "meaning": "【名】会員（であること）、会員資格、会員数",
+    "meaning": "【名】会員(であること)、会員資格、会員数",
     "example": "sign up for _____",
     "translation": "",
     "remark": ""
@@ -498,7 +498,7 @@
   {
     "id": 63,
     "word": "advance",
-    "meaning": "【形】先行した、事前の　【名】進歩、前進",
+    "meaning": "【形】先行した、事前の 【名】進歩、前進",
     "example": "_____ notice",
     "translation": "",
     "remark": ""
@@ -594,7 +594,7 @@
   {
     "id": 75,
     "word": "executive",
-    "meaning": "【名】重役　【形】重役（用）の、高級な",
+    "meaning": "【名】重役 【形】重役(用)の、高級な",
     "example": "a company _____",
     "translation": "",
     "remark": ""
@@ -626,7 +626,7 @@
   {
     "id": 79,
     "word": "supply",
-    "meaning": "【名】必需品　【動】供給する",
+    "meaning": "【名】必需品 【動】供給する",
     "example": "office _____s",
     "translation": "",
     "remark": ""
@@ -650,7 +650,7 @@
   {
     "id": 82,
     "word": "register",
-    "meaning": "【動】登録する　【名】レジ",
+    "meaning": "【動】登録する 【名】レジ",
     "example": "_____ for employee training",
     "translation": "",
     "remark": ""
@@ -666,7 +666,7 @@
   {
     "id": 84,
     "word": "bill",
-    "meaning": "【名】請求書　【動】請求書を送る",
+    "meaning": "【名】請求書 【動】請求書を送る",
     "example": "receive a _____",
     "translation": "",
     "remark": ""
@@ -738,7 +738,7 @@
   {
     "id": 93,
     "word": "reserve",
-    "meaning": "【動】予約する、確保する　【名】蓄え",
+    "meaning": "【動】予約する、確保する 【名】蓄え",
     "example": "_____ a room at a hotel",
     "translation": "",
     "remark": ""
@@ -778,7 +778,7 @@
   {
     "id": 98,
     "word": "mention",
-    "meaning": "【動】述べる、言及する　【名】言及",
+    "meaning": "【動】述べる、言及する 【名】言及",
     "example": "What problem does the man _____?",
     "translation": "",
     "remark": ""

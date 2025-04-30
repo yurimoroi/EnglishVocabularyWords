@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "word": "deposit",
+    "meaning": "【名】頭金、敷金、保証金【動】預ける",
+    "example": "a security _____",
+    "translation": "安全保証金",
+    "remark": ""
+  },
+  {
+    "id": 2,
+    "word": "contain",
+    "meaning": "【動】含む、所有する",
+    "example": "",
+    "translation": "その本には役立つ情報が含まれている",
+    "remark": ""
+  },
+  {
+    "id": 3,
+    "word": "content",
+    "meaning": "【名】内容、中身【形】満足している",
+    "example": "",
+    "translation": "その本の内容",
+    "remark": ""
+  },
+  {
+    "id": 4,
+    "word": "proof",
+    "meaning": "【名】証拠、証明",
+    "example": "",
+    "translation": "購入の証明",
+    "remark": ""
+  },
+  {
+    "id": 5,
+    "word": "affect",
+    "meaning": "【動】影響する",
+    "example": "",
+    "translation": "値段に影響する",
+    "remark": ""
+  },
+  {
+    "id": 6,
+    "word": "recognize",
+    "meaning": "【動】(業績等を)認める、(人を)称える、識別する",
+    "example": "",
+    "translation": "当社の製品は品質の高さで認められています。",
+    "remark": ""
+  },
+  {
+    "id": 7,
+    "word": "represent",
+    "meaning": "【動】代表を務める、担当する、表す",
+    "example": "",
+    "translation": "会社の代表を務める",
+    "remark": ""
+  },
+  {
+    "id": 8,
+    "word": "transfer",
+    "meaning": "【動】転勤させる(する)移動させる(する)【動】転勤、移動",
+    "example": "",
+    "translation": "テックスはアラスカに転勤になった。",
+    "remark": ""
+  },
+  {
+    "id": 9,
+    "word": "transfer",
+    "meaning": "【名】〜周年、記念日",
+    "example": "",
+    "translation": "20周年を祝う",
+    "remark": ""
+  },
+  {
+    "id": 10,
+    "word": "anniversary",
+    "meaning": "【副】自動的に",
+    "example": "",
+    "translation": "その機会は自動的に電源が切れます。",
+    "remark": ""
+  },
+  {
+    "id": 11,
+    "word": "capacity",
+    "meaning": "【名】(生産)能力、収納能力、役割",
+    "example": "",
+    "translation": "生産能力",
+    "remark": ""
+  },
+  {
+    "id": 12,
+    "word": "destination",
+    "meaning": "【名】目的地、行き先",
+    "example": "",
+    "translation": "旅行の目的地",
+    "remark": ""
+  },
+  {
+    "id": 13,
+    "word": "grant",
+    "meaning": "【名】補助金、助成金【動】与える、許可する",
+    "example": "",
+    "translation": "補助金を得る",
+    "remark": ""
+  },
+  {
+    "id": 14,
+    "word": "publish",
+    "meaning": "【動】出版する",
+    "example": "",
+    "translation": "雑誌を出版する",
+    "remark": ""
+  },
+  {
+    "id": 15,
+    "word": "accompany",
+    "meaning": "【動】添付する、同行する",
+    "example": "",
+    "translation": "その本にはCDが付いてきます。",
+    "remark": ""
+  },
+  {
+    "id": 16,
+    "word": "economic",
+    "meaning": "【形】経済の、経済上の",
+    "example": "",
+    "translation": "経済成長",
+    "remark": ""
+  },
+  {
+    "id": 17,
+    "word": "extremely",
+    "meaning": "【副】きわめて、非常に",
+    "example": "",
+    "translation": "非常に丁寧にチェックする",
+    "remark": ""
+  },
+  {
+    "id": 18,
+    "word": "institution",
+    "meaning": "【名】期間、団体、しきたり",
+    "example": "",
+    "translation": "金融機関",
+    "remark": ""
+  },
+  {
+    "id": 19,
+    "word": "accurate",
+    "meaning": "【形】正確な",
+    "example": "",
+    "translation": "正確な売り上げの数字",
+    "remark": ""
+  },
+  {
+    "id": 20,
+    "word": "compete",
+    "meaning": "【動】競う",
+    "example": "",
+    "translation": "大会社と競う",
+    "remark": ""
+  },
+  {
+    "id": 21,
+    "word": "emphasize",
+    "meaning": "【動】強調する",
+    "example": "",
+    "translation": "ポイントを強調する",
+    "remark": ""
+  },
+  {
+    "id": 22,
+    "word": "aware",
+    "meaning": "【形】気づいて",
+    "example": "",
+    "translation": "私は問題に気づいていた。",
+    "remark": ""
+  },
+  {
+    "id": 23,
+    "word": "crowded",
+    "meaning": "【形】混雑した",
+    "example": "",
+    "translation": "街は旅行客で混雑している",
+    "remark": ""
+  },
+  {
+    "id": 24,
+    "word": "praise",
+    "meaning": "【動】褒める【名】称賛",
+    "example": "",
+    "translation": "そのチームはCEOに褒められた。",
+    "remark": ""
+  },
+  {
+    "id": 25,
+    "word": "valuable",
+    "meaning": "【形】貴重な",
+    "example": "",
+    "translation": "チームの貴重な新戦力",
+    "remark": ""
+  },
+  {
+    "id": 26,
+    "word": "explore",
+    "meaning": "【動】調査する、探索する",
+    "example": "",
+    "translation": "可能性を探る",
+    "remark": ""
+  },
+  {
+    "id": 27,
+    "word": "found",
+    "meaning": "【動】設立する、創立する",
+    "example": "",
+    "translation": "会社を設立する",
+    "remark": ""
+  },
+  {
+    "id": 28,
+    "word": "function",
+    "meaning": "【名】機能【動】機能する",
+    "example": "",
+    "translation": "基本機能",
+    "remark": ""
+  },
+  {
+    "id": 29,
+    "word": "impact",
+    "meaning": "【名】影響する",
+    "example": "",
+    "translation": "環境にネガティブな影響を及ぼす",
+    "remark": ""
+  },
+  {
+    "id": 30,
+    "word": "amazing",
+    "meaning": "【形】驚くべき",
+    "example": "",
+    "translation": "驚くべき成功",
+    "remark": ""
+  },
+  {
+    "id": 31,
+    "word": "assure",
+    "meaning": "【動】保証する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 32,
+    "word": "cooperation",
+    "meaning": "【名】協力",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 33,
+    "word": "popularity",
+    "meaning": "【名】人気",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 34,
+    "word": "permit",
+    "meaning": "【名】許可証【動】許可する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 35,
+    "word": "solve",
+    "meaning": "【動】解決する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 36,
+    "word": "vote",
+    "meaning": "【動】投票する【名】投票",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 37,
+    "word": "crop",
+    "meaning": "【名】作物、収穫量",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 38,
+    "word": "neighborhood",
+    "meaning": "【名】近所、地域",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 39,
+    "word": "permanent",
+    "meaning": "【形】常設の、常雇用の、永久の",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 40,
+    "word": "regret",
+    "meaning": "【動】残念に思う",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 41,
+    "word": "slightly",
+    "meaning": "【副】わずかに、少し",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 42,
+    "word": "complicated",
+    "meaning": "【形】複雑な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 43,
+    "word": "factor",
+    "meaning": "【名】要因、要素",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 44,
+    "word": "favorable",
+    "meaning": "【形】好意的な、有利な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 45,
+    "word": "guarantee",
+    "meaning": "【動】保証する【名】保証",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 46,
+    "word": "mechanical",
+    "meaning": "【形】機械の",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 47,
+    "word": "priority",
+    "meaning": "【名】優先順位、優先事項",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 48,
+    "word": "relatively",
+    "meaning": "【副】比較的",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 49,
+    "word": "resource",
+    "meaning": "【名】資源",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 50,
+    "word": "shuttle",
+    "meaning": "【名】定期往復便",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 51,
+    "word": "slightly",
+    "meaning": "【動】分ける",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 52,
+    "word": "complicated",
+    "meaning": "【形】出身の【名】出身の人",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 53,
+    "word": "factor",
+    "meaning": "【動】〜する余裕がある",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 54,
+    "word": "favorable",
+    "meaning": "【名】収入",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 55,
+    "word": "guarantee",
+    "meaning": "【動】起こる、発生する、行われる",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 56,
+    "word": "mechanical",
+    "meaning": "【名】値引き、貯蓄、節約",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 57,
+    "word": "priority",
+    "meaning": "【名】(研究・調査の)結果、わかったこと",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 58,
+    "word": "relatively",
+    "meaning": "【動】見つける",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 59,
+    "word": "resource",
+    "meaning": "【動】延期する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 60,
+    "word": "shuttle",
+    "meaning": "【動】保護する、保存する【名】保護区",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 61,
+    "word": "divide",
+    "meaning": "【動】わかる、判明する、保証する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 62,
+    "word": "native",
+    "meaning": "【形】正確な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 63,
+    "word": "afford",
+    "meaning": "【動】得る【名】増加、利益",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 64,
+    "word": "income",
+    "meaning": "【名】労力、労働者",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 65,
+    "word": "occur",
+    "meaning": "【動】みなす、評価する【名】点",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 66,
+    "word": "saving",
+    "meaning": "【副】密に、注意深く",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 67,
+    "word": "findings",
+    "meaning": "【動】値する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 68,
+    "word": "locate",
+    "meaning": "【動】特定する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 69,
+    "word": "postpone",
+    "meaning": "【形】忠実な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 70,
+    "word": "preserve",
+    "meaning": "【形】有望な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 71,
+    "word": "prove",
+    "meaning": "【動】強調する【名】ストレス",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 72,
+    "word": "exact",
+    "meaning": "【動】分析する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 73,
+    "word": "gain",
+    "meaning": "【動】委託する、委任する【名】委員会、歩合",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 74,
+    "word": "labor",
+    "meaning": "【形】熱心に取り組む、献身的な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 75,
+    "word": "regard",
+    "meaning": "【名】比較",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 76,
+    "word": "closely",
+    "meaning": "【名】商品",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 77,
+    "word": "deserve",
+    "meaning": "【動】可能にする",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 78,
+    "word": "identify",
+    "meaning": "【形】楽しい",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 79,
+    "word": "loyal",
+    "meaning": "【形】従来の、既存の",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 80,
+    "word": "promising",
+    "meaning": "【名】チラシ、(飛行機の)乗客",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 81,
+    "word": "stress",
+    "meaning": "【動】進む",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 82,
+    "word": "analyze",
+    "meaning": "【動】防ぐ",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 83,
+    "word": "commission",
+    "meaning": "【副】同様に【形】よく似た",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 84,
+    "word": "committed",
+    "meaning": "【動】指名する、任命する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 85,
+    "word": "comparison",
+    "meaning": "【名】接続、つながり",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 86,
+    "word": "component",
+    "meaning": "【形】〜したがる、熱望する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 87,
+    "word": "enable",
+    "meaning": "【名】容易さ、たやすさ【動】やわらげる、容易にする",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 88,
+    "word": "fairly",
+    "meaning": "【副】かなり",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 89,
+    "word": "enjoyable",
+    "meaning": "【副】完全に、間違いなく",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 90,
+    "word": "existing",
+    "meaning": "【名】雰囲気",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 91,
+    "word": "flyer",
+    "meaning": "【動】計算する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 92,
+    "word": "contrast",
+    "meaning": "【名】対照、はっきりした間違い【動】対照的である",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 93,
+    "word": "monitor",
+    "meaning": "【動】監視する【名】( コンピューターの)モニター",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 94,
+    "word": "occasionally",
+    "meaning": "【副】時々",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 95,
+    "word": "practical",
+    "meaning": "【形】実務の、実際の",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 96,
+    "word": "serious",
+    "meaning": "【形】重大な、真剣な、重要な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 97,
+    "word": "strength",
+    "meaning": "【名】強さ、強度",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 98,
+    "word": "equally",
+    "meaning": "【副】同じように、均等に",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 99,
+    "word": "import",
+    "meaning": "【名】輸入、輸入品【動】輸入する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 100,
+    "word": "informal",
+    "meaning": "【形】非公式の、カジュアルな",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  }
+]
