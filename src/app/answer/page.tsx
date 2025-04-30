@@ -215,7 +215,7 @@ export default function AnswerPage() {
   const currentQuestion = questions[currentQuestionIndex];
 
   return (
-    <div className="px-8 py-2 max-w-3xl mx-auto">
+    <div className="px-8 lg:px-50 py-4 bg-gray-50 h-screen overflow-hidden">
       {/* 戻るボタン */}
       <button
         onClick={() => {
@@ -246,8 +246,8 @@ export default function AnswerPage() {
       </div>
 
       {/* 問題カード */}
-      <div className="bg-white rounded-lg shadow-lg p-6 mb-6">
-        <div className="mb-2">
+      <div className="bg-white rounded-lg shadow-lg p-6 mb-6 h-100 h-[calc(100vh-6rem)]-sm flex flex-col">
+        <div className="flex-1 overflow-y-auto">
           {mode === "japaneseToEnglish" ? (
             <>
               <h2 className="text-xs font-bold text-gray-700 mb-1">意味</h2>
@@ -280,26 +280,9 @@ export default function AnswerPage() {
               )}
             </>
           )}
-        </div>
 
-        {!showAnswer ? (
-          <div className="grid grid-cols-2 gap-4 mt-4">
-            <button
-              onClick={() => handleAnswer(true)}
-              className="bg-green-500 hover:bg-green-600 text-white text-center font-medium py-4 px-3 rounded-lg transition-colors duration-200 shadow-md hover:shadow-lg text-xs sm:text-sm whitespace-nowrap"
-            >
-              {mode === "japaneseToEnglish" ? "わかった" : "I got it"}
-            </button>
-            <button
-              onClick={() => handleAnswer(false)}
-              className="bg-red-500 hover:bg-red-600 text-white text-center font-medium py-4 px-3 rounded-lg transition-colors duration-200 shadow-md hover:shadow-lg text-xs sm:text-sm whitespace-nowrap"
-            >
-              {mode === "japaneseToEnglish" ? "わからなかった" : "I don't know"}
-            </button>
-          </div>
-        ) : (
-          <div>
-            <div className="mb-4 p-4 bg-gray-50 rounded-lg">
+          {showAnswer && (
+            <div className="mt-4 p-4 bg-gray-50 rounded-lg">
               {mode === "japaneseToEnglish" ? (
                 <>
                   <h3 className="font-bold text-gray-700 mb-1 text-xs">単語:</h3>
@@ -329,17 +312,36 @@ export default function AnswerPage() {
                 </>
               )}
             </div>
+          )}
+        </div>
 
-            {currentQuestionIndex < questions.length - 1 && (
+        <div className="mt-4">
+          {!showAnswer ? (
+            <div className="grid grid-cols-2 gap-4">
+              <button
+                onClick={() => handleAnswer(true)}
+                className="bg-green-500 hover:bg-green-600 text-white text-center font-medium py-4 px-3 rounded-lg transition-colors duration-200 shadow-md hover:shadow-lg text-xs sm:text-sm whitespace-nowrap"
+              >
+                {mode === "japaneseToEnglish" ? "わかった" : "I got it"}
+              </button>
+              <button
+                onClick={() => handleAnswer(false)}
+                className="bg-red-500 hover:bg-red-600 text-white text-center font-medium py-4 px-3 rounded-lg transition-colors duration-200 shadow-md hover:shadow-lg text-xs sm:text-sm whitespace-nowrap"
+              >
+                {mode === "japaneseToEnglish" ? "わからなかった" : "I don't know"}
+              </button>
+            </div>
+          ) : (
+            currentQuestionIndex < questions.length - 1 && (
               <button
                 onClick={handleNext}
                 className="w-full bg-violet-500 hover:bg-violet-600 text-white text-center font-medium py-4 px-3 rounded-lg transition-colors duration-200 shadow-md hover:shadow-lg text-xs sm:text-sm whitespace-nowrap"
               >
                 {mode === "japaneseToEnglish" ? "次の問題へ" : "Next Question"}
               </button>
-            )}
-          </div>
-        )}
+            )
+          )}
+        </div>
       </div>
     </div>
   );
