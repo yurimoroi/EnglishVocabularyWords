@@ -34,6 +34,47 @@ export default function AnswerPage() {
   const [error, setError] = useState<string | null>(null);
   const [wrongQuestionIds, setWrongQuestionIds] = useState<number[]>([]);
   const [correctAnswers, setCorrectAnswers] = useState(0);
+  const [audio, setAudio] = useState<HTMLAudioElement | null>(null);
+
+  const speakText = async (text: string) => {
+    try {
+      const response = await fetch(
+        `https://texttospeech.googleapis.com/v1/text:synthesize?key=${process.env.NEXT_PUBLIC_GOOGLE_TTS_API_KEY}`,
+        {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({
+            input: { text },
+            voice: { languageCode: "en-US", ssmlGender: "NEUTRAL" },
+            audioConfig: { audioEncoding: "MP3" },
+          }),
+        }
+      );
+
+      const data = await response.json();
+      const audioContent = data.audioContent;
+      const audioBlob = new Blob([Uint8Array.from(atob(audioContent), (c) => c.charCodeAt(0))], {
+        type: "audio/mp3",
+      });
+      const audioUrl = URL.createObjectURL(audioBlob);
+      const newAudio = new Audio(audioUrl);
+      setAudio(newAudio);
+      newAudio.play();
+    } catch (error) {
+      console.error("音声合成に失敗しました:", error);
+    }
+  };
+
+  useEffect(() => {
+    return () => {
+      if (audio) {
+        audio.pause();
+        URL.revokeObjectURL(audio.src);
+      }
+    };
+  }, [audio]);
 
   useEffect(() => {
     const fetchQuestions = async () => {
@@ -286,7 +327,26 @@ export default function AnswerPage() {
             </>
           ) : (
             <>
-              <h2 className="text-xs font-bold text-gray-700 mb-1">Word</h2>
+              <div className="flex items-center gap-2 mb-1">
+                <h2 className="text-xs font-bold text-gray-700">Word</h2>
+                <button
+                  onClick={() => speakText(currentQuestion.word)}
+                  className="text-xs text-gray-500 hover:text-gray-700"
+                >
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    className="h-4 w-4"
+                    viewBox="0 0 20 20"
+                    fill="currentColor"
+                  >
+                    <path
+                      fillRule="evenodd"
+                      d="M9.383 3.076A1 1 0 0110 4v12a1 1 0 01-1.707.707L4.586 13H2a1 1 0 01-1-1V8a1 1 0 011-1h2.586l3.707-3.707a1 1 0 011.09-.217zM14.657 2.929a1 1 0 011.414 0A9.972 9.972 0 0119 10a9.972 9.972 0 01-2.929 7.071 1 1 0 01-1.414-1.414A7.971 7.971 0 0017 10c0-2.21-.894-4.208-2.343-5.657a1 1 0 010-1.414zm-2.829 2.828a1 1 0 011.415 0A5.983 5.983 0 0115 10a5.984 5.984 0 01-1.757 4.243 1 1 0 01-1.415-1.415A3.984 3.984 0 0013 10a3.983 3.983 0 00-1.172-2.828 1 1 0 010-1.415z"
+                      clipRule="evenodd"
+                    />
+                  </svg>
+                </button>
+              </div>
               <p className="text-xs text-violet-600">{currentQuestion.word}</p>
 
               {currentQuestion.example && (
@@ -302,7 +362,26 @@ export default function AnswerPage() {
             <div className="mt-4 p-4 bg-gray-50 rounded-lg">
               {mode === "japaneseToEnglish" ? (
                 <>
-                  <h3 className="font-bold text-gray-700 mb-1 text-xs">単語:</h3>
+                  <div className="flex items-center gap-2 mb-1">
+                    <h3 className="font-bold text-gray-700 text-xs">単語:</h3>
+                    <button
+                      onClick={() => speakText(currentQuestion.word)}
+                      className="text-xs text-gray-500 hover:text-gray-700"
+                    >
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        className="h-4 w-4"
+                        viewBox="0 0 20 20"
+                        fill="currentColor"
+                      >
+                        <path
+                          fillRule="evenodd"
+                          d="M9.383 3.076A1 1 0 0110 4v12a1 1 0 01-1.707.707L4.586 13H2a1 1 0 01-1-1V8a1 1 0 011-1h2.586l3.707-3.707a1 1 0 011.09-.217zM14.657 2.929a1 1 0 011.414 0A9.972 9.972 0 0119 10a9.972 9.972 0 01-2.929 7.071 1 1 0 01-1.414-1.414A7.971 7.971 0 0017 10c0-2.21-.894-4.208-2.343-5.657a1 1 0 010-1.414zm-2.829 2.828a1 1 0 011.415 0A5.983 5.983 0 0115 10a5.984 5.984 0 01-1.757 4.243 1 1 0 01-1.415-1.415A3.984 3.984 0 0013 10a3.983 3.983 0 00-1.172-2.828 1 1 0 010-1.415z"
+                          clipRule="evenodd"
+                        />
+                      </svg>
+                    </button>
+                  </div>
                   <p className="text-xs text-gray-600">{currentQuestion.word}</p>
                 </>
               ) : (
