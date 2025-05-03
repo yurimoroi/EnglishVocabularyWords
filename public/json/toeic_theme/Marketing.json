@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1,
+    "word": "advertising",
+    "meaning": "広告",
+    "example": "_____ helps increase brand awareness.",
+    "translation": "広告はブランドの認知度を高めるのに役立ちます。",
+    "remark": ""
+  },
+  {
+    "id": 2,
+    "word": "advertisement",
+    "meaning": "広告（具体的な広告物）",
+    "example": "I saw an interesting _____ on TV.",
+    "translation": "テレビで面白い広告を見ました。",
+    "remark": ""
+  },
+  {
+    "id": 3,
+    "word": "brand",
+    "meaning": "ブランド",
+    "example": "This company is known for its luxury _____.",
+    "translation": "この会社は高級ブランドで知られています。",
+    "remark": ""
+  },
+  {
+    "id": 4,
+    "word": "competition",
+    "meaning": "競争",
+    "example": "There is strong _____ in the smartphone market.",
+    "translation": "スマートフォン市場では競争が激しいです。",
+    "remark": ""
+  },
+  {
+    "id": 5,
+    "word": "conpetitor",
+    "meaning": "競合相手",
+    "example": "We must analyze our main _____.",
+    "translation": "主な競合相手を分析する必要があります。",
+    "remark": ""
+  },
+  {
+    "id": 6,
+    "word": "customer satisfaction",
+    "meaning": "顧客満足",
+    "example": "_____ is our top priority.",
+    "translation": "顧客満足が私たちの最優先事項です。",
+    "remark": ""
+  },
+  {
+    "id": 7,
+    "word": "demand",
+    "meaning": "需要",
+    "example": "There is a high _____ for electric vehicles.",
+    "translation": "電気自動車への需要が高まっています。",
+    "remark": ""
+  },
+  {
+    "id": 8,
+    "word": "distribution",
+    "meaning": "流通",
+    "example": "The company improved its _____ network.",
+    "translation": "その会社は流通ネットワークを改善しました。",
+    "remark": ""
+  },
+  {
+    "id": 9,
+    "word": "innovation",
+    "meaning": "革新",
+    "example": "_____ drives business growth.",
+    "translation": "革新がビジネスの成長を促進します。",
+    "remark": ""
+  },
+  {
+    "id": 10,
+    "word": "management",
+    "meaning": "経営",
+    "example": "Good _____ is key to success.",
+    "translation": "優れた経営が成功の鍵です。",
+    "remark": ""
+  },
+  {
+    "id": 11,
+    "word": "marketer",
+    "meaning": "マーケティング担当者",
+    "example": "A skilled _____ understands customer needs.",
+    "translation": "優秀なマーケターは顧客のニーズを理解しています。",
+    "remark": ""
+  },
+  {
+    "id": 12,
+    "word": "objectives",
+    "meaning": "目標",
+    "example": "We need clear _____ for our campaign.",
+    "translation": "私たちのキャンペーンには明確な目標が必要です。",
+    "remark": ""
+  },
+  {
+    "id": 13,
+    "word": "product",
+    "meaning": "製品",
+    "example": "The company launched a new _____.",
+    "translation": "その会社は新製品を発売しました。",
+    "remark": ""
+  },
+  {
+    "id": 14,
+    "word": "profit",
+    "meaning": "利益",
+    "example": "The company reported a _____ this quarter.",
+    "translation": "その会社は今四半期の利益を報告しました。",
+    "remark": ""
+  },
+  {
+    "id": 15,
+    "word": "promotion",
+    "meaning": "販促",
+    "example": "They are running a _____ to boost sales.",
+    "translation": "売上を伸ばすために販促を行っています。",
+    "remark": ""
+  },
+  {
+    "id": 16,
+    "word": "purchase",
+    "meaning": "購入",
+    "example": "Customers can _____ items online.",
+    "translation": "顧客は商品をオンラインで購入できます。",
+    "remark": ""
+  },
+  {
+    "id": 17,
+    "word": "resources",
+    "meaning": "資源",
+    "example": "The project needs more human _____.",
+    "translation": "そのプロジェクトにはもっと人材が必要です。",
+    "remark": ""
+  },
+  {
+    "id": 18,
+    "word": "revenue",
+    "meaning": "収益",
+    "example": "The company's _____ increased last year.",
+    "translation": "昨年、その会社の収益は増加しました。",
+    "remark": ""
+  },
+  {
+    "id": 19,
+    "word": "sales force",
+    "meaning": "営業部隊",
+    "example": "The _____ met all their targets.",
+    "translation": "営業部隊はすべての目標を達成しました。",
+    "remark": ""
+  },
+  {
+    "id": 20,
+    "word": "strategy",
+    "meaning": "戦略",
+    "example": "Our marketing _____ focuses on social media.",
+    "translation": "私たちのマーケティング戦略はソーシャルメディアに重点を置いています。",
+    "remark": ""
+  },
+  {
+    "id": 21,
+    "word": "suppler",
+    "meaning": "供給業者",
+    "example": "We are looking for a new _____.",
+    "translation": "新しい供給業者を探しています。",
+    "remark": ""
+  },
+  {
+    "id": 22,
+    "word": "supply",
+    "meaning": "供給",
+    "example": "The _____ of materials is limited.",
+    "translation": "材料の供給が限られています。",
+    "remark": ""
+  },
+  {
+    "id": 23,
+    "word": "target market",
+    "meaning": "ターゲット市場",
+    "example": "We identified young adults as our _____.",
+    "translation": "私たちは若年層をターゲット市場として特定しました。",
+    "remark": ""
+  }
+]

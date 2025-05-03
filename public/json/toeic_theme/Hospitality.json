@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "word": "bartender",
+    "meaning": "バーテンダー",
+    "example": "The _____ made a perfect cocktail.",
+    "translation": "バーテンダーが完璧なカクテルを作りました。",
+    "remark": ""
+  },
+  {
+    "id": 2,
+    "word": "beverages",
+    "meaning": "飲み物",
+    "example": "The hotel offers complimentary _____.",
+    "translation": "ホテルでは無料の飲み物が提供されます。",
+    "remark": ""
+  },
+  {
+    "id": 3,
+    "word": "catering",
+    "meaning": "仕出し、ケータリング",
+    "example": "The event included professional _____ services.",
+    "translation": "イベントにはプロのケータリングサービスが含まれていました。",
+    "remark": ""
+  },
+  {
+    "id": 4,
+    "word": "cocktail lounge",
+    "meaning": "カクテルラウンジ",
+    "example": "We relaxed in the hotel’s _____.",
+    "translation": "ホテルのカクテルラウンジでくつろぎました。",
+    "remark": ""
+  },
+  {
+    "id": 5,
+    "word": "complimentary",
+    "meaning": "無料の",
+    "example": "_____ breakfast is served every morning.",
+    "translation": "毎朝、無料の朝食が提供されます。",
+    "remark": ""
+  },
+  {
+    "id": 6,
+    "word": "conference",
+    "meaning": "会議",
+    "example": "The _____ will be held in the main hall.",
+    "translation": "会議はメインホールで開催されます。",
+    "remark": ""
+  },
+  {
+    "id": 7,
+    "word": "customer service",
+    "meaning": "顧客サービス",
+    "example": "Good _____ is essential in hospitality.",
+    "translation": "良い顧客サービスはホスピタリティに不可欠です。",
+    "remark": ""
+  },
+  {
+    "id": 8,
+    "word": "entertainment",
+    "meaning": "娯楽",
+    "example": "Live _____ is available every weekend.",
+    "translation": "毎週末、ライブの娯楽が楽しめます。",
+    "remark": ""
+  },
+  {
+    "id": 9,
+    "word": "food hygiene",
+    "meaning": "食品衛生",
+    "example": "_____ is strictly monitored in the kitchen.",
+    "translation": "キッチンでは食品衛生が厳しく管理されています。",
+    "remark": ""
+  },
+  {
+    "id": 10,
+    "word": "front desk",
+    "meaning": "フロント",
+    "example": "Please ask the _____ for assistance.",
+    "translation": "ご用の際はフロントにお尋ねください。",
+    "remark": ""
+  },
+  {
+    "id": 11,
+    "word": "head chef",
+    "meaning": "料理長",
+    "example": "The _____ designed a new menu.",
+    "translation": "料理長が新しいメニューを考案しました。",
+    "remark": ""
+  },
+  {
+    "id": 12,
+    "word": "housekeeper",
+    "meaning": "清掃係",
+    "example": "The _____ cleaned the room thoroughly.",
+    "translation": "清掃係が部屋を徹底的に掃除しました。",
+    "remark": ""
+  },
+  {
+    "id": 13,
+    "word": "landlord",
+    "meaning": "家主",
+    "example": "The _____ is responsible for maintenance.",
+    "translation": "家主はメンテナンスの責任があります。",
+    "remark": ""
+  },
+  {
+    "id": 14,
+    "word": "(hotel) lobby",
+    "meaning": "（ホテルの）ロビー",
+    "example": "Guests gathered in the _____.",
+    "translation": "宿泊客はホテルのロビーに集まりました。",
+    "remark": ""
+  },
+  {
+    "id": 15,
+    "word": "porter",
+    "meaning": "ポーター",
+    "example": "The _____ carried our luggage to the room.",
+    "translation": "ポーターが荷物を部屋まで運んでくれました。",
+    "remark": ""
+  },
+  {
+    "id": 16,
+    "word": "premises",
+    "meaning": "敷地、施設",
+    "example": "No smoking is allowed on the _____.",
+    "translation": "敷地内は禁煙です。",
+    "remark": ""
+  },
+  {
+    "id": 17,
+    "word": "reception",
+    "meaning": "受付",
+    "example": "You can check in at the _____.",
+    "translation": "受付でチェックインできます。",
+    "remark": ""
+  },
+  {
+    "id": 18,
+    "word": "receptionist",
+    "meaning": "受付係",
+    "example": "The _____ greeted us warmly.",
+    "translation": "受付係が温かく迎えてくれました。",
+    "remark": ""
+  },
+  {
+    "id": 19,
+    "word": "reservation",
+    "meaning": "予約",
+    "example": "I made a _____ for two nights.",
+    "translation": "2泊の予約をしました。",
+    "remark": ""
+  },
+  {
+    "id": 20,
+    "word": "seasonal work",
+    "meaning": "季節労働",
+    "example": "He found _____ at a ski resort.",
+    "translation": "彼はスキー場で季節労働の仕事を見つけました。",
+    "remark": ""
+  },
+  {
+    "id": 21,
+    "word": "serve",
+    "meaning": "提供する",
+    "example": "They _____ dinner until 10 p.m.",
+    "translation": "午後10時まで夕食が提供されます。",
+    "remark": ""
+  },
+  {
+    "id": 22,
+    "word": "snacks",
+    "meaning": "軽食",
+    "example": "_____ are available at the bar.",
+    "translation": "バーでは軽食が利用できます。",
+    "remark": ""
+  },
+  {
+    "id": 23,
+    "word": "take an order",
+    "meaning": "注文を取る",
+    "example": "The waiter came to _____.",
+    "translation": "ウェイターが注文を取りに来ました。",
+    "remark": ""
+  },
+  {
+    "id": 24,
+    "word": "welcoming",
+    "meaning": "歓迎する",
+    "example": "The staff were very _____.",
+    "translation": "スタッフはとても歓迎してくれました。",
+    "remark": ""
+  }
+]

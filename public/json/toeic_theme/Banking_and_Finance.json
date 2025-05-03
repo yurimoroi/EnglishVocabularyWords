@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "word": "accounting",
+    "meaning": "会計",
+    "example": "She works in the _____ department.",
+    "translation": "彼女は会計部門で働いています。",
+    "remark": ""
+  },
+  {
+    "id": 2,
+    "word": "balance",
+    "meaning": "残高",
+    "example": "Your current _____ is $500.",
+    "translation": "あなたの現在の残高は500ドルです。",
+    "remark": ""
+  },
+  {
+    "id": 3,
+    "word": "bureau de change",
+    "meaning": "窓口",
+    "example": "We exchanged money at the _____ in the airport.",
+    "translation": "空港の両替窓口でお金を両替しました。",
+    "remark": ""
+  },
+  {
+    "id": 4,
+    "word": "cash",
+    "meaning": "現金",
+    "example": "I paid the bill in _____.",
+    "translation": "請求書を現金で支払いました。",
+    "remark": ""
+  },
+  {
+    "id": 5,
+    "word": "checking account",
+    "meaning": "当座預金口座",
+    "example": "He opened a _____ at the bank.",
+    "translation": "彼は銀行に当座預金口座を開設しました。",
+    "remark": ""
+  },
+  {
+    "id": 6,
+    "word": "clerk",
+    "meaning": "店員",
+    "example": "The _____ helped me open a bank account.",
+    "translation": "店員が銀行口座の開設を手伝ってくれました。",
+    "remark": ""
+  },
+  {
+    "id": 7,
+    "word": "currency",
+    "meaning": "通貨",
+    "example": "They accept multiple _____ies at that store.",
+    "translation": "その店では複数の通貨が使えます。",
+    "remark": ""
+  },
+  {
+    "id": 8,
+    "word": "debit card",
+    "meaning": "デビットカード",
+    "example": "I used my _____ to pay for groceries.",
+    "translation": "食料品の支払いにデビットカードを使いました。",
+    "remark": ""
+  },
+  {
+    "id": 9,
+    "word": "denomination",
+    "meaning": "通貨の呼称単位を切り下げること",
+    "example": "The government changed the currency _____.",
+    "translation": "政府は通貨の呼称単位を変更しました。",
+    "remark": ""
+  },
+  {
+    "id": 10,
+    "word": "deposit",
+    "meaning": "入金",
+    "example": "I made a $200 _____ into my savings account.",
+    "translation": "普通預金口座に200ドル入金しました。",
+    "remark": ""
+  },
+  {
+    "id": 11,
+    "word": "deposit ceiling",
+    "meaning": "預金限度額",
+    "example": "There is a _____ of $10,000.",
+    "translation": "預金限度額は1万ドルです。",
+    "remark": ""
+  },
+  {
+    "id": 12,
+    "word": "direct debit",
+    "meaning": "口座振替",
+    "example": "The utility bill was paid by _____.",
+    "translation": "公共料金の請求は口座振替で支払われました。",
+    "remark": ""
+  },
+  {
+    "id": 13,
+    "word": "exchange rate",
+    "meaning": "為替相場",
+    "example": "The _____ today is 1 USD to 150 JPY.",
+    "translation": "今日の為替相場は1ドル150円です。",
+    "remark": ""
+  },
+  {
+    "id": 14,
+    "word": "interest",
+    "meaning": "利益、利子、株式",
+    "example": "This account earns monthly _____.",
+    "translation": "この口座は毎月利子がつきます。",
+    "remark": ""
+  },
+  {
+    "id": 15,
+    "word": "interest rate",
+    "meaning": "金利、利率、利子（受け取る利息）",
+    "example": "The bank offers a 3% _____.",
+    "translation": "銀行は3％の金利を提供しています。",
+    "remark": ""
+  },
+  {
+    "id": 16,
+    "word": "loans",
+    "meaning": "融資、貸し",
+    "example": "The company received several business _____.",
+    "translation": "その会社は複数の事業融資を受けました。",
+    "remark": ""
+  },
+  {
+    "id": 17,
+    "word": "mortgage",
+    "meaning": "貸付金",
+    "example": "He took out a _____ to buy a house.",
+    "translation": "彼は家を買うために住宅ローンを組みました。",
+    "remark": ""
+  },
+  {
+    "id": 18,
+    "word": "overdraft",
+    "meaning": "当座貸越（口座残高を上回る請求）",
+    "example": "The account went into _____ after the payment.",
+    "translation": "支払いの後、口座は当座貸越状態になりました。",
+    "remark": ""
+  },
+  {
+    "id": 19,
+    "word": "payee",
+    "meaning": "受取人",
+    "example": "Make sure the correct _____ is listed on the check.",
+    "translation": "小切手に正しい受取人が記載されているか確認してください。",
+    "remark": ""
+  },
+  {
+    "id": 20,
+    "word": "remittance",
+    "meaning": "送金",
+    "example": "She sent a _____ to her family overseas.",
+    "translation": "彼女は海外の家族に送金しました。",
+    "remark": ""
+  },
+  {
+    "id": 21,
+    "word": "savings account",
+    "meaning": "普通預金口座",
+    "example": "Open a _____ to earn interest.",
+    "translation": "利子を得るために普通預金口座を開設しましょう。",
+    "remark": ""
+  },
+  {
+    "id": 22,
+    "word": "standing order",
+    "meaning": "継続注文（自動振替など）",
+    "example": "I set up a _____ for my rent payments.",
+    "translation": "家賃の支払いのために自動振替を設定しました。",
+    "remark": ""
+  },
+  {
+    "id": 23,
+    "word": "statement",
+    "meaning": "報告書、明細書",
+    "example": "You will receive your monthly _____ by email.",
+    "translation": "毎月の明細書はメールで届きます。",
+    "remark": ""
+  },
+  {
+    "id": 24,
+    "word": "tax",
+    "meaning": "税金",
+    "example": "You must pay income _____ by April.",
+    "translation": "4月までに所得税を支払わなければなりません。",
+    "remark": ""
+  },
+  {
+    "id": 25,
+    "word": "transfer",
+    "meaning": "振込、振替",
+    "example": "He _____red $500 to his friend’s account.",
+    "translation": "彼は友人の口座に500ドル振り込みました。",
+    "remark": ""
+  },
+  {
+    "id": 26,
+    "word": "traveler's checks",
+    "meaning": "旅行者用小切手",
+    "example": "They accepted _____ at the hotel.",
+    "translation": "ホテルでは旅行者用小切手が使えました。",
+    "remark": ""
+  },
+  {
+    "id": 27,
+    "word": "withdraw",
+    "meaning": "引き出す",
+    "example": "I need to _____ some money from the ATM.",
+    "translation": "ATMからお金を引き出す必要があります。",
+    "remark": ""
+  },
+  {
+    "id": 28,
+    "word": "withdrawal",
+    "meaning": "銀行口座から引き出されるお金",
+    "example": "The _____ limit is $1,000 per day.",
+    "translation": "引き出しの上限は1日1,000ドルです。",
+    "remark": ""
+  }
+]

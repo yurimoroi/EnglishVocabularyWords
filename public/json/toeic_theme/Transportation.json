@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1,
+    "word": "access",
+    "meaning": "アクセス",
+    "example": "This station has easy _____ to the airport.",
+    "translation": "この駅は空港へのアクセスが便利です。",
+    "remark": ""
+  },
+  {
+    "id": 2,
+    "word": "arrival",
+    "meaning": "到着",
+    "example": "The train's _____ was delayed by ten minutes.",
+    "translation": "列車の到着は10分遅れました。",
+    "remark": ""
+  },
+  {
+    "id": 3,
+    "word": "cancellation",
+    "meaning": "キャンセル",
+    "example": "The flight _____ caused many problems.",
+    "translation": "フライトのキャンセルが多くの問題を引き起こしました。",
+    "remark": ""
+  },
+  {
+    "id": 4,
+    "word": "congestion",
+    "meaning": "混雑",
+    "example": "Traffic _____ is common during rush hour.",
+    "translation": "ラッシュアワーには交通渋滞がよく起こります。",
+    "remark": ""
+  },
+  {
+    "id": 5,
+    "word": "delay",
+    "meaning": "遅延",
+    "example": "The _____ was due to bad weather.",
+    "translation": "遅延は悪天候のためでした。",
+    "remark": ""
+  },
+  {
+    "id": 6,
+    "word": "departure",
+    "meaning": "出発",
+    "example": "The _____ gate has been changed.",
+    "translation": "出発ゲートが変更されました。",
+    "remark": ""
+  },
+  {
+    "id": 7,
+    "word": "ferry",
+    "meaning": "フェリー",
+    "example": "We took a _____ to the island.",
+    "translation": "私たちはフェリーでその島へ行きました。",
+    "remark": ""
+  },
+  {
+    "id": 8,
+    "word": "freight",
+    "meaning": "貨物",
+    "example": "This train carries _____, not passengers.",
+    "translation": "この列車は乗客ではなく貨物を運びます。",
+    "remark": ""
+  },
+  {
+    "id": 9,
+    "word": "highway",
+    "meaning": "高速道路",
+    "example": "We drove along the _____ to the next city.",
+    "translation": "次の町まで高速道路を走りました。",
+    "remark": ""
+  },
+  {
+    "id": 10,
+    "word": "interchange",
+    "meaning": "インターチェンジ",
+    "example": "Take the next _____ to change highways.",
+    "translation": "次のインターチェンジで高速道路を乗り換えてください。",
+    "remark": ""
+  },
+  {
+    "id": 11,
+    "word": "intersection",
+    "meaning": "交差点",
+    "example": "Turn right at the next _____.",
+    "translation": "次の交差点を右に曲がってください。",
+    "remark": ""
+  },
+  {
+    "id": 12,
+    "word": "long-distance bus",
+    "meaning": "長距離バス",
+    "example": "I booked a _____ to Kyoto.",
+    "translation": "京都行きの長距離バスを予約しました。",
+    "remark": ""
+  },
+  {
+    "id": 13,
+    "word": "passenger",
+    "meaning": "乗客",
+    "example": "_____s must show their tickets.",
+    "translation": "乗客はチケットを提示しなければなりません。",
+    "remark": ""
+  },
+  {
+    "id": 14,
+    "word": "rail pass",
+    "meaning": "鉄道パス",
+    "example": "I bought a _____ for unlimited travel.",
+    "translation": "無制限に移動できる鉄道パスを購入しました。",
+    "remark": ""
+  },
+  {
+    "id": 15,
+    "word": "runway",
+    "meaning": "滑走路",
+    "example": "The plane is waiting on the _____.",
+    "translation": "飛行機は滑走路で待機しています。",
+    "remark": ""
+  },
+  {
+    "id": 16,
+    "word": "schedule",
+    "meaning": "時刻表",
+    "example": "Check the train _____ before you leave.",
+    "translation": "出発前に電車の時刻表を確認してください。",
+    "remark": ""
+  },
+  {
+    "id": 17,
+    "word": "seat reservation",
+    "meaning": "座席予約",
+    "example": "Do you have a _____ for this train?",
+    "translation": "この電車の座席予約はありますか？",
+    "remark": ""
+  },
+  {
+    "id": 18,
+    "word": "station",
+    "meaning": "駅",
+    "example": "We met at the train _____.",
+    "translation": "私たちは駅で会いました。",
+    "remark": ""
+  },
+  {
+    "id": 19,
+    "word": "subway",
+    "meaning": "地下鉄",
+    "example": "I take the _____ to work every day.",
+    "translation": "私は毎日地下鉄で通勤しています。",
+    "remark": ""
+  },
+  {
+    "id": 20,
+    "word": "to fly",
+    "meaning": "飛ぶ",
+    "example": "I love to _____ and see the clouds from above.",
+    "translation": "空を飛んで雲の上を見るのが好きです。",
+    "remark": ""
+  },
+  {
+    "id": 21,
+    "word": "to land",
+    "meaning": "着陸する",
+    "example": "The plane is going to _____ soon.",
+    "translation": "飛行機はもうすぐ着陸します。",
+    "remark": ""
+  },
+  {
+    "id": 22,
+    "word": "to take off",
+    "meaning": "離陸する",
+    "example": "The plane will _____ at 10 a.m.",
+    "translation": "飛行機は午前10時に離陸します。",
+    "remark": ""
+  },
+  {
+    "id": 23,
+    "word": "transit",
+    "meaning": "乗り継ぎ",
+    "example": "I had a two-hour _____ in Singapore.",
+    "translation": "シンガポールで2時間の乗り継ぎがありました。",
+    "remark": ""
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "id": 1,
+    "word": "analog",
+    "meaning": "アナログ",
+    "example": "Old phones used _____ signals.",
+    "translation": "昔の電話はアナログ信号を使っていました。",
+    "remark": ""
+  },
+  {
+    "id": 2,
+    "word": "answering machine",
+    "meaning": "留守番電話",
+    "example": "I left a message on his _____.",
+    "translation": "彼の留守番電話にメッセージを残しました。",
+    "remark": ""
+  },
+  {
+    "id": 3,
+    "word": "busy signal",
+    "meaning": "話し中の音",
+    "example": "The line had a _____.",
+    "translation": "電話は話し中でした。",
+    "remark": ""
+  },
+  {
+    "id": 4,
+    "word": "call back service",
+    "meaning": "折り返しサービス",
+    "example": "Use the _____ if the line is busy.",
+    "translation": "回線が混雑している場合は折り返しサービスを使ってください。",
+    "remark": ""
+  },
+  {
+    "id": 5,
+    "word": "calling card",
+    "meaning": "テレフォンカード",
+    "example": "He used a _____ to make the call.",
+    "translation": "彼は通話にテレフォンカードを使いました。",
+    "remark": ""
+  },
+  {
+    "id": 6,
+    "word": "cassette",
+    "meaning": "カセット",
+    "example": "The answering machine records on a _____.",
+    "translation": "留守電はカセットに録音します。",
+    "remark": ""
+  },
+  {
+    "id": 7,
+    "word": "crank call",
+    "meaning": "いたずら電話",
+    "example": "They received several _____s last night.",
+    "translation": "彼らは昨夜何件かのいたずら電話を受けました。",
+    "remark": ""
+  },
+  {
+    "id": 8,
+    "word": "dial tone",
+    "meaning": "発信音",
+    "example": "Wait for the _____ before calling.",
+    "translation": "電話する前に発信音を待ってください。",
+    "remark": ""
+  },
+  {
+    "id": 9,
+    "word": "digital",
+    "meaning": "デジタル",
+    "example": "Modern phones use _____ signals.",
+    "translation": "現代の電話はデジタル信号を使います。",
+    "remark": ""
+  },
+  {
+    "id": 10,
+    "word": "domestic",
+    "meaning": "国内の",
+    "example": "He made a _____ call to Tokyo.",
+    "translation": "彼は東京に国内通話をしました。",
+    "remark": ""
+  },
+  {
+    "id": 11,
+    "word": "earpiece",
+    "meaning": "受話器（耳当て）",
+    "example": "The _____ was not working properly.",
+    "translation": "受話器が正しく機能していませんでした。",
+    "remark": ""
+  },
+  {
+    "id": 12,
+    "word": "hang up",
+    "meaning": "電話を切る",
+    "example": "She _____ without saying goodbye.",
+    "translation": "彼女はさよならも言わずに電話を切りました。",
+    "remark": ""
+  },
+  {
+    "id": 13,
+    "word": "international",
+    "meaning": "国際の",
+    "example": "He made an _____ call to Canada.",
+    "translation": "彼はカナダに国際電話をかけました。",
+    "remark": ""
+  },
+  {
+    "id": 14,
+    "word": "memo",
+    "meaning": "メモ",
+    "example": "She left a phone _____ on my desk.",
+    "translation": "彼女は私の机に電話のメモを残しました。",
+    "remark": ""
+  },
+  {
+    "id": 15,
+    "word": "operator",
+    "meaning": "交換手",
+    "example": "I asked the _____ for help.",
+    "translation": "私は交換手に助けを求めました。",
+    "remark": ""
+  },
+  {
+    "id": 16,
+    "word": "phone cord",
+    "meaning": "電話線",
+    "example": "The _____ was tangled.",
+    "translation": "電話線が絡まっていました。",
+    "remark": ""
+  },
+  {
+    "id": 17,
+    "word": "receiver",
+    "meaning": "受話器",
+    "example": "He picked up the _____ and dialed.",
+    "translation": "彼は受話器を取ってダイヤルしました。",
+    "remark": ""
+  },
+  {
+    "id": 18,
+    "word": "redial",
+    "meaning": "再ダイヤルする",
+    "example": "Press the _____ button to call again.",
+    "translation": "もう一度かけるには再ダイヤルボタンを押してください。",
+    "remark": ""
+  },
+  {
+    "id": 19,
+    "word": "redirect a call",
+    "meaning": "通話を転送する",
+    "example": "You can _____ to your mobile.",
+    "translation": "電話を携帯に転送することができます。",
+    "remark": ""
+  },
+  {
+    "id": 20,
+    "word": "rolodex",
+    "meaning": "名刺ホルダー",
+    "example": "I found her number in the _____.",
+    "translation": "私はローロデックスで彼女の番号を見つけました。",
+    "remark": ""
+  },
+  {
+    "id": 21,
+    "word": "rotary phone",
+    "meaning": "ダイヤル式電話",
+    "example": "My grandmother still uses a _____.",
+    "translation": "祖母はいまだにダイヤル式電話を使っています。",
+    "remark": ""
+  },
+  {
+    "id": 22,
+    "word": "speed dial",
+    "meaning": "短縮ダイヤル",
+    "example": "His number is on _____.",
+    "translation": "彼の番号は短縮ダイヤルに登録されています。",
+    "remark": ""
+  },
+  {
+    "id": 23,
+    "word": "telephone booth",
+    "meaning": "電話ボックス",
+    "example": "He called me from a _____.",
+    "translation": "彼は電話ボックスから私に電話をかけました。",
+    "remark": ""
+  },
+  {
+    "id": 24,
+    "word": "trace (a call)",
+    "meaning": "通話を追跡する",
+    "example": "The police _____d the call to a hotel.",
+    "translation": "警察はその電話をホテルまで追跡しました。",
+    "remark": ""
+  },
+  {
+    "id": 25,
+    "word": "voice message",
+    "meaning": "音声メッセージ",
+    "example": "I left a _____ on her phone.",
+    "translation": "彼女の電話に音声メッセージを残しました。",
+    "remark": ""
+  },
+  {
+    "id": 26,
+    "word": "wrong number",
+    "meaning": "間違い電話",
+    "example": "Sorry, I think you have the _____.",
+    "translation": "すみません、番号を間違えていると思います。",
+    "remark": ""
+  }
+]

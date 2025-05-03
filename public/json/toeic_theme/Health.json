@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "word": "ache",
+    "meaning": "痛み",
+    "example": "I have a stomach _____ after eating.",
+    "translation": "食後に腹痛があります。",
+    "remark": ""
+  },
+  {
+    "id": 2,
+    "word": "bench press",
+    "meaning": "ベンチプレス",
+    "example": "He can lift 100kg on the _____.",
+    "translation": "彼はベンチプレスで100kg持ち上げられます。",
+    "remark": ""
+  },
+  {
+    "id": 3,
+    "word": "blood pressure cuff",
+    "meaning": "血圧計",
+    "example": "The nurse wrapped a _____ cuff around my arm.",
+    "translation": "看護師が腕に血圧計を巻きました。",
+    "remark": ""
+  },
+  {
+    "id": 4,
+    "word": "caffeine",
+    "meaning": "カフェイン",
+    "example": "_____ can keep you awake at night.",
+    "translation": "カフェインは夜に目を覚まさせることがあります。",
+    "remark": ""
+  },
+  {
+    "id": 5,
+    "word": "calories",
+    "meaning": "カロリー",
+    "example": "This snack contains 200 _____.",
+    "translation": "このスナックには200キロカロリー含まれています。",
+    "remark": ""
+  },
+  {
+    "id": 6,
+    "word": "caebohydrates",
+    "meaning": "炭水化物",
+    "example": "_____ provide energy for the body.",
+    "translation": "炭水化物は体にエネルギーを与えます。",
+    "remark": ""
+  },
+  {
+    "id": 7,
+    "word": "cardiovascular",
+    "meaning": "心血管の",
+    "example": "_____ exercise strengthens your heart.",
+    "translation": "心血管運動は心臓を強化します。",
+    "remark": ""
+  },
+  {
+    "id": 8,
+    "word": "check-up",
+    "meaning": "健康診断",
+    "example": "She goes for a _____ once a year.",
+    "translation": "彼女は年に一度健康診断を受けています。",
+    "remark": ""
+  },
+  {
+    "id": 9,
+    "word": "cross training",
+    "meaning": "クロストレーニング",
+    "example": "_____ helps avoid workout boredom.",
+    "translation": "クロストレーニングは運動の飽きを防ぎます。",
+    "remark": ""
+  },
+  {
+    "id": 10,
+    "word": "diabetes",
+    "meaning": "糖尿病",
+    "example": "My grandfather has _____.",
+    "translation": "祖父は糖尿病を患っています。",
+    "remark": ""
+  },
+  {
+    "id": 11,
+    "word": "diet",
+    "meaning": "食事制限",
+    "example": "He is on a _____ to lose weight.",
+    "translation": "彼は体重を減らすためにダイエットしています。",
+    "remark": ""
+  },
+  {
+    "id": 12,
+    "word": "eye chart",
+    "meaning": "視力検査表",
+    "example": "The doctor asked me to read the _____.",
+    "translation": "医者は私に視力検査表を読むように言いました。",
+    "remark": ""
+  },
+  {
+    "id": 13,
+    "word": "free weights",
+    "meaning": "フリーウェイト",
+    "example": "_____ help build strength.",
+    "translation": "フリーウェイトは筋力をつけるのに役立ちます。",
+    "remark": ""
+  },
+  {
+    "id": 14,
+    "word": "gym/health club",
+    "meaning": "ジム／フィットネスクラブ",
+    "example": "I joined a _____ to get fit.",
+    "translation": "健康になるためにジムに入会しました。",
+    "remark": ""
+  },
+  {
+    "id": 15,
+    "word": "high/low blood pressure",
+    "meaning": "高血圧／低血圧",
+    "example": "He has _____.",
+    "translation": "彼は高血圧です。",
+    "remark": ""
+  },
+  {
+    "id": 16,
+    "word": "low/high blood suger",
+    "meaning": "低血糖／高血糖",
+    "example": "She fainted due to _____.",
+    "translation": "彼女は低血糖で気を失いました。",
+    "remark": ""
+  },
+  {
+    "id": 17,
+    "word": "muscles",
+    "meaning": "筋肉",
+    "example": "Stretching helps relax your _____.",
+    "translation": "ストレッチは筋肉をほぐすのに役立ちます。",
+    "remark": ""
+  },
+  {
+    "id": 18,
+    "word": "nutrition",
+    "meaning": "栄養",
+    "example": "Good _____ is essential for health.",
+    "translation": "良い栄養は健康に不可欠です。",
+    "remark": ""
+  },
+  {
+    "id": 19,
+    "word": "nutritional supplements",
+    "meaning": "栄養補助食品",
+    "example": "He takes _____ daily.",
+    "translation": "彼は毎日栄養補助食品を摂取しています。",
+    "remark": ""
+  },
+  {
+    "id": 20,
+    "word": "personal trainer",
+    "meaning": "パーソナルトレーナー",
+    "example": "My _____ helps me stay motivated.",
+    "translation": "私のパーソナルトレーナーは私のやる気を維持させてくれます。",
+    "remark": ""
+  },
+  {
+    "id": 21,
+    "word": "pilates",
+    "meaning": "ピラティス",
+    "example": "_____ improves flexibility and core strength.",
+    "translation": "ピラティスは柔軟性と体幹の強さを向上させます。",
+    "remark": ""
+  },
+  {
+    "id": 22,
+    "word": "positive visualization",
+    "meaning": "ポジティブなイメージ",
+    "example": "_____ can boost performance.",
+    "translation": "ポジティブなイメージはパフォーマンスを高めます。",
+    "remark": ""
+  },
+  {
+    "id": 23,
+    "word": "protein",
+    "meaning": "たんぱく質",
+    "example": "_____ is essential for muscle growth.",
+    "translation": "たんぱく質は筋肉の成長に不可欠です。",
+    "remark": ""
+  },
+  {
+    "id": 24,
+    "word": "running machine",
+    "meaning": "ランニングマシン",
+    "example": "I run every morning on a _____.",
+    "translation": "毎朝ランニングマシンで走っています。",
+    "remark": ""
+  },
+  {
+    "id": 25,
+    "word": "sore",
+    "meaning": "痛い",
+    "example": "My legs are _____ after yesterday’s workout.",
+    "translation": "昨日の運動のせいで脚が痛いです。",
+    "remark": ""
+  },
+  {
+    "id": 26,
+    "word": "stethoscope",
+    "meaning": "聴診器",
+    "example": "The doctor listened to my heart with a _____.",
+    "translation": "医者は聴診器で私の心臓の音を聞きました。",
+    "remark": ""
+  },
+  {
+    "id": 27,
+    "word": "yoga",
+    "meaning": "ヨガ",
+    "example": "_____ helps reduce stress and improve balance.",
+    "translation": "ヨガはストレスを減らしバランスを改善します。",
+    "remark": ""
+  }
+]

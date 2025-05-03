@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "word": "borrow",
+    "meaning": "借りる",
+    "example": "You can _____ money against your policy.",
+    "translation": "保険を担保にお金を借りることができます。",
+    "remark": ""
+  },
+  {
+    "id": 2,
+    "word": "cash out",
+    "meaning": "現金化する",
+    "example": "He decided to _____ his life insurance.",
+    "translation": "彼は生命保険を現金化することにしました。",
+    "remark": ""
+  },
+  {
+    "id": 3,
+    "word": "compensation",
+    "meaning": "補償",
+    "example": "She received _____ for the accident.",
+    "translation": "彼女は事故の補償を受け取りました。",
+    "remark": ""
+  },
+  {
+    "id": 4,
+    "word": "contract",
+    "meaning": "契約",
+    "example": "The insurance _____ is valid for one year.",
+    "translation": "その保険契約は1年間有効です。",
+    "remark": ""
+  },
+  {
+    "id": 5,
+    "word": "co-payment",
+    "meaning": "自己負担金",
+    "example": "A $20 _____ is required at each visit.",
+    "translation": "診察ごとに20ドルの自己負担が必要です。",
+    "remark": ""
+  },
+  {
+    "id": 6,
+    "word": "consigner",
+    "meaning": "委託人",
+    "example": "The _____ is responsible for the goods.",
+    "translation": "委託人は商品の責任を負います。",
+    "remark": ""
+  },
+  {
+    "id": 7,
+    "word": "deductible",
+    "meaning": "免責金額",
+    "example": "The _____ on this policy is $500.",
+    "translation": "この保険の免責金額は500ドルです。",
+    "remark": ""
+  },
+  {
+    "id": 8,
+    "word": "deed",
+    "meaning": "権利証",
+    "example": "The house _____ is required for homeowner’s insurance.",
+    "translation": "住宅保険には権利証が必要です。",
+    "remark": ""
+  },
+  {
+    "id": 9,
+    "word": "dependents",
+    "meaning": "扶養家族",
+    "example": "_____ are covered under this policy.",
+    "translation": "この保険には扶養家族も含まれます。",
+    "remark": ""
+  },
+  {
+    "id": 10,
+    "word": "full coverage",
+    "meaning": "全額補償",
+    "example": "_____ includes theft and accidents.",
+    "translation": "全額補償には盗難や事故も含まれます。",
+    "remark": ""
+  },
+  {
+    "id": 11,
+    "word": "homeowner",
+    "meaning": "住宅所有者",
+    "example": "The _____ must insure the property.",
+    "translation": "住宅所有者は不動産に保険をかける必要があります。",
+    "remark": ""
+  },
+  {
+    "id": 12,
+    "word": "indemnity",
+    "meaning": "補償金",
+    "example": "_____ was paid for the damages.",
+    "translation": "損害に対して補償金が支払われました。",
+    "remark": ""
+  },
+  {
+    "id": 13,
+    "word": "lapse",
+    "meaning": "失効",
+    "example": "The policy will _____ if you miss a payment.",
+    "translation": "支払いを怠ると保険が失効します。",
+    "remark": ""
+  },
+  {
+    "id": 14,
+    "word": "lease",
+    "meaning": "賃貸契約",
+    "example": "The _____ requires renters to have insurance.",
+    "translation": "その賃貸契約では借主に保険加入が義務付けられています。",
+    "remark": ""
+  },
+  {
+    "id": 15,
+    "word": "lend",
+    "meaning": "貸す",
+    "example": "You shouldn't _____ your insured car to others.",
+    "translation": "保険付きの車を他人に貸すべきではありません。",
+    "remark": ""
+  },
+  {
+    "id": 16,
+    "word": "lien",
+    "meaning": "担保権",
+    "example": "The bank has a _____ on the property.",
+    "translation": "銀行はその不動産に担保権を持っています。",
+    "remark": ""
+  },
+  {
+    "id": 17,
+    "word": "mortgage",
+    "meaning": "住宅ローン",
+    "example": "_____ insurance protects the lender.",
+    "translation": "住宅ローン保険は貸し手を保護します。",
+    "remark": ""
+  },
+  {
+    "id": 18,
+    "word": "partial coverage",
+    "meaning": "部分補償",
+    "example": "_____ does not include fire damage.",
+    "translation": "部分補償には火災被害は含まれません。",
+    "remark": ""
+  },
+  {
+    "id": 19,
+    "word": "policy",
+    "meaning": "保険証券",
+    "example": "You should read the _____ carefully.",
+    "translation": "保険証券はよく読んでおくべきです。",
+    "remark": ""
+  },
+  {
+    "id": 20,
+    "word": "premium",
+    "meaning": "保険料",
+    "example": "The monthly _____ is $100.",
+    "translation": "月々の保険料は100ドルです。",
+    "remark": ""
+  },
+  {
+    "id": 21,
+    "word": "renter",
+    "meaning": "借主",
+    "example": "_____s are advised to get tenant insurance.",
+    "translation": "借主は借家人保険に加入することが勧められます。",
+    "remark": ""
+  },
+  {
+    "id": 22,
+    "word": "survivor's benefit",
+    "meaning": "遺族給付金",
+    "example": "His family received a _____.",
+    "translation": "彼の家族は遺族給付金を受け取りました。",
+    "remark": ""
+  },
+  {
+    "id": 23,
+    "word": "term",
+    "meaning": "契約期間",
+    "example": "The _____ of this policy is five years.",
+    "translation": "この保険の契約期間は5年間です。",
+    "remark": ""
+  },
+  {
+    "id": 24,
+    "word": "terminate",
+    "meaning": "解約する",
+    "example": "You can _____ your policy at any time.",
+    "translation": "保険はいつでも解約できます。",
+    "remark": ""
+  },
+  {
+    "id": 25,
+    "word": "underwriter",
+    "meaning": "引受人",
+    "example": "The _____ evaluates insurance risk.",
+    "translation": "引受人は保険リスクを評価します。",
+    "remark": ""
+  },
+  {
+    "id": 26,
+    "word": "widow",
+    "meaning": "未亡人",
+    "example": "The _____ received life insurance benefits.",
+    "translation": "未亡人は生命保険の給付金を受け取りました。",
+    "remark": ""
+  },
+  {
+    "id": 27,
+    "word": "widower",
+    "meaning": "男やもめ(妻を亡くした、または別れて再婚していない男性)",
+    "example": "The _____ applied for survivor benefits.",
+    "translation": "男やもめは遺族給付金を申請しました。",
+    "remark": ""
+  }
+]

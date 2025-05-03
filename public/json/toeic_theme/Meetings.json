@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "word": "annually",
+    "meaning": "年に一度",
+    "example": "We hold a general meeting _____.",
+    "translation": "年に一度、総会を開催します。",
+    "remark": ""
+  },
+  {
+    "id": 2,
+    "word": "attend",
+    "meaning": "出席する",
+    "example": "Many employees _____ed the meeting.",
+    "translation": "多くの従業員が会議に出席しました。",
+    "remark": ""
+  },
+  {
+    "id": 3,
+    "word": "bi-monthly",
+    "meaning": "隔月の",
+    "example": "We publish a _____ report.",
+    "translation": "隔月で報告書を発行しています。",
+    "remark": ""
+  },
+  {
+    "id": 4,
+    "word": "budget",
+    "meaning": "予算",
+    "example": "We discussed next year’s _____.",
+    "translation": "来年の予算について話し合いました。",
+    "remark": ""
+  },
+  {
+    "id": 5,
+    "word": "closed-door",
+    "meaning": "非公開の",
+    "example": "It was a _____ meeting with executives.",
+    "translation": "それは役員との非公開会議でした。",
+    "remark": ""
+  },
+  {
+    "id": 6,
+    "word": "conference",
+    "meaning": "会議",
+    "example": "The annual sales _____ was held in Tokyo.",
+    "translation": "年次営業会議が東京で開催されました。",
+    "remark": ""
+  },
+  {
+    "id": 7,
+    "word": "constructive criticism",
+    "meaning": "建設的な批判",
+    "example": "She gave _____ on the project.",
+    "translation": "彼女はプロジェクトに建設的な批判をしました。",
+    "remark": ""
+  },
+  {
+    "id": 8,
+    "word": "consult",
+    "meaning": "相談する",
+    "example": "I need to _____ with my manager.",
+    "translation": "上司に相談する必要があります。",
+    "remark": ""
+  },
+  {
+    "id": 9,
+    "word": "evaluation report",
+    "meaning": "評価報告書",
+    "example": "The _____ was submitted last week.",
+    "translation": "評価報告書は先週提出されました。",
+    "remark": ""
+  },
+  {
+    "id": 10,
+    "word": "gavel",
+    "meaning": "議長用の槌",
+    "example": "The chairman struck the _____ to begin.",
+    "translation": "議長は槌を叩いて開始を宣言しました。",
+    "remark": ""
+  },
+  {
+    "id": 11,
+    "word": "guest speaker",
+    "meaning": "特別講演者",
+    "example": "We invited a _____ from New York.",
+    "translation": "ニューヨークから特別講演者を招きました。",
+    "remark": ""
+  },
+  {
+    "id": 12,
+    "word": "itinerary",
+    "meaning": "日程表",
+    "example": "Please review the _____ before departure.",
+    "translation": "出発前に日程表をご確認ください。",
+    "remark": ""
+  },
+  {
+    "id": 13,
+    "word": "marketing",
+    "meaning": "マーケティング",
+    "example": "_____ strategies were the main topic.",
+    "translation": "マーケティング戦略が主な議題でした。",
+    "remark": ""
+  },
+  {
+    "id": 14,
+    "word": "merger",
+    "meaning": "合併",
+    "example": "The _____ was finalized last month.",
+    "translation": "その合併は先月完了しました。",
+    "remark": ""
+  },
+  {
+    "id": 15,
+    "word": "negotiations",
+    "meaning": "交渉",
+    "example": "_____ continued late into the night.",
+    "translation": "交渉は夜遅くまで続きました。",
+    "remark": ""
+  },
+  {
+    "id": 16,
+    "word": "open-door",
+    "meaning": "公開の",
+    "example": "It was an _____ meeting for all staff.",
+    "translation": "それは全社員参加の公開会議でした。",
+    "remark": ""
+  },
+  {
+    "id": 17,
+    "word": "podium/dais",
+    "meaning": "演壇",
+    "example": "She stepped up to the _____ to speak.",
+    "translation": "彼女は演壇に上がって発言しました。",
+    "remark": ""
+  },
+  {
+    "id": 18,
+    "word": "presentation",
+    "meaning": "プレゼンテーション",
+    "example": "He gave a _____ on new policies.",
+    "translation": "彼は新しい方針についてプレゼンを行いました。",
+    "remark": ""
+  },
+  {
+    "id": 19,
+    "word": "pro/con",
+    "meaning": "賛成/反対",
+    "example": "We discussed the _____ and _____ of the proposal.",
+    "translation": "その提案の賛否を議論しました。",
+    "remark": ""
+  },
+  {
+    "id": 20,
+    "word": "profit/loss",
+    "meaning": "利益/損失",
+    "example": "The meeting covered the company’s _____ and _____.",
+    "translation": "会議では会社の損益について話し合われました。",
+    "remark": ""
+  },
+  {
+    "id": 21,
+    "word": "quarterly",
+    "meaning": "四半期の",
+    "example": "We hold _____ review meetings.",
+    "translation": "四半期ごとにレビュー会議を行います。",
+    "remark": ""
+  },
+  {
+    "id": 22,
+    "word": "Research and Development (R & D)",
+    "meaning": "研究開発",
+    "example": "_____ is essential for innovation.",
+    "translation": "研究開発は革新に不可欠です。",
+    "remark": ""
+  },
+  {
+    "id": 23,
+    "word": "seniority",
+    "meaning": "年功序列",
+    "example": "Promotion is often based on _____.",
+    "translation": "昇進は年功序列に基づくことが多いです。",
+    "remark": ""
+  },
+  {
+    "id": 24,
+    "word": "sequester",
+    "meaning": "隔離する",
+    "example": "The jury was _____ed during the trial.",
+    "translation": "陪審員は裁判中隔離されました。",
+    "remark": ""
+  },
+  {
+    "id": 25,
+    "word": "team leader",
+    "meaning": "チームリーダー",
+    "example": "The _____ led the discussion.",
+    "translation": "チームリーダーが議論を主導しました。",
+    "remark": ""
+  },
+  {
+    "id": 26,
+    "word": "teleconference",
+    "meaning": "テレビ会議",
+    "example": "We held a _____ with the London office.",
+    "translation": "ロンドン支社とテレビ会議を行いました。",
+    "remark": ""
+  },
+  {
+    "id": 27,
+    "word": "yearly/monthly planner",
+    "meaning": "年次/月次スケジュール帳",
+    "example": "I write all meetings in my _____.",
+    "translation": "会議はすべて月次スケジュール帳に記入しています。",
+    "remark": ""
+  }
+]

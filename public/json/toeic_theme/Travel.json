@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "word": "board (a ship)",
+    "meaning": "（船に）乗る",
+    "example": "We _____ed the ship at noon.",
+    "translation": "私たちは正午に船に乗りました。",
+    "remark": ""
+  },
+  {
+    "id": 2,
+    "word": "book (a ticket)",
+    "meaning": "（チケットを）予約する",
+    "example": "I _____ed a ticket to Paris.",
+    "translation": "パリ行きのチケットを予約しました。",
+    "remark": ""
+  },
+  {
+    "id": 3,
+    "word": "cancellation fee",
+    "meaning": "キャンセル料",
+    "example": "A _____ applies for late changes.",
+    "translation": "遅れて変更するとキャンセル料がかかります。",
+    "remark": ""
+  },
+  {
+    "id": 4,
+    "word": "car pool",
+    "meaning": "相乗り",
+    "example": "We decided to _____ to save money.",
+    "translation": "お金を節約するために相乗りすることにしました。",
+    "remark": ""
+  },
+  {
+    "id": 5,
+    "word": "carriage/berth",
+    "meaning": "寝台車／寝台",
+    "example": "I reserved a _____ on the night train.",
+    "translation": "夜行列車の寝台を予約しました。",
+    "remark": ""
+  },
+  {
+    "id": 6,
+    "word": "commuter train",
+    "meaning": "通勤列車",
+    "example": "I take the _____ every morning.",
+    "translation": "毎朝通勤列車に乗っています。",
+    "remark": ""
+  },
+  {
+    "id": 7,
+    "word": "concierge",
+    "meaning": "コンシェルジュ",
+    "example": "Ask the _____ for local recommendations.",
+    "translation": "コンシェルジュに地元のおすすめを聞いてください。",
+    "remark": ""
+  },
+  {
+    "id": 8,
+    "word": "credit voucher",
+    "meaning": "クレジットバウチャー",
+    "example": "They offered me a _____ instead of a refund.",
+    "translation": "返金の代わりにクレジットバウチャーをくれました。",
+    "remark": ""
+  },
+  {
+    "id": 9,
+    "word": "economy",
+    "meaning": "エコノミークラス",
+    "example": "I usually fly _____ to save money.",
+    "translation": "お金を節約するためにいつもエコノミーを利用します。",
+    "remark": ""
+  },
+  {
+    "id": 10,
+    "word": "expense account",
+    "meaning": "経費口座",
+    "example": "The trip was covered by his _____.",
+    "translation": "その出張費は経費でまかなわれました。",
+    "remark": ""
+  },
+  {
+    "id": 11,
+    "word": "fare zone",
+    "meaning": "運賃区域",
+    "example": "We crossed into a different _____.",
+    "translation": "異なる運賃区域に入りました。",
+    "remark": ""
+  },
+  {
+    "id": 12,
+    "word": "first class",
+    "meaning": "ファーストクラス",
+    "example": "She traveled in _____.",
+    "translation": "彼女はファーストクラスで旅行しました。",
+    "remark": ""
+  },
+  {
+    "id": 13,
+    "word": "hail (a taxi)",
+    "meaning": "タクシーを呼び止める",
+    "example": "I _____ed a taxi outside the hotel.",
+    "translation": "ホテルの外でタクシーを呼び止めました。",
+    "remark": ""
+  },
+  {
+    "id": 14,
+    "word": "hostel",
+    "meaning": "ホステル",
+    "example": "I stayed at a cheap _____.",
+    "translation": "安いホステルに泊まりました。",
+    "remark": ""
+  },
+  {
+    "id": 15,
+    "word": "information kiosk",
+    "meaning": "案内キオスク",
+    "example": "Check the _____ for directions.",
+    "translation": "道順は案内キオスクで確認してください。",
+    "remark": ""
+  },
+  {
+    "id": 16,
+    "word": "layover",
+    "meaning": "乗り継ぎ時間",
+    "example": "We had a three-hour _____ in Chicago.",
+    "translation": "シカゴで3時間の乗り継ぎがありました。",
+    "remark": ""
+  },
+  {
+    "id": 17,
+    "word": "lobby",
+    "meaning": "ロビー",
+    "example": "I’ll meet you in the hotel _____.",
+    "translation": "ホテルのロビーで会いましょう。",
+    "remark": ""
+  },
+  {
+    "id": 18,
+    "word": "overhead compartment",
+    "meaning": "頭上の荷物入れ",
+    "example": "Put your bag in the _____.",
+    "translation": "荷物を頭上の荷物入れに入れてください。",
+    "remark": ""
+  },
+  {
+    "id": 19,
+    "word": "package tour",
+    "meaning": "パッケージツアー",
+    "example": "We booked a _____ to Italy.",
+    "translation": "イタリアへのパッケージツアーを予約しました。",
+    "remark": ""
+  },
+  {
+    "id": 20,
+    "word": "peak season",
+    "meaning": "繁忙期",
+    "example": "It’s hard to find flights during _____.",
+    "translation": "繁忙期は航空券を見つけるのが難しいです。",
+    "remark": ""
+  },
+  {
+    "id": 21,
+    "word": "purser",
+    "meaning": "事務長（船や飛行機の）",
+    "example": "The _____ helped us with our seats.",
+    "translation": "事務長が座席の対応をしてくれました。",
+    "remark": ""
+  },
+  {
+    "id": 22,
+    "word": "red-eye (flight)",
+    "meaning": "深夜便",
+    "example": "I took the _____ to New York.",
+    "translation": "ニューヨークへの深夜便に乗りました。",
+    "remark": ""
+  },
+  {
+    "id": 23,
+    "word": "reservation",
+    "meaning": "予約",
+    "example": "I made a _____ at the hotel.",
+    "translation": "ホテルの予約をしました。",
+    "remark": ""
+  },
+  {
+    "id": 24,
+    "word": "shut-eye",
+    "meaning": "仮眠",
+    "example": "I need some _____ before the next flight.",
+    "translation": "次のフライトの前に少し仮眠が必要です。",
+    "remark": ""
+  },
+  {
+    "id": 25,
+    "word": "suitcase/trunk",
+    "meaning": "スーツケース／トランク",
+    "example": "He packed his _____ for the trip.",
+    "translation": "彼は旅行のためにスーツケースを詰めました。",
+    "remark": ""
+  },
+  {
+    "id": 26,
+    "word": "surcharge",
+    "meaning": "追加料金",
+    "example": "A fuel _____ was added to the ticket.",
+    "translation": "チケットに燃料の追加料金が加算されました。",
+    "remark": ""
+  },
+  {
+    "id": 27,
+    "word": "window/aisle seat",
+    "meaning": "窓側／通路側の席",
+    "example": "I prefer a _____ on long flights.",
+    "translation": "長距離フライトでは窓側の席が好きです。",
+    "remark": ""
+  }
+]

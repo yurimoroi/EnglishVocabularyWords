@@ -7,7 +7,7 @@ export default function QuestionPage() {
   const router = useRouter();
   const [selectedType, setSelectedType] = useState("TOEIC");
   const [selectedDirection, setSelectedDirection] = useState("japaneseToEnglish");
-  const [isRandom, setIsRandom] = useState(false);
+  const [isRandom, setIsRandom] = useState(true);
   const [isOnlyWrong, setIsOnlyWrong] = useState(false);
 
   const buttonStyle =
@@ -15,6 +15,8 @@ export default function QuestionPage() {
 
   const questionTypes = [
     { id: "TOEIC", label: "TOEIC" },
+    { id: "TOEIC_THEME", label: "TOEIC THEME" },
+    { id: "TOEIC_THEME2", label: "TOEIC THEME2" },
     { id: "IELTS", label: "IELTS" },
   ];
 
@@ -44,6 +46,34 @@ export default function QuestionPage() {
     "TOEIC 701-800",
     "TOEIC 801-900",
     "TOEIC 901-1000",
+  ];
+
+  const toeicThemeSets = [
+    "TOEIC_THEME Banking_and_Finance",
+    "TOEIC_THEME Marketing",
+    "TOEIC_THEME Hospitality",
+    "TOEIC_THEME Office",
+    "TOEIC_THEME Shopping",
+    "TOEIC_THEME Transportation",
+    "TOEIC_THEME Health",
+    "TOEIC_THEME Telephone",
+    "TOEIC_THEME Travel",
+    "TOEIC_THEME Mail",
+    "TOEIC_THEME Insurance",
+    "TOEIC_THEME Meetings",
+  ];
+
+  const toeicTheme2Sets = [
+    "TOEIC_THEME2 General_Business",
+    "TOEIC_THEME2 Office_Issues",
+    "TOEIC_THEME2 Personnel",
+    "TOEIC_THEME2 Purchasing",
+    "TOEIC_THEME2 Financing_and_Budgeting",
+    "TOEIC_THEME2 Management_Issues",
+    "TOEIC_THEME2 Restaurants_and_Events",
+    "TOEIC_THEME2 Travel",
+    "TOEIC_THEME2 Entertainment",
+    "TOEIC_THEME2 Health",
   ];
 
   const ieltsSets = [
@@ -131,6 +161,18 @@ export default function QuestionPage() {
           ))}
         {selectedType === "IELTS" &&
           ieltsSets.map((set, index) => (
+            <button key={index} className={buttonStyle} onClick={() => handleQuestionSetClick(set)}>
+              {set}
+            </button>
+          ))}
+        {selectedType === "TOEIC_THEME" &&
+          toeicThemeSets.map((set, index) => (
+            <button key={index} className={buttonStyle} onClick={() => handleQuestionSetClick(set)}>
+              {set}
+            </button>
+          ))}
+        {selectedType === "TOEIC_THEME2" &&
+          toeicTheme2Sets.map((set, index) => (
             <button key={index} className={buttonStyle} onClick={() => handleQuestionSetClick(set)}>
               {set}
             </button>

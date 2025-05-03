@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "word": "account",
+    "meaning": "口座、会計",
+    "example": "She opened a new bank _____ for her salary.",
+    "translation": "彼女は給料のために新しい銀行口座を開いた。",
+    "remark": ""
+  },
+  {
+    "id": 2,
+    "word": "accountant",
+    "meaning": "会計士",
+    "example": "The _____ prepared the financial report.",
+    "translation": "会計士は財務報告書を作成した。",
+    "remark": ""
+  },
+  {
+    "id": 3,
+    "word": "administration",
+    "meaning": "管理、経営",
+    "example": "He works in the school _____ office.",
+    "translation": "彼は学校の管理部で働いている。",
+    "remark": ""
+  },
+  {
+    "id": 4,
+    "word": "agenda",
+    "meaning": "議題、日程",
+    "example": "The manager sent out the _____ for the meeting.",
+    "translation": "マネージャーは会議の議題を送った。",
+    "remark": ""
+  },
+  {
+    "id": 5,
+    "word": "conference",
+    "meaning": "会議",
+    "example": "They attended an international business _____.",
+    "translation": "彼らは国際ビジネス会議に参加した。",
+    "remark": ""
+  },
+  {
+    "id": 6,
+    "word": "department",
+    "meaning": "部門",
+    "example": "She works in the marketing _____.",
+    "translation": "彼女はマーケティング部門で働いている。",
+    "remark": ""
+  },
+  {
+    "id": 7,
+    "word": "director",
+    "meaning": "部長、取締役",
+    "example": "The _____ announced the new company policy.",
+    "translation": "取締役は新しい会社の方針を発表した。",
+    "remark": ""
+  },
+  {
+    "id": 8,
+    "word": "document",
+    "meaning": "書類",
+    "example": "Please sign this _____ and return it.",
+    "translation": "この書類に署名して返送してください。",
+    "remark": ""
+  },
+  {
+    "id": 9,
+    "word": "executive",
+    "meaning": "重役、管理職",
+    "example": "The _____ approved the budget plan.",
+    "translation": "重役は予算案を承認した。",
+    "remark": ""
+  },
+  {
+    "id": 10,
+    "word": "flex-time",
+    "meaning": "フレックスタイム",
+    "example": "Our company allows employees to work on a _____ basis.",
+    "translation": "当社ではフレックスタイム制度を採用している。",
+    "remark": ""
+  },
+  {
+    "id": 11,
+    "word": "intern",
+    "meaning": "インターン",
+    "example": "The _____ helped with the research project.",
+    "translation": "インターンは調査プロジェクトを手伝った。",
+    "remark": ""
+  },
+  {
+    "id": 12,
+    "word": "job applications",
+    "meaning": "就職申込",
+    "example": "He submitted five _____ last week.",
+    "translation": "彼は先週5つの就職申込書を提出した。",
+    "remark": ""
+  },
+  {
+    "id": 13,
+    "word": "personnel officer",
+    "meaning": "人事担当者",
+    "example": "The _____ interviewed the candidates.",
+    "translation": "人事担当者が候補者に面接した。",
+    "remark": ""
+  },
+  {
+    "id": 14,
+    "word": "photocopier",
+    "meaning": "コピー機",
+    "example": "The _____ is out of paper.",
+    "translation": "コピー機の紙が切れている。",
+    "remark": ""
+  },
+  {
+    "id": 15,
+    "word": "profession",
+    "meaning": "職業、専門職",
+    "example": "Teaching is a rewarding _____.",
+    "translation": "教育はやりがいのある職業である。",
+    "remark": ""
+  },
+  {
+    "id": 16,
+    "word": "promotion",
+    "meaning": "昇進",
+    "example": "She received a _____ last month.",
+    "translation": "彼女は先月昇進した。",
+    "remark": ""
+  },
+  {
+    "id": 17,
+    "word": "resume",
+    "meaning": "履歴書",
+    "example": "Please send your _____ to the HR department.",
+    "translation": "履歴書を人事部に送ってください。",
+    "remark": ""
+  },
+  {
+    "id": 18,
+    "word": "secretary",
+    "meaning": "秘書",
+    "example": "The _____ scheduled the meeting for 10 a.m.",
+    "translation": "秘書が会議を午前10時に予定した。",
+    "remark": ""
+  },
+  {
+    "id": 19,
+    "word": "seminar",
+    "meaning": "セミナー",
+    "example": "We attended a _____ on leadership skills.",
+    "translation": "私たちはリーダーシップに関するセミナーに参加した。",
+    "remark": ""
+  },
+  {
+    "id": 20,
+    "word": "stationery",
+    "meaning": "文房具",
+    "example": "The office ordered new _____ supplies.",
+    "translation": "オフィスは新しい文房具を注文した。",
+    "remark": ""
+  },
+  {
+    "id": 21,
+    "word": "supervisor",
+    "meaning": "上司、監督者",
+    "example": "The _____ checked our progress.",
+    "translation": "上司が私たちの進捗を確認した。",
+    "remark": ""
+  },
+  {
+    "id": 22,
+    "word": "take maternity leave",
+    "meaning": "産休を取る",
+    "example": "She is going to _____ next month.",
+    "translation": "彼女は来月産休を取る予定だ。",
+    "remark": ""
+  },
+  {
+    "id": 23,
+    "word": "take sick leave",
+    "meaning": "病気休暇を取る",
+    "example": "He had to _____ due to the flu.",
+    "translation": "彼はインフルエンザで病気休暇を取らなければならなかった。",
+    "remark": ""
+  },
+  {
+    "id": 24,
+    "word": "work nine to five",
+    "meaning": "9時から5時まで働く",
+    "example": "Most employees _____.",
+    "translation": "ほとんどの従業員は9時から5時まで働いている。",
+    "remark": ""
+  }
+]

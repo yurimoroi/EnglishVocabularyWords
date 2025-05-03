@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "word": "aisle",
+    "meaning": "通路",
+    "example": "She walked down the _____ looking for cereal.",
+    "translation": "彼女はシリアルを探して通路を歩いた。,",
+    "remark": ""
+  },
+  {
+    "id": 2,
+    "word": "barcode",
+    "meaning": "バーコード",
+    "example": "The cashier scanned the _____ on the item.",
+    "translation": "レジ係が商品のバーコードをスキャンした。,",
+    "remark": ""
+  },
+  {
+    "id": 3,
+    "word": "bargain",
+    "meaning": "お買い得品",
+    "example": "I found a great _____ at the store.",
+    "translation": "店で素晴らしいお買い得品を見つけた。,",
+    "remark": ""
+  },
+  {
+    "id": 4,
+    "word": "cash register",
+    "meaning": "レジ",
+    "example": "He put the money into the _____.",
+    "translation": "彼はレジにお金を入れた。,",
+    "remark": ""
+  },
+  {
+    "id": 5,
+    "word": "changing room",
+    "meaning": "試着室",
+    "example": "She tried the dress on in the _____.",
+    "translation": "彼女は試着室でドレスを試着した。,",
+    "remark": ""
+  },
+  {
+    "id": 6,
+    "word": "clerk",
+    "meaning": "店員",
+    "example": "The _____ helped me find the right size.",
+    "translation": "店員が適切なサイズを見つけるのを手伝ってくれた。,",
+    "remark": ""
+  },
+  {
+    "id": 7,
+    "word": "counter",
+    "meaning": "カウンター",
+    "example": "Please pay at the _____.",
+    "translation": "カウンターでお支払いください。,",
+    "remark": ""
+  },
+  {
+    "id": 8,
+    "word": "customer relations",
+    "meaning": "顧客対応",
+    "example": "The company improved its _____.",
+    "translation": "その会社は顧客対応を改善した。,",
+    "remark": ""
+  },
+  {
+    "id": 9,
+    "word": "customer service",
+    "meaning": "カスタマーサービス",
+    "example": "Good _____ is essential.",
+    "translation": "良いカスタマーサービスは重要です。,",
+    "remark": ""
+  },
+  {
+    "id": 10,
+    "word": "damaged",
+    "meaning": "損傷した",
+    "example": "The product was _____ during shipping.",
+    "translation": "商品は配送中に損傷した。,",
+    "remark": ""
+  },
+  {
+    "id": 11,
+    "word": "discount",
+    "meaning": "割引",
+    "example": "They offered a 20% _____ on all items.",
+    "translation": "全商品が20％割引された。,",
+    "remark": ""
+  },
+  {
+    "id": 12,
+    "word": "display",
+    "meaning": "展示",
+    "example": "The new products are on _____.",
+    "translation": "新製品が展示されている。,",
+    "remark": ""
+  },
+  {
+    "id": 13,
+    "word": "loyalty card",
+    "meaning": "ポイントカード",
+    "example": "I used my _____ to collect points.",
+    "translation": "ポイントを貯めるためにポイントカードを使った。,",
+    "remark": ""
+  },
+  {
+    "id": 14,
+    "word": "opening hours",
+    "meaning": "営業時間",
+    "example": "The _____ are from 9 to 9.",
+    "translation": "営業時間は9時から9時までです。,",
+    "remark": ""
+  },
+  {
+    "id": 15,
+    "word": "refund",
+    "meaning": "返金",
+    "example": "You can get a _____ with the receipt.",
+    "translation": "レシートがあれば返金可能です。,",
+    "remark": ""
+  },
+  {
+    "id": 16,
+    "word": "reputation",
+    "meaning": "評判",
+    "example": "The store has a good _____.",
+    "translation": "その店は評判が良い。,",
+    "remark": ""
+  },
+  {
+    "id": 17,
+    "word": "shelves",
+    "meaning": "棚",
+    "example": "The _____ were full of new products.",
+    "translation": "棚には新製品がいっぱいだった。,",
+    "remark": ""
+  },
+  {
+    "id": 18,
+    "word": "shopping mall",
+    "meaning": "ショッピングモール",
+    "example": "We spent the day at the _____.",
+    "translation": "私たちは一日中ショッピングモールで過ごした。,",
+    "remark": ""
+  },
+  {
+    "id": 19,
+    "word": "stock",
+    "meaning": "在庫",
+    "example": "The item is currently out of _____.",
+    "translation": "その商品は現在在庫切れです。,",
+    "remark": ""
+  },
+  {
+    "id": 20,
+    "word": "store credit",
+    "meaning": "ストアクレジット",
+    "example": "I received _____ instead of a refund.",
+    "translation": "返金の代わりにストアクレジットをもらった。,",
+    "remark": ""
+  },
+  {
+    "id": 21,
+    "word": "try on",
+    "meaning": "試着する",
+    "example": "Can I _____ this jacket?",
+    "translation": "このジャケットを試着してもいいですか？,",
+    "remark": ""
+  },
+  {
+    "id": 22,
+    "word": "undersold",
+    "meaning": "他店より安く売る",
+    "example": "Our store has never been _____.",
+    "translation": "当店は常に最安値です。",
+    "remark": ""
+  }
+]

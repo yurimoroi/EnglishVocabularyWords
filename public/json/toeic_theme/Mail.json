@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "word": "airmail",
+    "meaning": "航空便",
+    "example": "I sent the letter by _____.",
+    "translation": "その手紙を航空便で送りました。",
+    "remark": ""
+  },
+  {
+    "id": 2,
+    "word": "cash on delivery (COD)",
+    "meaning": "代金引換",
+    "example": "The package was delivered _____.",
+    "translation": "荷物は代金引換で配達されました。",
+    "remark": ""
+  },
+  {
+    "id": 3,
+    "word": "dead letter office",
+    "meaning": "不達郵便処理所",
+    "example": "The letter ended up at the _____.",
+    "translation": "その手紙は不達郵便処理所に送られました。",
+    "remark": ""
+  },
+  {
+    "id": 4,
+    "word": "envelope",
+    "meaning": "封筒",
+    "example": "Put the document in an _____.",
+    "translation": "書類を封筒に入れてください。",
+    "remark": ""
+  },
+  {
+    "id": 5,
+    "word": "first class",
+    "meaning": "第一種郵便",
+    "example": "I mailed the application using _____.",
+    "translation": "申請書を第一種郵便で送りました。",
+    "remark": ""
+  },
+  {
+    "id": 6,
+    "word": "fragile",
+    "meaning": "壊れやすい",
+    "example": "The box is marked as _____.",
+    "translation": "この箱には「壊れ物」と表示されています。",
+    "remark": ""
+  },
+  {
+    "id": 7,
+    "word": "metered mail",
+    "meaning": "料金別納郵便",
+    "example": "The office sends bills via _____.",
+    "translation": "その会社は料金別納で請求書を送ります。",
+    "remark": ""
+  },
+  {
+    "id": 8,
+    "word": "mailing restrictions",
+    "meaning": "郵送制限",
+    "example": "Check _____ before sending liquids.",
+    "translation": "液体を送る前に郵送制限を確認してください。",
+    "remark": ""
+  },
+  {
+    "id": 9,
+    "word": "money order",
+    "meaning": "為替",
+    "example": "I paid the bill with a _____.",
+    "translation": "請求書を為替で支払いました。",
+    "remark": ""
+  },
+  {
+    "id": 10,
+    "word": "parcel",
+    "meaning": "小包",
+    "example": "I received a _____ from my friend.",
+    "translation": "友人から小包が届きました。",
+    "remark": ""
+  },
+  {
+    "id": 11,
+    "word": "post office",
+    "meaning": "郵便局",
+    "example": "Go to the _____ to send this package.",
+    "translation": "この荷物を送るために郵便局へ行ってください。",
+    "remark": ""
+  },
+  {
+    "id": 12,
+    "word": "postal insurance",
+    "meaning": "郵便保険",
+    "example": "_____ is available for valuable items.",
+    "translation": "高価な品には郵便保険をかけられます。",
+    "remark": ""
+  },
+  {
+    "id": 13,
+    "word": "postage meter",
+    "meaning": "郵便料金計器",
+    "example": "The company uses a _____ for bulk mail.",
+    "translation": "その会社は大量郵便に郵便料金計器を使っています。",
+    "remark": ""
+  },
+  {
+    "id": 14,
+    "word": "Post Office (PO) Box",
+    "meaning": "私書箱",
+    "example": "She has a _____ for business mail.",
+    "translation": "彼女は業務用に私書箱を利用しています。",
+    "remark": ""
+  },
+  {
+    "id": 15,
+    "word": "postcard",
+    "meaning": "はがき",
+    "example": "I sent a _____ from Hawaii.",
+    "translation": "ハワイからはがきを送りました。",
+    "remark": ""
+  },
+  {
+    "id": 16,
+    "word": "postmark",
+    "meaning": "消印",
+    "example": "The _____ shows the mailing date.",
+    "translation": "消印には郵送日が表示されています。",
+    "remark": ""
+  },
+  {
+    "id": 17,
+    "word": "postmaster",
+    "meaning": "郵便局長",
+    "example": "The _____ manages all postal operations.",
+    "translation": "郵便局長はすべての郵便業務を管理します。",
+    "remark": ""
+  },
+  {
+    "id": 18,
+    "word": "private courier",
+    "meaning": "民間宅配業者",
+    "example": "We used a _____ for faster delivery.",
+    "translation": "迅速な配達のために民間宅配業者を利用しました。",
+    "remark": ""
+  },
+  {
+    "id": 19,
+    "word": "registered mail",
+    "meaning": "書留",
+    "example": "Important documents should be sent via _____.",
+    "translation": "重要書類は書留で送るべきです。",
+    "remark": ""
+  },
+  {
+    "id": 20,
+    "word": "return to sender",
+    "meaning": "差出人に返送する",
+    "example": "The letter was _____.",
+    "translation": "その手紙は差出人に返送されました。",
+    "remark": ""
+  },
+  {
+    "id": 21,
+    "word": "scale",
+    "meaning": "はかり",
+    "example": "Place the package on the _____.",
+    "translation": "荷物をはかりに載せてください。",
+    "remark": ""
+  },
+  {
+    "id": 22,
+    "word": "snail mail",
+    "meaning": "通常郵便（遅い郵便）",
+    "example": "I still enjoy receiving _____.",
+    "translation": "私は今でも普通郵便を受け取るのが好きです。",
+    "remark": ""
+  },
+  {
+    "id": 23,
+    "word": "(to) sort",
+    "meaning": "仕分けする",
+    "example": "They _____ the mail by zip code.",
+    "translation": "郵便物を郵便番号で仕分けしています。",
+    "remark": ""
+  },
+  {
+    "id": 24,
+    "word": "stamp",
+    "meaning": "切手",
+    "example": "You need to put a _____ on the envelope.",
+    "translation": "封筒に切手を貼る必要があります。",
+    "remark": ""
+  },
+  {
+    "id": 25,
+    "word": "weigh",
+    "meaning": "重さを量る",
+    "example": "Please _____ the parcel before mailing.",
+    "translation": "郵送前に小包の重さを量ってください。",
+    "remark": ""
+  },
+  {
+    "id": 26,
+    "word": "zip code",
+    "meaning": "郵便番号",
+    "example": "Write your _____ clearly.",
+    "translation": "郵便番号をはっきり書いてください。",
+    "remark": ""
+  },
+  {
+    "id": 27,
+    "word": "zone fare",
+    "meaning": "区域料金",
+    "example": "The _____ varies depending on distance.",
+    "translation": "区域料金は距離によって異なります。",
+    "remark": ""
+  }
+]
