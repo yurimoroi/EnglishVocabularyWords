@@ -21,38 +21,38 @@
     "meaning": "【動】参照する、言及する、(人を)紹介する",
     "example": "Please _____ to the map.",
     "translation": "地図を参照してください。",
-    "remark": ""
+    "remark": "【関】referral(紹介)"
   },
   {
     "id": 4,
     "word": "avairable",
     "meaning": "【形】入手できる、利用できる、購入できる、手が空いている",
     "example": "Tickets are _____ online.",
-    "translation": "",
-    "remark": ""
+    "translation": "チケットはオンラインで入手可能です。",
+    "remark": "【名】availability(利用できること)【反】customer-referral program(顧客紹介プログラム)"
   },
   {
     "id": 5,
     "word": "department",
     "meaning": "【名】部門、売り場",
     "example": "the sales _____",
-    "translation": "",
-    "remark": ""
+    "translation": "営業部",
+    "remark": "【形】departmental(部門の)【関】a department store(デパート)"
   },
   {
     "id": 6,
     "word": "conference",
     "meaning": "【名】会議",
     "example": "a large _____ room",
-    "translation": "",
-    "remark": ""
+    "translation": "大きな会議室",
+    "remark": "※同じ組織や職種の人々の集会を指す類義語のconvention(会議、大会)も頻出"
   },
   {
     "id": 7,
     "word": "according to",
     "meaning": "【前】～によると、～に従って",
     "example": "_____- to the e-mail",
-    "translation": "",
+    "translation": "メールによると",
     "remark": ""
   },
   {
@@ -60,7 +60,7 @@
     "word": "likely",
     "meaning": "【副】おそらく 【形】～しそうだ",
     "example": "Who most _____ is the woman?",
-    "translation": "",
+    "translation": "女性はおそらく誰ですか。",
     "remark": ""
   },
   {
@@ -68,15 +68,15 @@
     "word": "offer",
     "meaning": "【動】申し出る、提供する 【名】申し出、オファー",
     "example": "What does the man _____ to do?",
-    "translation": "",
-    "remark": ""
+    "translation": "男性は何をすることを申し出ていますか。",
+    "remark": "【名】offering(提出物)"
   },
   {
     "id": 10,
     "word": "equipment",
     "meaning": "【名】機器、装備",
     "example": "new office _____",
-    "translation": "",
+    "translation": "新しいオフィス機器",
     "remark": ""
   },
   {
@@ -84,23 +84,23 @@
     "word": "provide",
     "meaning": "【動】提供する",
     "example": "Please _____ me with your e-mail address.",
-    "translation": "",
-    "remark": ""
+    "translation": "あなたのメールアドレスを提供してください。",
+    "remark": "【関】provider(提供者)"
   },
   {
     "id": 12,
     "word": "local",
     "meaning": "【形】地元の 【名】地元の人",
     "example": "_____ businesses",
-    "translation": "",
-    "remark": ""
+    "translation": "地元の会社",
+    "remark": "【副】locally(地元で)【関】a local train(各駅停車の電車)"
   },
   {
     "id": 13,
     "word": "purchase",
     "meaning": "【動】購入する 【名】購入品",
     "example": "_____ tickets",
-    "translation": "",
+    "translation": "チケットを購入する",
     "remark": ""
   },
   {
@@ -108,23 +108,23 @@
     "word": "opening",
     "meaning": "【名】空き、開店",
     "example": "a job _____",
-    "translation": "",
-    "remark": ""
+    "translation": "仕事の空き",
+    "remark": "【類】vacancy(空き)【関】an open position(空きポジション)"
   },
   {
     "id": 15,
     "word": "constraction",
     "meaning": "【名】建設",
     "example": "_____ project",
-    "translation": "",
-    "remark": ""
+    "translation": "建設プロジェクト",
+    "remark": "【動】construct(建設する)【関】under construction(建設中、工事中)"
   },
   {
     "id": 16,
     "word": "tour",
     "meaning": "【動】見学する、旅行する 【名】見学、旅行",
     "example": "while _____ing the factory",
-    "translation": "",
+    "translation": "工場を見学している間",
     "remark": ""
   },
   {
@@ -132,23 +132,23 @@
     "word": "research",
     "meaning": "【名】研究、調査 【動】研究する、調査する",
     "example": "market _____",
-    "translation": "",
-    "remark": ""
+    "translation": "市場調査",
+    "remark": "【関】researcher(調査員、研究者)"
   },
   {
     "id": 18,
     "word": "attend",
     "meaning": "【動】出席する、参加する",
     "example": "_____ a meeting",
-    "translation": "",
-    "remark": ""
+    "translation": "会議に出席する",
+    "remark": "【名】attendance(出席)【関】attendee(出席者)"
   },
   {
     "id": 19,
     "word": "delivery",
     "meaning": "【名】配達(物)",
     "example": "change a _____ date",
-    "translation": "",
+    "translation": "配達日を変更する",
     "remark": ""
   },
   {
@@ -156,39 +156,39 @@
     "word": "recently",
     "meaning": "【副】最近",
     "example": "I _____ bought a printer.",
-    "translation": "",
-    "remark": ""
+    "translation": "私は最近プリンターを買った。",
+    "remark": "【形】recent(最近の)"
   },
   {
     "id": 21,
     "word": "indicate",
     "meaning": "【動】示す",
     "example": "What is _____d about Mr.Kato?",
-    "translation": "",
-    "remark": ""
+    "translation": "加藤さんについて何が示されていますか。",
+    "remark": "【関】indicator(指標)、indivative(指標となる)"
   },
   {
     "id": 22,
     "word": "employee",
     "meaning": "【名】社員、従業員",
     "example": "an _____ of a hotel",
-    "translation": "",
-    "remark": ""
+    "translation": "ホテルの従業員",
+    "remark": "【動】employ(雇う)【関】employer(雇用主)、employment(雇用)【関】in the employ of(~に雇われている)"
   },
   {
     "id": 23,
     "word": "additional",
     "meaning": "【形】追加の",
     "example": "request _____ staff",
-    "translation": "",
-    "remark": ""
+    "translation": "追加のスタッフを要請する",
+    "remark": "【動】add(加える)【副】additionally(加えて)【名】addition(追加、新戦力)【関】in addition to X(Xに加えて)、in addition(加えて)"
   },
   {
     "id": 24,
     "word": "survey",
     "meaning": "【名】アンケート調査 【動】アンケート調査を行う",
     "example": "a customer _____",
-    "translation": "",
+    "translation": "顧客アンケート調査",
     "remark": ""
   },
   {
@@ -196,47 +196,47 @@
     "word": "review",
     "meaning": "【動】検討する、論評する 【名】検討、論評",
     "example": "_____ a report",
-    "translation": "",
-    "remark": ""
+    "translation": "報告書に目を通す",
+    "remark": "【関】reviewer(レビューワー)"
   },
   {
     "id": 26,
     "word": "production",
     "meaning": "【名】生産、作品",
     "example": "the _____ area",
-    "translation": "",
-    "remark": ""
+    "translation": "生産エリア",
+    "remark": "【関】producer(生産業者、プロデューサー)"
   },
   {
     "id": 27,
     "word": "located",
     "meaning": "【形】位置して",
     "example": "conveniently _____ near a subway station",
-    "translation": "",
-    "remark": ""
+    "translation": "地下鉄の駅近くの便利な場所にある",
+    "remark": "【名】location(場所、立地)"
   },
   {
     "id": 28,
     "word": "detail",
     "meaning": "【名】詳細 【動】詳しく調べる",
     "example": "_____s of a plan",
-    "translation": "",
-    "remark": ""
+    "translation": "計画の詳細",
+    "remark": "【形】detailed(詳細な)【関】in detail(詳しく)"
   },
   {
     "id": 29,
     "word": "announce",
     "meaning": "【動】発表する",
     "example": "_____ the winners",
-    "translation": "",
-    "remark": ""
+    "translation": "入賞者を発表する",
+    "remark": "【名】announcement(発表、お知らせ)"
   },
   {
     "id": 30,
     "word": "repair",
     "meaning": "【名】修理 【動】修理する",
     "example": "a computer _____ shop",
-    "translation": "",
+    "translation": "コンピューターの修理店",
     "remark": ""
   },
   {
@@ -244,23 +244,23 @@
     "word": "increase",
     "meaning": "【名】増加 【動】増える、増やす",
     "example": "an _____ in sales",
-    "translation": "",
-    "remark": ""
+    "translation": "売り上げの増加",
+    "remark": "【形】increasing(増大する)【副】increasingly(ますます)【反】decrease(現象、減る、減らす)【類】surge(急増)"
   },
   {
     "id": 32,
     "word": "include",
     "meaning": "【動】含む",
     "example": "What is NOT _____d in the form?",
-    "translation": "",
-    "remark": ""
+    "translation": "用紙に含まれていないのは何ですか。",
+    "remark": "【反】exclude(~を除く)【関】excluding(~を除いて)"
   },
   {
     "id": 33,
     "word": "currently",
     "meaning": "【副】現在",
     "example": "The item is _____ out fo stock.",
-    "translation": "",
+    "translation": "その品は現在在庫切れです。",
     "remark": ""
   },
   {
@@ -268,95 +268,95 @@
     "word": "advertising",
     "meaning": "【名】広告(業)、宣伝(活動)",
     "example": "an _____ campaign",
-    "translation": "",
-    "remark": ""
+    "translation": "広告キャンペーン",
+    "remark": "【動】advertise(宣伝する)【類】advertisement(広告、宣伝)【関】advertising agency(広告代理店)"
   },
   {
     "id": 35,
     "word": "charge",
     "meaning": "【動】請求する 【名】料金、責任",
     "example": "We _____ $50 for the service.",
-    "translation": "",
-    "remark": ""
+    "translation": "そのサービスには50ドルを請求します。",
+    "remark": "【関】sum(額)"
   },
   {
     "id": 36,
     "word": "expect",
     "meaning": "【動】予期する、予定する",
     "example": "Mr.Kato is _____ed to arrive tomorrow.",
-    "translation": "",
-    "remark": ""
+    "translation": "加藤さんは明日到着する予定だ。",
+    "remark": "【名】expectation(期待)【類】be slated to do~(〜する予定だ)"
   },
   {
     "id": 37,
     "word": "firm",
     "meaning": "【名】会社",
     "example": "a family-owned _____",
-    "translation": "",
-    "remark": ""
+    "translation": "家族経営の会社",
+    "remark": "【関】law firm(法律事務所)"
   },
   {
     "id": 38,
     "word": "client",
     "meaning": "【名】顧客、クライアント",
     "example": "visit a _____",
-    "translation": "",
-    "remark": ""
+    "translation": "顧客を訪問する",
+    "remark": "【類】customer(店などの客)"
   },
   {
     "id": 39,
     "word": "financial",
     "meaning": "【形】お金の、財務の、金融の",
     "example": "_____ support from the government",
-    "translation": "",
-    "remark": ""
+    "translation": "政府からのお金の支援",
+    "remark": "【名】finance(財務)【副】financially(金銭的に)【類】monetary(お金の)"
   },
   {
     "id": 40,
     "word": "annual",
     "meaning": "【形】年に1度の、毎年恒例の、年間の",
     "example": "an _____ report",
-    "translation": "",
-    "remark": ""
+    "translation": "年次報告書",
+    "remark": "【類】annually(年に一度)【関】semi-annual(年に二度の)"
   },
   {
     "id": 41,
     "word": "payment",
     "meaning": "【名】支払い",
     "example": "make an online _____",
-    "translation": "",
-    "remark": ""
+    "translation": "オンラインの支払いをする",
+    "remark": "【名】pay(支払う)"
   },
   {
     "id": 42,
     "word": "budget",
     "meaning": "【名】予算 【動】予算に計上する",
     "example": "this year's _____",
-    "translation": "",
-    "remark": ""
+    "translation": "今年の予算",
+    "remark": "【関】on a budget(予算が限られている)"
   },
   {
     "id": 43,
     "word": "application",
     "meaning": "【名】応募書類、応募、申請",
     "example": "fill out an _____",
-    "translation": "",
-    "remark": ""
+    "translation": "応募書類に記入する",
+    "remark": "※「記入する」の意味fill outも頻出。【形】applicable(適用される)"
   },
   {
     "id": 44,
     "word": "contract",
     "meaning": "【名】契約(書)",
     "example": "before signing a _____",
-    "translation": "",
-    "remark": ""
+    "translation": "契約に著名する前に",
+    "remark": "【形】contractual(契約の、契約上の)【副】contractually(契約上で)【関】contractor(契約業者)【類】deal(取引、契約)"
   },
   {
     "id": 45,
     "word": "management",
     "meaning": "【名】経営(陣)、管理",
     "example": "a _____ seminar",
-    "translation": "",
+    "translation": "経営セミナー",
     "remark": ""
   },
   {
@@ -364,31 +364,31 @@
     "word": "performance",
     "meaning": "【名】業績、仕事ぶり、性能、公演",
     "example": "an employee's _____",
-    "translation": "",
-    "remark": ""
+    "translation": "従業員の成績",
+    "remark": "【動】perform(行う、講演する)"
   },
   {
     "id": 47,
     "word": "pleased",
     "meaning": "【形】喜んで、満足して",
     "example": "We are _____ with the final result.",
-    "translation": "",
-    "remark": ""
+    "translation": "最終結果に満足している。",
+    "remark": "【関】pleasant(楽しい、心地よい)【名】pleasure(喜び)"
   },
   {
     "id": 48,
     "word": "confirm",
     "meaning": "【動】確認する",
     "example": "_____ a payment",
-    "translation": "",
-    "remark": ""
+    "translation": "支払いを確認する",
+    "remark": "【名】confirmation(確認)"
   },
   {
     "id": 49,
     "word": "award",
     "meaning": "【名】賞 【動】授与する",
     "example": "_____s ceremony",
-    "translation": "",
+    "translation": "授賞式",
     "remark": ""
   },
   {
@@ -396,15 +396,15 @@
     "word": "clothing",
     "meaning": "【名】衣類",
     "example": "a _____ store",
-    "translation": "",
-    "remark": ""
+    "translation": "衣料品店",
+    "remark": "【類】cloth(布),clothes(服),grament(一着の服)"
   },
   {
     "id": 51,
     "word": "display",
     "meaning": "【名】展示 【動】展示する",
     "example": "products on _____",
-    "translation": "",
+    "translation": "展示されている製品",
     "remark": ""
   },
   {
@@ -412,7 +412,7 @@
     "word": "candidate",
     "meaning": "【名】候補者",
     "example": "a successful _____",
-    "translation": "",
+    "translation": "合格した候補者",
     "remark": ""
   },
   {
@@ -420,7 +420,7 @@
     "word": "state",
     "meaning": "【動】述べる",
     "example": "What is _____d about the hotel?",
-    "translation": "",
+    "translation": "ホテルについて何が述べられていますか。",
     "remark": ""
   },
   {
@@ -428,15 +428,15 @@
     "word": "exhibit",
     "meaning": "【名】展示物、展示会 【動】展示する",
     "example": "a museum _____",
-    "translation": "",
-    "remark": ""
+    "translation": "博物館の展示物",
+    "remark": "【同】exhibition(展示物、展示会、展示)【関】exhibitor(出展者)"
   },
   {
     "id": 55,
     "word": "session",
     "meaning": "【名】時間、集まり",
     "example": "a Q&A _____",
-    "translation": "",
+    "translation": "質疑応答の時間",
     "remark": ""
   },
   {
@@ -444,7 +444,7 @@
     "word": "note",
     "meaning": "【動】注意する、述べる 【名】メモ",
     "example": "Please _____ that prices may change.",
-    "translation": "",
+    "translation": "値段は変更になる場合があるので、注意してください。",
     "remark": ""
   },
   {
@@ -452,23 +452,23 @@
     "word": "process",
     "meaning": "【動】処理する 【名】プロセス、過程、処理",
     "example": "_____ an order",
-    "translation": "",
-    "remark": ""
+    "translation": "注文を処理する",
+    "remark": "【関】processing(処理、加工)"
   },
   {
     "id": 58,
     "word": "instruction",
     "meaning": "【名】説明書、説明、指示",
     "example": "Please read all the _____s.",
-    "translation": "",
-    "remark": ""
+    "translation": "説明書を全てお読みください。",
+    "remark": "【動】instruct(指示する)【関】instructor(講師)【類】tutorial(個別指導)"
   },
   {
     "id": 59,
     "word": "menbership",
     "meaning": "【名】会員(であること)、会員資格、会員数",
     "example": "sign up for _____",
-    "translation": "",
+    "translation": "会員登録する",
     "remark": ""
   },
   {
@@ -476,15 +476,15 @@
     "word": "agency",
     "meaning": "【名】代理店、機関",
     "example": "a travel _____",
-    "translation": "",
-    "remark": ""
+    "translation": "旅行代理店",
+    "remark": "【関】travel agent(旅行業者)"
   },
   {
     "id": 61,
     "word": "based",
     "meaning": "【形】拠点のある、基づく",
     "example": "a Seattle-_____ company",
-    "translation": "",
+    "translation": "シアトルに拠点を置く会社",
     "remark": ""
   },
   {
@@ -492,7 +492,7 @@
     "word": "facility",
     "meaning": "【名】施設",
     "example": "a research _____",
-    "translation": "",
+    "translation": "研究施設",
     "remark": ""
   },
   {
@@ -500,15 +500,15 @@
     "word": "advance",
     "meaning": "【形】先行した、事前の 【名】進歩、前進",
     "example": "_____ notice",
-    "translation": "",
-    "remark": ""
+    "translation": "事前の告知",
+    "remark": "※名詞ではin advance(事前に)のフレーズが際頻出。"
   },
   {
     "id": 64,
     "word": "committee",
     "meaning": "【名】委員会",
     "example": "join a _____",
-    "translation": "",
+    "translation": "委員会に入る",
     "remark": ""
   },
   {
@@ -516,31 +516,31 @@
     "word": "successful",
     "meaning": "【形】成功した、うまく行く",
     "example": "The event was _____.",
-    "translation": "",
-    "remark": ""
+    "translation": "素晴らしいサービス",
+    "remark": "【動】succeed(成功する)【名】success(成功)【副】successfully(うまく)"
   },
   {
     "id": 66,
     "word": "excellent",
     "meaning": "【形】素晴らしい",
     "example": "_____ service",
-    "translation": "",
-    "remark": ""
+    "translation": "ファッション業界",
+    "remark": "【名】excellence(優秀さ)【類】fine(優れた)"
   },
   {
     "id": 67,
     "word": "industry",
     "meaning": "【名】産業、業界",
     "example": "the fashion _____",
-    "translation": "",
-    "remark": ""
+    "translation": "ファッション業界",
+    "remark": "【形】industrial(産業の)"
   },
   {
     "id": 68,
     "word": "fee",
     "meaning": "【名】料金",
     "example": "pay a late _____",
-    "translation": "",
+    "translation": "延滞料金を払う",
     "remark": ""
   },
   {
@@ -548,47 +548,47 @@
     "word": "accept",
     "meaning": "【動】受け入れる",
     "example": "_____ an offer",
-    "translation": "",
-    "remark": ""
+    "translation": "オファーを受け入れる",
+    "remark": "【形】acceptable(受け入れ可能な)【名】acceptance(受け入れること、合格)"
   },
   {
     "id": 70,
     "word": "upcoming",
     "meaning": "【形】今度の",
     "example": "prepare for an _____ event",
-    "translation": "",
-    "remark": ""
+    "translation": "今度のイベントの準備をする",
+    "remark": "【類】forthcoming(来るべき)"
   },
   {
     "id": 71,
     "word": "latest",
     "meaning": "【形】最新の",
     "example": "Haruki Murakami's _____ novel",
-    "translation": "",
-    "remark": ""
+    "translation": "村上春樹の最新の小説",
+    "remark": "【関】at the latest(遅くとも)"
   },
   {
     "id": 72,
     "word": "submit",
     "meaning": "【動】提出する",
     "example": "_____ a report",
-    "translation": "",
-    "remark": ""
+    "translation": "レポートを提出する",
+    "remark": "【名】submission(提出、提出物)【類】file/turn in/hand in(提出する)"
   },
   {
     "id": 73,
     "word": "transportation",
     "meaning": "【名】輸送手段",
     "example": "use public _____",
-    "translation": "",
-    "remark": ""
+    "translation": "公共の交通機関を利用する",
+    "remark": "【類】transport(輸送、輸送する)"
   },
   {
     "id": 74,
     "word": "resume",
     "meaning": "【名】履歴書",
     "example": "send a _____",
-    "translation": "",
+    "translation": "履歴書を送る",
     "remark": ""
   },
   {
@@ -596,7 +596,7 @@
     "word": "executive",
     "meaning": "【名】重役 【形】重役(用)の、高級な",
     "example": "a company _____",
-    "translation": "",
+    "translation": "会社の重役",
     "remark": ""
   },
   {
@@ -604,47 +604,47 @@
     "word": "introduce",
     "meaning": "【動】導入する、紹介する",
     "example": "_____ a new line of products",
-    "translation": "",
-    "remark": ""
+    "translation": "新たな商品ラインを導入する",
+    "remark": "【名】introduction(紹介、導入)"
   },
   {
     "id": 77,
     "word": "previous",
     "meaning": "【形】前の、以前の",
     "example": "have no _____ experience",
-    "translation": "",
-    "remark": ""
+    "translation": "以前の経験がない",
+    "remark": "【類】preceding(先立つ)"
   },
   {
     "id": 78,
     "word": "proposal",
     "meaning": "【名】提案、提案書",
     "example": "review a _____",
-    "translation": "",
-    "remark": ""
+    "translation": "提案に目を通す",
+    "remark": "【動】propose(提案する)"
   },
   {
     "id": 79,
     "word": "supply",
     "meaning": "【名】必需品 【動】供給する",
     "example": "office _____s",
-    "translation": "",
-    "remark": ""
+    "translation": "オフィス用品",
+    "remark": "【関】supplier(供給業者)"
   },
   {
     "id": 80,
     "word": "exclose",
     "meaning": "【動】同封する、囲む",
     "example": "My resume is _____d",
-    "translation": "",
-    "remark": ""
+    "translation": "履歴書を同封いたします。",
+    "remark": "【名】enclosure(同封物)"
   },
   {
     "id": 81,
     "word": "policy",
     "meaning": "【名】規定、方針",
     "example": "returns _____",
-    "translation": "",
+    "translation": "返品規定",
     "remark": ""
   },
   {
@@ -652,15 +652,15 @@
     "word": "register",
     "meaning": "【動】登録する 【名】レジ",
     "example": "_____ for employee training",
-    "translation": "",
-    "remark": ""
+    "translation": "社員研修に登録する",
+    "remark": "【名】registration(登録)【類】sign up for(~に登録する)"
   },
   {
     "id": 83,
     "word": "arrange",
     "meaning": "【動】手配する、並べる",
     "example": "_____ a meeting",
-    "translation": "",
+    "translation": "会議の手配をする",
     "remark": ""
   },
   {
@@ -668,15 +668,15 @@
     "word": "bill",
     "meaning": "【名】請求書 【動】請求書を送る",
     "example": "receive a _____",
-    "translation": "",
-    "remark": ""
+    "translation": "請求書を受け取る",
+    "remark": "【類】invoice(請求書)"
   },
   {
     "id": 85,
     "word": "hire",
     "meaning": "【動】雇う",
     "example": "_____ an assistant",
-    "translation": "",
+    "translation": "アシスタントを雇う",
     "remark": ""
   },
   {
@@ -684,15 +684,15 @@
     "word": "approve",
     "meaning": "【動】承認する、賛成する",
     "example": "_____ a plan",
-    "translation": "",
-    "remark": ""
+    "translation": "計画を承認する",
+    "remark": "【形】approved(承認された)"
   },
   {
     "id": 87,
     "word": "conduct",
     "meaning": "【動】実行する、実施する",
     "example": "_____ a survey",
-    "translation": "",
+    "translation": "アンケート調査を行う",
     "remark": ""
   },
   {
@@ -700,15 +700,15 @@
     "word": "opportunity",
     "meaning": "【名】機会、チャンス",
     "example": "an _____ to work with you",
-    "translation": "",
-    "remark": ""
+    "translation": "あなたとお仕事をする機会",
+    "remark": "【類】chance(機会、可能性)"
   },
   {
     "id": 89,
     "word": "deadline",
     "meaning": "【名】締め切り、期限",
     "example": "the _____ for the project",
-    "translation": "",
+    "translation": "プロジェクトの締め切り",
     "remark": ""
   },
   {
@@ -716,55 +716,55 @@
     "word": "corporate",
     "meaning": "【形】企業の、法人の",
     "example": "a _____ trainer",
-    "translation": "",
-    "remark": ""
+    "translation": "企業のトレーナー",
+    "remark": "【名】corporation(企業)"
   },
   {
     "id": 91,
     "word": "warranty",
     "meaning": "【名】保証、保証書",
     "example": "a three-year _____",
-    "translation": "",
-    "remark": ""
+    "translation": "3年保証",
+    "remark": "【類】guarantee(保証、保証書、保証する)"
   },
   {
     "id": 92,
     "word": "necessary",
     "meaning": "【形】必要な",
     "example": "_____ forms",
-    "translation": "",
-    "remark": ""
+    "translation": "必要な用紙",
+    "remark": "【副】necessarily(必ず)【名】necessity(必需品)【動】necessitate(余儀なくさせる)"
   },
   {
     "id": 93,
     "word": "reserve",
     "meaning": "【動】予約する、確保する 【名】蓄え",
     "example": "_____ a room at a hotel",
-    "translation": "",
-    "remark": ""
+    "translation": "ホテルの部屋を予約する",
+    "remark": "【類】book(予約する)"
   },
   {
     "id": 94,
     "word": "resident",
     "meaning": "【名】住民、住人",
     "example": "local _____s",
-    "translation": "",
-    "remark": ""
+    "translation": "地元の住民",
+    "remark": "【動】reside(住む)【形】residential(住宅の)【関】residence(住居)【類】inhabitant(住人)"
   },
   {
     "id": 95,
     "word": "create",
     "meaning": "【動】創造する、作り出す",
     "example": "_____ a new logo",
-    "translation": "",
-    "remark": ""
+    "translation": "新しいロゴを作り出す",
+    "remark": "【形】creative(創造的な)【副】creatively(創造的に)【名】creativity(創造性)"
   },
   {
     "id": 96,
     "word": "inform",
     "meaning": "【動】知らせる、影響を与える",
     "example": "We are happy to inform you that",
-    "translation": "",
+    "translation": "〜を知らせることができて嬉しい",
     "remark": ""
   },
   {
@@ -772,24 +772,24 @@
     "word": "allow",
     "meaning": "【動】許す、可能にする",
     "example": "_____ customers to pay online",
-    "translation": "",
-    "remark": ""
+    "translation": "顧客がオンラインで支払うことを可能にする",
+    "remark": "【類】tolerate(許容する)"
   },
   {
     "id": 98,
     "word": "mention",
     "meaning": "【動】述べる、言及する 【名】言及",
     "example": "What problem does the man _____?",
-    "translation": "",
-    "remark": ""
+    "translation": "男性はどんな問題について述べていますか。",
+    "remark": "【類】state(述べる)"
   },
   {
     "id": 99,
     "word": "appreciate",
     "meaning": "【動】感謝する",
     "example": "I really _____ your help.",
-    "translation": "",
-    "remark": ""
+    "translation": "助けていただいて本当に感謝しています。",
+    "remark": "【名】appreciation(感謝)【形】appreciative(感謝して)"
   },
   {
     "id": 100,
