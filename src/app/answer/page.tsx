@@ -246,7 +246,7 @@ export default function AnswerPage() {
       </div>
 
       {/* 問題カード */}
-      <div className="bg-white rounded-lg shadow-lg p-6 mb-6 sm:h-100 h-[calc(100vh-6rem)] flex flex-col">
+      <div className="bg-white rounded-lg shadow-lg p-6 sm:h-100 h-[calc(100vh-10rem)] flex flex-col">
         <div className="flex-1 overflow-y-auto">
           {mode === "japaneseToEnglish" ? (
             <>
