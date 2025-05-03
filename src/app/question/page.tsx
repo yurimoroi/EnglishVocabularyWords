@@ -7,11 +7,11 @@ export default function QuestionPage() {
   const router = useRouter();
   const [selectedType, setSelectedType] = useState("TOEIC");
   const [selectedDirection, setSelectedDirection] = useState("japaneseToEnglish");
-  const [isRandom, setIsRandom] = useState(true);
+  const [isRandom, setIsRandom] = useState(false);
   const [isOnlyWrong, setIsOnlyWrong] = useState(false);
 
   const buttonStyle =
-    "bg-violet-500 hover:bg-violet-600 text-white font-medium py-4 px-6 rounded-lg transition-colors duration-200 shadow-md hover:shadow-lg hover:cursor-pointer";
+    "bg-violet-500 hover:bg-violet-600 text-white font-medium py-4 px-6 rounded-lg transition-colors duration-200 shadow-md hover:shadow-lg cursor-pointer";
 
   const questionTypes = [
     { id: "TOEIC", label: "TOEIC" },

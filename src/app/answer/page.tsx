@@ -107,7 +107,7 @@ export default function AnswerPage() {
 
         // ランダム出題の場合、問題をシャッフル
         if (random === "true") {
-          processedQuestions = [...data].sort(() => Math.random() - 0.5);
+          processedQuestions = [...processedQuestions].sort(() => Math.random() - 0.5);
         }
 
         setQuestions(processedQuestions);
@@ -143,16 +143,16 @@ export default function AnswerPage() {
     }
     setShowConfirmation(false);
 
-    if (currentQuestionIndex < questions.length - 1) {
+    if (currentQuestionIndex < questions.length) {
       setCurrentQuestionIndex(currentQuestionIndex + 1);
-      setShowAnswer(false);
+      setShowAnswer(currentQuestionIndex === questions.length);
     }
   };
 
   const handleNext = () => {
-    if (currentQuestionIndex < questions.length - 1) {
+    if (currentQuestionIndex < questions.length) {
       setCurrentQuestionIndex(currentQuestionIndex + 1);
-      setShowAnswer(false);
+      setShowAnswer(currentQuestionIndex === questions.length);
     }
   };
 
@@ -234,7 +234,7 @@ export default function AnswerPage() {
   }
 
   // 全問解き終わった場合
-  if (currentQuestionIndex === questions.length - 1 && showAnswer) {
+  if (currentQuestionIndex === questions.length) {
     const score = Math.round((correctAnswers / questions.length) * 100);
     let message = "";
     if (score === 100) {
@@ -247,23 +247,28 @@ export default function AnswerPage() {
       message = "もう一度復習してみましょう！";
     }
 
-    handleSaveResult();
+    // 間違えた問題のみを保存する場合は保存しない
+    if (onlyWrong !== "true") {
+      handleSaveResult();
+    }
 
     return (
-      <div className="p-8 max-w-3xl mx-auto">
-        <div className="bg-white rounded-lg shadow-lg p-6 mb-6">
-          <h2 className="text-xl font-bold text-center text-gray-700 mb-4">お疲れ様でした！</h2>
-          <div className="text-center mb-6">
-            <p className="text-2xl font-bold text-violet-600 mb-2">{score}点</p>
-            <p className="text-gray-600">{message}</p>
-          </div>
-          <div className="flex flex-col gap-4">
-            <button
-              onClick={() => router.push("/question")}
-              className="w-full bg-violet-500 hover:bg-violet-600 text-white text-center font-medium py-4 px-3 rounded-lg transition-colors duration-200 shadow-md hover:shadow-lg text-sm"
-            >
-              問題選択に戻る
-            </button>
+      <div className="px-8 lg:px-50 py-4 bg-gray-50 h-screen overflow-hidden">
+        <div className="p-8 max-w-3xl mx-auto">
+          <div className="bg-white rounded-lg shadow-lg p-6 mb-6">
+            <h2 className="text-xl font-bold text-center text-gray-700 mb-4">お疲れ様でした！</h2>
+            <div className="text-center mb-6">
+              <p className="text-2xl font-bold text-violet-600 mb-2">{score}点</p>
+              <p className="text-gray-600">{message}</p>
+            </div>
+            <div className="flex flex-col gap-4">
+              <button
+                onClick={() => router.push("/question")}
+                className="w-full bg-violet-500 hover:bg-violet-600 text-white text-center font-medium py-4 px-3 rounded-lg transition-colors duration-200 shadow-md hover:shadow-lg text-sm cursor-pointer"
+              >
+                問題選択に戻る
+              </button>
+            </div>
           </div>
         </div>
       </div>
@@ -331,7 +336,7 @@ export default function AnswerPage() {
                 <h2 className="text-xs font-bold text-gray-700">Word</h2>
                 <button
                   onClick={() => speakText(currentQuestion.word)}
-                  className="text-xs text-gray-500 hover:text-gray-700"
+                  className="text-xs text-gray-500 hover:text-gray-700 cursor-pointer"
                 >
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -366,7 +371,7 @@ export default function AnswerPage() {
                     <h3 className="font-bold text-gray-700 text-xs">単語:</h3>
                     <button
                       onClick={() => speakText(currentQuestion.word)}
-                      className="text-xs text-gray-500 hover:text-gray-700"
+                      className="text-xs text-gray-500 hover:text-gray-700 cursor-pointer"
                     >
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
@@ -416,13 +421,13 @@ export default function AnswerPage() {
             <div className="grid grid-cols-2 gap-4">
               <button
                 onClick={() => handleAnswer(true)}
-                className="bg-green-500 hover:bg-green-600 text-white text-center font-medium py-4 px-3 rounded-lg transition-colors duration-200 shadow-md hover:shadow-lg text-xs sm:text-sm whitespace-nowrap"
+                className="bg-green-500 hover:bg-green-600 text-white text-center font-medium py-4 px-3 rounded-lg transition-colors duration-200 shadow-md hover:shadow-lg text-xs sm:text-sm whitespace-nowrap cursor-pointer"
               >
                 {mode === "japaneseToEnglish" ? "わかった" : "I got it"}
               </button>
               <button
                 onClick={() => handleAnswer(false)}
-                className="bg-red-500 hover:bg-red-600 text-white text-center font-medium py-4 px-3 rounded-lg transition-colors duration-200 shadow-md hover:shadow-lg text-xs sm:text-sm whitespace-nowrap"
+                className="bg-red-500 hover:bg-red-600 text-white text-center font-medium py-4 px-3 rounded-lg transition-colors duration-200 shadow-md hover:shadow-lg text-xs sm:text-sm whitespace-nowrap cursor-pointer"
               >
                 {mode === "japaneseToEnglish" ? "わからなかった" : "I don't know"}
               </button>
@@ -431,24 +436,30 @@ export default function AnswerPage() {
             <div className="grid grid-cols-2 gap-4">
               <button
                 onClick={() => handleConfirmation(true)}
-                className="bg-green-500 hover:bg-green-600 text-white text-center font-medium py-4 px-3 rounded-lg transition-colors duration-200 shadow-md hover:shadow-lg text-xs sm:text-sm whitespace-nowrap"
+                className="bg-green-500 hover:bg-green-600 text-white text-center font-medium py-4 px-3 rounded-lg transition-colors duration-200 shadow-md hover:shadow-lg text-xs sm:text-sm whitespace-nowrap cursor-pointer"
               >
                 {mode === "japaneseToEnglish" ? "正解" : "Correct"}
               </button>
               <button
                 onClick={() => handleConfirmation(false)}
-                className="bg-red-500 hover:bg-red-600 text-white text-center font-medium py-4 px-3 rounded-lg transition-colors duration-200 shadow-md hover:shadow-lg text-xs sm:text-sm whitespace-nowrap"
+                className="bg-red-500 hover:bg-red-600 text-white text-center font-medium py-4 px-3 rounded-lg transition-colors duration-200 shadow-md hover:shadow-lg text-xs sm:text-sm whitespace-nowrap cursor-pointer"
               >
                 {mode === "japaneseToEnglish" ? "不正解" : "Incorrect"}
               </button>
             </div>
           ) : (
-            currentQuestionIndex < questions.length - 1 && (
+            currentQuestionIndex < questions.length && (
               <button
                 onClick={handleNext}
-                className="w-full bg-violet-500 hover:bg-violet-600 text-white text-center font-medium py-4 px-3 rounded-lg transition-colors duration-200 shadow-md hover:shadow-lg text-xs sm:text-sm whitespace-nowrap"
+                className="w-full bg-violet-500 hover:bg-violet-600 text-white text-center font-medium py-4 px-3 rounded-lg transition-colors duration-200 shadow-md hover:shadow-lg text-xs sm:text-sm whitespace-nowrap cursor-pointer"
               >
-                {mode === "japaneseToEnglish" ? "次の問題へ" : "Next Question"}
+                {mode === "japaneseToEnglish"
+                  ? currentQuestionIndex === questions.length - 1
+                    ? "終了！"
+                    : "次の問題へ"
+                  : currentQuestionIndex === questions.length - 1
+                  ? "Finish!"
+                  : "Next Question"}
               </button>
             )
           )}
