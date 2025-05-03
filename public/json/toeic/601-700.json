@@ -3,800 +3,800 @@
     "id": 1,
     "word": "observe",
     "meaning": "【動】気づく、順守する、観察する",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "We need to _____ all safety regulations at the factory.",
+    "translation": "工場ではすべての安全規則を順守する必要があります。",
+    "remark": "【名】observation(観察)"
   },
   {
     "id": 2,
     "word": "possess",
     "meaning": "【動】(財産、所有物として)持つ、所有する",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "She _____es both intelligence and charm.",
+    "translation": "彼女は知性と魅力の両方を備えています。",
+    "remark": "【名】possession(所有、保持) 【類】have/own(所有する)"
   },
   {
     "id": 3,
     "word": "sharply",
     "meaning": "【副】急激に、はっきりと",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "Sales dropped _____ after the product recall.",
+    "translation": "製品のリコール後、売上は急激に落ちました。",
+    "remark": "【形】sharp(急激な)"
   },
   {
     "id": 4,
     "word": "adjustment",
     "meaning": "【名】調整、調節",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "A slight _____ to the schedule improved efficiency.",
+    "translation": "スケジュールを少し調整することで効率が向上しました。",
+    "remark": "【動】adjust(調整する、適応する)"
   },
   {
     "id": 5,
     "word": "aisle",
     "meaning": "【名】通路",
-    "example": "",
-    "translation": "",
+    "example": "Please keep the _____ clear during the flight.",
+    "translation": "飛行中は通路をふさがないようにしてください。",
     "remark": ""
   },
   {
     "id": 6,
     "word": "capture",
     "meaning": "【動】(映像や写真に)記録する、とらえる",
-    "example": "",
-    "translation": "",
+    "example": "The photographer _____d a stunning sunset.",
+    "translation": "その写真家は美しい夕日を写真に収めました。",
     "remark": ""
   },
   {
     "id": 7,
     "word": "consist",
     "meaning": "【動】～から成る",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "The team _____s of five engineers and two designers.",
+    "translation": "そのチームは5人のエンジニアと2人のデザイナーで構成されています。",
+    "remark": "【類】be composed of(～から成る)"
   },
   {
     "id": 8,
     "word": "desirable",
     "meaning": "【形】望ましい",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "Fluency in English is _____ for this position.",
+    "translation": "この職には英語の流暢さが望まれます。",
+    "remark": "【類】preferred/preferable(望ましい)"
   },
   {
     "id": 9,
     "word": "heavily",
     "meaning": "【副】大量に、非常に頻繁に",
-    "example": "",
-    "translation": "",
+    "example": "It rained _____ all night.",
+    "translation": "一晩中、激しい雨が降りました。",
     "remark": ""
   },
   {
     "id": 10,
     "word": "investigate",
     "meaning": "【動】調査する",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "The police are _____ing the cause of the fire.",
+    "translation": "警察は火災の原因を調査しています。",
+    "remark": "【名】investigation(調査) 【類】look into(調べる)"
   },
   {
     "id": 11,
     "word": "measurement",
     "meaning": "【名】寸法、測定",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "Accurate _____s are essential in construction.",
+    "translation": "正確な寸法は建設において不可欠です。",
+    "remark": "【動】measure(測定する) 【類】dimension(寸法)"
   },
   {
     "id": 12,
     "word": "urgent",
     "meaning": "【形】緊急の",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "This is an _____ matter that needs immediate attention.",
+    "translation": "これは早急に対処が必要な緊急の問題です。",
+    "remark": "【副】urgently(緊急に)"
   },
   {
     "id": 13,
     "word": "checkout",
     "meaning": "【名】レジ、(ホテルの)チェックアウト",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "I waited in line at the _____ for ten minutes.",
+    "translation": "レジで10分間列に並びました。",
+    "remark": "【関】cashier(レジ係)"
   },
   {
     "id": 14,
     "word": "dispose",
     "meaning": "【動】処分する",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "Please _____ of trash properly.",
+    "translation": "ゴミは適切に処分してください。",
+    "remark": "【類】discard(捨てる) 【名】disposal(処分) 【形】disposable(使い捨ての)"
   },
   {
     "id": 15,
     "word": "modify",
     "meaning": "【動】修正する",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "The program was _____ed to run more efficiently.",
+    "translation": "そのプログラムはより効率的に動作するよう修正されました。",
+    "remark": "【名】modification(修正) 【類】change/alter(変える)、adapt(適応させる)、transform(一変させる)、convert(改造する)"
   },
   {
     "id": 16,
     "word": "outlet",
     "meaning": "【名】店舗、コンセント",
-    "example": "",
-    "translation": "",
+    "example": "This shopping mall has many brand-name _____s.",
+    "translation": "このショッピングモールには多くのブランド店舗があります。",
     "remark": ""
   },
   {
     "id": 17,
     "word": "prescription",
     "meaning": "【名】処方箋",
-    "example": "",
-    "translation": "",
+    "example": "I need to get a _____ filled at the pharmacy.",
+    "translation": "処方箋を薬局で調剤してもらう必要があります。",
     "remark": ""
   },
   {
     "id": 18,
     "word": "situated",
     "meaning": "【形】位置している",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "The hotel is _____ near the beach.",
+    "translation": "そのホテルは海の近くに位置しています。",
+    "remark": "【形】located(位置している)"
   },
   {
     "id": 19,
     "word": "surprisingly",
     "meaning": "【副】驚いたことに",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "_____, he passed the exam with a perfect score.",
+    "translation": "驚いたことに、彼は満点で試験に合格しました。",
+    "remark": "【形】surprising(驚くべき)"
   },
   {
     "id": 20,
     "word": "transform",
     "meaning": "【動】(姿、形、性質等を)一変させる",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "Technology has _____ed the way we communicate.",
+    "translation": "テクノロジーは私たちのコミュニケーションの方法を一変させました。",
+    "remark": "【名】transformation(変化) 【類】turn A into B(AをBに変える)"
   },
   {
     "id": 21,
     "word": "undergo",
     "meaning": "【動】(検査、修理等を)経験する、受ける",
-    "example": "",
-    "translation": "",
+    "example": "The building will _____ renovations next month.",
+    "translation": "その建物は来月改装工事を受けます。",
     "remark": ""
   },
   {
     "id": 22,
     "word": "blueprint",
     "meaning": "【名】設計図、青写真",
-    "example": "",
-    "translation": "",
+    "example": "The architect showed us the _____ for the new house.",
+    "translation": "建築家は新しい家の設計図を見せてくれました。",
     "remark": ""
   },
   {
     "id": 23,
     "word": "boost",
     "meaning": "【動】押し上げる、引き上げる 【名】押し上げること",
-    "example": "",
-    "translation": "",
+    "example": "The new advertisement helped _____ sales.",
+    "translation": "新しい広告が売上を押し上げるのに役立ちました。",
     "remark": ""
   },
   {
     "id": 24,
     "word": "considerably",
     "meaning": "【副】かなり",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "The weather has improved _____.",
+    "translation": "天候はかなり回復しました。",
+    "remark": "【類】significantly/substantially/markedly(かなり) 【形】considerable(かなり)"
   },
   {
     "id": 25,
     "word": "eliminate",
     "meaning": "【動】取り除く、排除する",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "We need to _____ unnecessary expenses.",
+    "translation": "不要な出費を取り除く必要があります。",
+    "remark": "【類】remove(取り除く、取り出す)"
   },
   {
     "id": 26,
     "word": "exclusively",
     "meaning": "【副】限定で、独占的に",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "This offer is available _____ to members.",
+    "translation": "この特典は会員限定で利用可能です。",
+    "remark": "【形】exclusive(限定の)"
   },
   {
     "id": 27,
     "word": "leak",
     "meaning": "【動】漏れる、漏らす 【名】漏れ",
-    "example": "",
-    "translation": "",
+    "example": "Water started to _____ from the ceiling.",
+    "translation": "天井から水が漏れ始めました。",
     "remark": ""
   },
   {
     "id": 28,
     "word": "preliminary",
     "meaning": "【形】仮の、暫定の、本番前の",
-    "example": "",
-    "translation": "",
+    "example": "These are just _____ results.",
+    "translation": "これはあくまで暫定的な結果です。",
     "remark": ""
   },
   {
     "id": 29,
     "word": "sophisticated",
     "meaning": "【形】洗練された、高性能の",
-    "example": "",
-    "translation": "",
+    "example": "The software is equipped with a _____ search function.",
+    "translation": "このソフトウェアには洗練された検索機能が搭載されています。",
     "remark": ""
   },
   {
     "id": 30,
     "word": "statistics",
     "meaning": "【名】統計、統計学",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "The _____ show a significant increase in population.",
+    "translation": "統計によると人口が大きく増加しています。",
+    "remark": "【形】statistical(統計の) 【副】statistically(統計的に)"
   },
   {
     "id": 31,
     "word": "vacant",
     "meaning": "【形】空の、空いた、欠員の",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "The room has been _____ for months.",
+    "translation": "その部屋は数か月間空いています。",
+    "remark": "【名】vacancy(仕事の秋、空き部屋) 【動】vacate(場所を空ける、立ち退く)"
   },
   {
     "id": 32,
     "word": "evidence",
     "meaning": "【名】証拠、証明",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "The police found _____ at the crime scene.",
+    "translation": "警察は犯行現場で証拠を見つけました。",
+    "remark": "【形】evident(明らかな) 【類】proof(証明)"
   },
   {
     "id": 33,
     "word": "excursion",
     "meaning": "【名】お出かけ、小旅行",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "We went on a weekend _____ to the mountains.",
+    "translation": "私たちは週末に山への小旅行に出かけました。",
+    "remark": "【類】gateway(短期休暇)、outing(お出かけ)"
   },
   {
     "id": 34,
     "word": "influence",
     "meaning": "【動】影響を与える 【名】影響",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "His speech _____d many people.",
+    "translation": "彼のスピーチは多くの人に影響を与えました。",
+    "remark": "【形】influential(影響力のある)"
   },
   {
     "id": 35,
     "word": "ordinary",
     "meaning": "【形】普通の、通常の",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "It was just an _____ day.",
+    "translation": "それはただの普通の日でした。",
+    "remark": "【副】ordinarily(通常、普通は) 【類】common(一般的な、普通の) 【反】extraordinary(並外れた、驚くべき)"
   },
   {
     "id": 36,
     "word": "reject",
     "meaning": "【動】却下する、拒否する",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "She _____ed the job offer.",
+    "translation": "彼女はその仕事のオファーを断りました。",
+    "remark": "【類】turn down(却下する)、deny(否定する)"
   },
   {
     "id": 37,
     "word": "tailor",
     "meaning": "【動】(ニーズや目的に合うように)合わせる、調整する",
-    "example": "",
-    "translation": "",
+    "example": "We _____ our services to meet customer needs.",
+    "translation": "当社のサービスは顧客のニーズに合わせて調整しています。",
     "remark": ""
   },
   {
     "id": 38,
     "word": "assume",
     "meaning": "【動】引き受ける、思い込む、仮定する",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "I _____d he was coming to the meeting.",
+    "translation": "彼が会議に来ると思い込んでいました。",
+    "remark": "【類】take on(引き受ける)"
   },
   {
     "id": 39,
     "word": "engagement",
     "meaning": "【名】約束",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "I have a business _____ this evening.",
+    "translation": "今晩は仕事の約束があります。",
+    "remark": "【関】engage in X(Xに参加する、関わる) 【形】engaging(魅力的な)"
   },
   {
     "id": 40,
     "word": "fame",
     "meaning": "【名】名声",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "He rose to _____ as a talented actor.",
+    "translation": "彼は才能ある俳優として名声を得ました。",
+    "remark": "【形】famous(有名な) 【類】renown(名声)"
   },
   {
     "id": 41,
     "word": "modest",
     "meaning": "【形】少しの、高価ではない、謙虚な",
-    "example": "",
-    "translation": "",
+    "example": "They live in a _____ house.",
+    "translation": "彼らは質素な家に住んでいます。",
     "remark": ""
   },
   {
     "id": 42,
     "word": "patent",
     "meaning": "【名】特許",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "The inventor applied for a _____.",
+    "translation": "発明者は特許を申請しました。",
+    "remark": "【関】copyright(著作権)"
   },
   {
     "id": 43,
     "word": "pursue",
     "meaning": "【動】追及する、追い求める",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "She decided to _____ a career in medicine.",
+    "translation": "彼女は医療の道を追求することに決めました。",
+    "remark": "【名】pursuit(追及)"
   },
   {
     "id": 44,
     "word": "remote",
     "meaning": "【形】人里離れた、可能性が低い",
-    "example": "",
-    "translation": "",
+    "example": "They live in a _____ village.",
+    "translation": "彼らは人里離れた村に住んでいます。",
     "remark": ""
   },
   {
     "id": 45,
     "word": "reveal",
     "meaning": "【動】明らかにする",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "The study _____ed surprising results.",
+    "translation": "その研究は驚くべき結果を明らかにしました。",
+    "remark": "【類】unveil(披露する)、disclose(開示する)"
   },
   {
     "id": 46,
     "word": "allowance",
     "meaning": "【名】手当、小遣い、許容量",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "He gets a monthly _____ from his parents.",
+    "translation": "彼は両親から月々小遣いをもらっています。",
+    "remark": "【関】relocation allowance(転勤手当)、travel allowance(出張手当)、baggage allowance(手荷物許容量)"
   },
   {
     "id": 47,
     "word": "crucial",
     "meaning": "【形】非常に重要な",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "It's _____ to follow the instructions.",
+    "translation": "指示に従うことが非常に重要です。",
+    "remark": "【類】critical/essential/pivotal/vital(非常に重要な)"
   },
   {
     "id": 48,
     "word": "distinguished",
     "meaning": "【形】際立って優れた、傑出した",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "She is a _____ professor of biology.",
+    "translation": "彼女は際立って優れた生物学の教授です。",
+    "remark": "【動】distinguish(区別する)"
   },
   {
     "id": 49,
     "word": "disturb",
     "meaning": "【動】邪魔する、悩ませる",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "Please do not _____ while the meeting is in progress.",
+    "translation": "会議中は邪魔しないでください。",
+    "remark": "【名】disturbance(邪魔、中断) 【類】interfere(邪魔する)"
   },
   {
     "id": 50,
     "word": "fluent",
     "meaning": "【形】流暢な、堪能な",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "He is _____ in three languages.",
+    "translation": "彼は3か国語を流暢に話します。",
+    "remark": "【名】fluency(流暢さ) 【副】fluently(流暢に)"
   },
   {
     "id": 51,
     "word": "fulfill",
     "meaning": "【動】満たす、果たす",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "She _____ed her dream of becoming a doctor.",
+    "translation": "彼女は医者になるという夢を実現しました。",
+    "remark": "【類】accommodate/meet(満たす)"
   },
   {
     "id": 52,
     "word": "objective",
     "meaning": "【名】目的、目標",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "Our main _____ is to improve quality.",
+    "translation": "私たちの主な目標は品質を向上させることです。",
+    "remark": "【類】goal/target/purpose/object(目標、目的)"
   },
   {
     "id": 53,
     "word": "restrict",
     "meaning": "【動】制限する",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "The government _____ed travel during the pandemic.",
+    "translation": "政府はパンデミック中に移動を制限しました。",
+    "remark": "【名】restriction(制限)"
   },
   {
     "id": 54,
     "word": "steadily",
     "meaning": "【副】着実に",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "Sales have been increasing _____.",
+    "translation": "売上は着実に増えています。",
+    "remark": "【形】steady(安定した)"
   },
   {
     "id": 55,
     "word": "adequate",
     "meaning": "【形】(需要を満たすのに)十分な、適切な",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "We have _____ food for everyone.",
+    "translation": "私たちは全員に十分な食料を持っています。",
+    "remark": "【副】adequately(適切に、十分に) 【類】sarisfactory(満足のいく)、acceptable(受け入れ可能な)"
   },
   {
     "id": 56,
     "word": "assessment",
     "meaning": "【名】評価、見積もり",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "The teacher gave a fair _____ of the students' work.",
+    "translation": "教師は生徒の作品を公平に評価しました。",
+    "remark": "【類】evaluation(評価)、appraisal(査定)"
   },
   {
     "id": 57,
     "word": "attribute",
     "meaning": "【動】起因すると考える、おかげであるとする",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "He _____s his success to hard work.",
+    "translation": "彼は成功を努力の結果だと考えています。",
+    "remark": "【類】attribute A to B(AはBに起因する)"
   },
   {
     "id": 58,
     "word": "beforehand",
     "meaning": "【副】予め、事前に",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "Please read the instructions _____.",
+    "translation": "事前に説明書を読んでください。",
+    "remark": "【類】in advance(事前に)"
   },
   {
     "id": 59,
     "word": "challenging",
     "meaning": "【形】(困難だが)やりがいのある",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "This is a _____ but rewarding project.",
+    "translation": "これは困難だがやりがいのあるプロジェクトです。",
+    "remark": "【名】【動】challenge(困難、異議、異議を唱える)"
   },
   {
     "id": 60,
     "word": "endeavor",
     "meaning": "【名】努力、試み 【動】努力する",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "We will continue our _____ to improve service quality.",
+    "translation": "サービスの質を向上させる努力を続けます。",
+    "remark": "【類】effort(努力)"
   },
   {
     "id": 61,
     "word": "inspiring",
     "meaning": "【形】やる気が出るような、活気づける",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "Her speech was truly _____.",
+    "translation": "彼女のスピーチは本当にやる気を引き出すものでした。",
+    "remark": "【動】inspire(やる気を出させる、鼓舞する) 【名】inspiration(ひらめき、やる気の源)"
   },
   {
     "id": 62,
     "word": "remarkable",
     "meaning": "【形】驚くべき、注目すべき",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "He has made _____ progress.",
+    "translation": "彼は驚くべき進歩を遂げました。",
+    "remark": "【類】surprising/amazing(驚くべき)、extraordinary/phenomenal(並外れた)"
   },
   {
     "id": 63,
     "word": "measure",
     "meaning": "【名】対策、手段 【動】測定する、評価する",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "The government took _____s to reduce pollution.",
+    "translation": "政府は汚染を減らすための対策を講じました。",
+    "remark": "【関】cost-cutting measures(コスト削減策)"
   },
   {
     "id": 64,
     "word": "struggle",
     "meaning": "【動】奮闘する",
-    "example": "",
-    "translation": "",
+    "example": "Many small businesses are _____ing to survive.",
+    "translation": "多くの中小企業が生き残りをかけて奮闘しています。",
     "remark": ""
   },
   {
     "id": 65,
     "word": "wage",
     "meaning": "【名】賃金",
-    "example": "",
-    "translation": "",
+    "example": "The minimum _____ was raised last year.",
+    "translation": "最低賃金は昨年引き上げられました。",
     "remark": ""
   },
   {
     "id": 66,
     "word": "adapt",
     "meaning": "【動】適応する、適応させる、改作する",
-    "example": "",
-    "translation": "",
+    "example": "We need to _____ to the new environment.",
+    "translation": "新しい環境に適応する必要があります。",
     "remark": ""
   },
   {
     "id": 67,
     "word": "ambitious",
     "meaning": "【形】意欲的な、野心的な",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "She is an _____ student who wants to study abroad.",
+    "translation": "彼女は留学を望む意欲的な学生です。",
+    "remark": "【類】aspiring(野心的な)"
   },
   {
     "id": 68,
     "word": "capable",
     "meaning": "【形】能力がある",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "He is _____ of solving complex problems.",
+    "translation": "彼は複雑な問題を解決する能力があります。",
+    "remark": "【名】capability(能力) 【類】competent(有能な、能力がある)"
   },
   {
     "id": 69,
     "word": "consequence",
     "meaning": "【名】(～が招いた)結果",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "The accident was a _____ of careless driving.",
+    "translation": "その事故は不注意な運転の結果でした。",
+    "remark": "【類】result/outcome(結果)"
   },
   {
     "id": 70,
     "word": "impose",
     "meaning": "【動】課す、負わせる、強制する",
-    "example": "",
-    "translation": "",
+    "example": "The government _____d a tax on luxury goods.",
+    "translation": "政府は高級品に税を課しました。",
     "remark": ""
   },
   {
     "id": 71,
     "word": "latter",
     "meaning": "【名】後者",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "I prefer the _____ option.",
+    "translation": "私は後者の選択肢のほうが好みです。",
+    "remark": "【関】respectively(それぞれ)"
   },
   {
     "id": 72,
     "word": "output",
     "meaning": "【名】生産高、生産量",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "The factory increased its _____ this month.",
+    "translation": "工場は今月、生産量を増やしました。",
+    "remark": "【関】production volume(生産量)、production capacity(生産能力)"
   },
   {
     "id": 73,
     "word": "proudly",
     "meaning": "【副】誇らしげに、堂々と",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "She _____ presented her project.",
+    "translation": "彼女は誇らしげにプロジェクトを発表しました。",
+    "remark": "【名】【動】pride(誇り、誇りに思う)"
   },
   {
     "id": 74,
     "word": "stable",
     "meaning": "【形】安定した",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "The economy remains _____.",
+    "translation": "経済は安定しています。",
+    "remark": "【名】stability(安定、安定性) 【反】unstable(不安定な) 【関】instability(不安定さ)、stabilize(安定する、安定させる)、stabilization(安定化)"
   },
   {
     "id": 75,
     "word": "transition",
     "meaning": "【名】移行、転身",
-    "example": "",
-    "translation": "",
+    "example": "He made a smooth _____ to his new job.",
+    "translation": "彼は新しい仕事への移行をスムーズに行いました。",
     "remark": ""
   },
   {
     "id": 76,
     "word": "consent",
     "meaning": "【名】合意",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "We received the client’s _____.",
+    "translation": "私たちは顧客の合意を得ました。",
+    "remark": "【関】consent form(同意書)"
   },
   {
     "id": 77,
     "word": "dependable",
     "meaning": "【形】信頼できる",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "She is a _____ coworker.",
+    "translation": "彼女は信頼できる同僚です。",
+    "remark": "【動】depend(頼る) 【名】dependability(信頼性) 【類】reliable(信頼できる)、trusted(信頼のおける) 【関】dependance(依存)、dependent(依存している)"
   },
   {
     "id": 78,
     "word": "diligent",
     "meaning": "【形】勤勉な、まじめな",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "He is a _____ student.",
+    "translation": "彼は勤勉な学生です。",
+    "remark": "【副】diligently(勤勉に、まじめに)"
   },
   {
     "id": 79,
     "word": "illustrate",
     "meaning": "【動】(例や図を使って)説明する",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "Let me _____ this point with an example.",
+    "translation": "この点を例を使って説明させてください。",
+    "remark": "【名】illustration(本などの説明に用いられる絵、図表、写真) 【形】illustrated(絵、図表、写真入りの)"
   },
   {
     "id": 80,
     "word": "independently",
     "meaning": "【副】単独で、独立して",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "She completed the task _____.",
+    "translation": "彼女はその作業を単独で完了しました。",
+    "remark": "【形】independent(独立した)"
   },
   {
     "id": 81,
     "word": "mission",
     "meaning": "【名】使命、ミッション",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "Our _____ is to provide quality service.",
+    "translation": "私たちの使命は質の高いサービスを提供することです。",
+    "remark": "【関】a mission statement(社是、企業理念)"
   },
   {
     "id": 82,
     "word": "moderate",
     "meaning": "【形】ほどほどの、高度な",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "He exercises at a _____ pace.",
+    "translation": "彼はほどほどのペースで運動しています。",
+    "remark": "【副】modetately(ほどほどに、まずまず)"
   },
   {
     "id": 83,
     "word": "outlook",
     "meaning": "【名】見通し、モノの見方",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "The economic _____ is improving.",
+    "translation": "経済の見通しは改善しています。",
+    "remark": "【類】forecast/prediction(予測)"
   },
   {
     "id": 84,
     "word": "precisely",
     "meaning": "【副】正確に",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "That’s _____ what I was thinking.",
+    "translation": "まさに私が考えていたことです。",
+    "remark": "【形】precise(正確な) 【名】precision(正確性) 【類】accurately(正確に)"
   },
   {
     "id": 85,
     "word": "concentrated",
     "meaning": "【形】集中的な、濃縮された",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "They launched a _____ effort to improve sales.",
+    "translation": "彼らは売上向上のために集中的な努力を始めました。",
+    "remark": "【動】concentrate(集中する) 【名】concentration(集中)"
   },
   {
     "id": 86,
     "word": "ample",
     "meaning": "【形】十分な、あり余るほどの",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "We have _____ time to finish the project.",
+    "translation": "プロジェクトを終えるには十分な時間があります。",
+    "remark": "【類】adequate/enough/sufficient(十分な)"
   },
   {
     "id": 87,
     "word": "asset",
     "meaning": "【名】財産、役立つ人やモノ",
-    "example": "",
-    "translation": "",
+    "example": "Her communication skills are a valuable _____.",
+    "translation": "彼女のコミュニケーション能力は貴重な財産です。",
     "remark": ""
   },
   {
     "id": 88,
     "word": "controversial",
     "meaning": "【形】議論を引き起こす、議論の的になる",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "The new law is highly _____.",
+    "translation": "その新しい法律は非常に議論の的となっています。",
+    "remark": "【名】controversy(論争)"
   },
   {
     "id": 89,
     "word": "disappointing",
     "meaning": "【形】期待外れの、がっかりさせるような",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "The results were _____.",
+    "translation": "結果は期待外れでした。",
+    "remark": "【副】disappointingly(期待外れに)"
   },
   {
     "id": 90,
     "word": "instrumental",
     "meaning": "【形】重要な役割を果たす",
-    "example": "",
-    "translation": "",
+    "example": "He was _____ in the company’s success.",
+    "translation": "彼は会社の成功に重要な役割を果たしました。",
     "remark": ""
   },
   {
     "id": 91,
     "word": "interruption",
     "meaning": "【名】中断",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "The speech continued without _____.",
+    "translation": "スピーチは中断されることなく続けられました。",
+    "remark": "【動】interrupt(割り込む、中断する) 【類】disruption(中断、混乱)"
   },
   {
     "id": 92,
     "word": "perspective",
     "meaning": "【名】観点、見方、考え方",
-    "example": "",
-    "translation": "",
+    "example": "Try to see the problem from her _____.",
+    "translation": "彼女の観点からその問題を見てみてください。",
     "remark": ""
   },
   {
     "id": 93,
     "word": "scope",
     "meaning": "【名】範囲、予知",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "The project’s _____ is very broad.",
+    "translation": "そのプロジェクトの範囲は非常に広いです。",
+    "remark": "【類】range(範囲)"
   },
   {
     "id": 94,
     "word": "speculation",
     "meaning": "【名】推測、推量",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "There is much _____ about his resignation.",
+    "translation": "彼の辞任について多くの推測が飛び交っています。",
+    "remark": "【動】speculate(推測する)"
   },
   {
     "id": 95,
     "word": "supplement",
     "meaning": "【動】補う 【名】付録、付記、栄養補助食品",
-    "example": "",
-    "translation": "",
+    "example": "You can _____ your diet with vitamins.",
+    "translation": "ビタミンで食事を補うことができます。",
     "remark": ""
   },
   {
     "id": 96,
     "word": "understaffed",
     "meaning": "【形】人手不足の",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "The hospital is severely _____.",
+    "translation": "その病院は深刻な人手不足です。",
+    "remark": "【類】short-staffed(人手不足の)"
   },
   {
     "id": 97,
     "word": "rarely",
     "meaning": "【副】滅多に～しない、まれに",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "I _____ eat out these days.",
+    "translation": "最近は外食をほとんどしません。",
+    "remark": "【形】rare(まれな) 【形】seldom(滅多に～ない)、hardly(ほとんど～ない)"
   },
   {
     "id": 98,
     "word": "caution",
     "meaning": "【名】注意、警告 【動】注意する、警告する",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "Use _____ when handling chemicals.",
+    "translation": "化学薬品を扱うときは注意してください。",
+    "remark": "【形】cautious(慎重な、用心深い) 【副】cautiously(慎重に、用心深く) 【類】alert(警告する、警告)"
   },
   {
     "id": 99,
     "word": "legislation",
     "meaning": "【名】法律、法制化",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "New _____ will be introduced next year.",
+    "translation": "新しい法律が来年導入されます。",
+    "remark": "【動】legislate(法律を制定する)"
   },
   {
     "id": 100,
     "word": "logical",
     "meaning": "【形】妥当な、論理的な、筋の通った",
-    "example": "",
-    "translation": "",
-    "remark": ""
+    "example": "Your explanation is completely _____.",
+    "translation": "あなたの説明は完全に筋が通っています。",
+    "remark": "【類】reasonable(理にかなった)、sensible(賢明な)"
   }
 ]

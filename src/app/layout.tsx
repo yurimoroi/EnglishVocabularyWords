@@ -7,7 +7,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "EVW",
+  title: "English Vocabulary Words",
   description: "英単語を学習するサイトです",
 };
 
