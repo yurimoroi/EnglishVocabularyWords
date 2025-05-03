@@ -29,6 +29,7 @@ export default function AnswerPage() {
   const [questions, setQuestions] = useState<Question[]>([]);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [showAnswer, setShowAnswer] = useState(false);
+  const [showConfirmation, setShowConfirmation] = useState(false);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [wrongQuestionIds, setWrongQuestionIds] = useState<number[]>([]);
@@ -83,12 +84,28 @@ export default function AnswerPage() {
 
   const handleAnswer = (understood: boolean) => {
     if (understood) {
+      setShowConfirmation(true);
+      setShowAnswer(true);
+    } else {
+      const currentQuestion = questions[currentQuestionIndex];
+      setWrongQuestionIds((prev) => [...prev, currentQuestion.id]);
+      setShowAnswer(true);
+    }
+  };
+
+  const handleConfirmation = (correct: boolean) => {
+    if (correct) {
       setCorrectAnswers((prev) => prev + 1);
     } else {
       const currentQuestion = questions[currentQuestionIndex];
       setWrongQuestionIds((prev) => [...prev, currentQuestion.id]);
     }
-    setShowAnswer(true);
+    setShowConfirmation(false);
+
+    if (currentQuestionIndex < questions.length - 1) {
+      setCurrentQuestionIndex(currentQuestionIndex + 1);
+      setShowAnswer(false);
+    }
   };
 
   const handleNext = () => {
@@ -316,7 +333,7 @@ export default function AnswerPage() {
         </div>
 
         <div className="mt-4">
-          {!showAnswer ? (
+          {!showAnswer && !showConfirmation ? (
             <div className="grid grid-cols-2 gap-4">
               <button
                 onClick={() => handleAnswer(true)}
@@ -329,6 +346,21 @@ export default function AnswerPage() {
                 className="bg-red-500 hover:bg-red-600 text-white text-center font-medium py-4 px-3 rounded-lg transition-colors duration-200 shadow-md hover:shadow-lg text-xs sm:text-sm whitespace-nowrap"
               >
                 {mode === "japaneseToEnglish" ? "わからなかった" : "I don't know"}
+              </button>
+            </div>
+          ) : showConfirmation ? (
+            <div className="grid grid-cols-2 gap-4">
+              <button
+                onClick={() => handleConfirmation(true)}
+                className="bg-green-500 hover:bg-green-600 text-white text-center font-medium py-4 px-3 rounded-lg transition-colors duration-200 shadow-md hover:shadow-lg text-xs sm:text-sm whitespace-nowrap"
+              >
+                {mode === "japaneseToEnglish" ? "正解" : "Correct"}
+              </button>
+              <button
+                onClick={() => handleConfirmation(false)}
+                className="bg-red-500 hover:bg-red-600 text-white text-center font-medium py-4 px-3 rounded-lg transition-colors duration-200 shadow-md hover:shadow-lg text-xs sm:text-sm whitespace-nowrap"
+              >
+                {mode === "japaneseToEnglish" ? "不正解" : "Incorrect"}
               </button>
             </div>
           ) : (
