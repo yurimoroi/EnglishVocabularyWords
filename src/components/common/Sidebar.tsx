@@ -14,7 +14,7 @@ export function Sidebar({ isOpen }: SidebarProps) {
   const menuItems = [
     { href: "/", label: "Dashboard", icon: FiGrid },
     { href: "/question", label: "Question", icon: FiBookOpen },
-    { href: "/statictics", label: "Statistics", icon: FiActivity },
+    { href: "/statistics", label: "Statistics", icon: FiActivity },
     { href: "/settings", label: "Settings", icon: FiSettings },
   ];
 
