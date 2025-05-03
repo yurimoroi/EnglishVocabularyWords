@@ -3,800 +3,800 @@
     "id": 1,
     "word": "deposit",
     "meaning": "【名】頭金、敷金、保証金【動】預ける",
-    "example": "a security _____",
-    "translation": "安全保証金",
+    "example": "I paid a _____ to rent the apartment.",
+    "translation": "アパートを借りるために頭金を支払いました。",
     "remark": ""
   },
   {
     "id": 2,
     "word": "contain",
     "meaning": "【動】含む、所有する",
-    "example": "",
-    "translation": "その本には役立つ情報が含まれている",
+    "example": "This bottle can _____ one liter of water.",
+    "translation": "このボトルは1リットルの水を入れることができます。",
     "remark": ""
   },
   {
     "id": 3,
     "word": "content",
     "meaning": "【名】内容、中身【形】満足している",
-    "example": "",
-    "translation": "その本の内容",
+    "example": "The _____ of the book is very interesting.",
+    "translation": "その本の内容はとても面白いです。",
     "remark": ""
   },
   {
     "id": 4,
     "word": "proof",
     "meaning": "【名】証拠、証明",
-    "example": "",
-    "translation": "購入の証明",
+    "example": "We need _____ of your identity.",
+    "translation": "あなたの身元の証明が必要です。",
     "remark": ""
   },
   {
     "id": 5,
     "word": "affect",
     "meaning": "【動】影響する",
-    "example": "",
-    "translation": "値段に影響する",
+    "example": "The weather can _____ our travel plans.",
+    "translation": "天気が私たちの旅行計画に影響を与えることがあります。",
     "remark": ""
   },
   {
     "id": 6,
     "word": "recognize",
     "meaning": "【動】(業績等を)認める、(人を)称える、識別する",
-    "example": "",
-    "translation": "当社の製品は品質の高さで認められています。",
+    "example": "She was _____d for her achievements.",
+    "translation": "彼女はその功績を称えられました。",
     "remark": ""
   },
   {
     "id": 7,
     "word": "represent",
     "meaning": "【動】代表を務める、担当する、表す",
-    "example": "",
-    "translation": "会社の代表を務める",
+    "example": "He will _____ our company at the conference.",
+    "translation": "彼が会議で我が社を代表します。",
     "remark": ""
   },
   {
     "id": 8,
     "word": "transfer",
     "meaning": "【動】転勤させる(する)移動させる(する)【動】転勤、移動",
-    "example": "",
-    "translation": "テックスはアラスカに転勤になった。",
+    "example": "She was _____red to the Tokyo office.",
+    "translation": "彼女は東京支社に転勤しました。",
     "remark": ""
   },
   {
     "id": 9,
     "word": "transfer",
     "meaning": "【名】〜周年、記念日",
-    "example": "",
-    "translation": "20周年を祝う",
+    "example": "Today is our tenth wedding _____.",
+    "translation": "今日は私たちの結婚10周年記念日です。",
     "remark": ""
   },
   {
     "id": 10,
     "word": "anniversary",
     "meaning": "【副】自動的に",
-    "example": "",
-    "translation": "その機会は自動的に電源が切れます。",
+    "example": "The lights turn on _____ at night.",
+    "translation": "夜になると明かりが自動的につきます。",
     "remark": ""
   },
   {
     "id": 11,
     "word": "capacity",
     "meaning": "【名】(生産)能力、収納能力、役割",
-    "example": "",
-    "translation": "生産能力",
+    "example": "The factory is running at full _____.",
+    "translation": "工場は最大能力で稼働しています。",
     "remark": ""
   },
   {
     "id": 12,
     "word": "destination",
     "meaning": "【名】目的地、行き先",
-    "example": "",
-    "translation": "旅行の目的地",
+    "example": "Paris is a popular travel _____.",
+    "translation": "パリは人気の旅行先です。",
     "remark": ""
   },
   {
     "id": 13,
     "word": "grant",
     "meaning": "【名】補助金、助成金【動】与える、許可する",
-    "example": "",
-    "translation": "補助金を得る",
+    "example": "The university received a research _____.",
+    "translation": "大学は研究助成金を受け取りました。",
     "remark": ""
   },
   {
     "id": 14,
     "word": "publish",
     "meaning": "【動】出版する",
-    "example": "",
-    "translation": "雑誌を出版する",
+    "example": "She _____ed her first novel last year.",
+    "translation": "彼女は昨年初の小説を出版しました。",
     "remark": ""
   },
   {
     "id": 15,
     "word": "accompany",
     "meaning": "【動】添付する、同行する",
-    "example": "",
-    "translation": "その本にはCDが付いてきます。",
+    "example": "Please _____ the form with a photo.",
+    "translation": "書類には写真を添付してください。",
     "remark": ""
   },
   {
     "id": 16,
     "word": "economic",
     "meaning": "【形】経済の、経済上の",
-    "example": "",
-    "translation": "経済成長",
+    "example": "Japan is facing serious _____ challenges.",
+    "translation": "日本は深刻な経済的課題に直面しています。",
     "remark": ""
   },
   {
     "id": 17,
     "word": "extremely",
     "meaning": "【副】きわめて、非常に",
-    "example": "",
-    "translation": "非常に丁寧にチェックする",
+    "example": "The weather was _____ cold this morning.",
+    "translation": "今朝は非常に寒かったです。",
     "remark": ""
   },
   {
     "id": 18,
     "word": "institution",
     "meaning": "【名】期間、団体、しきたり",
-    "example": "",
-    "translation": "金融機関",
+    "example": "That _____ has a long history.",
+    "translation": "その団体は長い歴史を持っています。",
     "remark": ""
   },
   {
     "id": 19,
     "word": "accurate",
     "meaning": "【形】正確な",
-    "example": "",
-    "translation": "正確な売り上げの数字",
+    "example": "Your information must be _____.",
+    "translation": "あなたの情報は正確でなければなりません。",
     "remark": ""
   },
   {
     "id": 20,
     "word": "compete",
     "meaning": "【動】競う",
-    "example": "",
-    "translation": "大会社と競う",
+    "example": "Many companies _____ in the global market.",
+    "translation": "多くの企業が世界市場で競っています。",
     "remark": ""
   },
   {
     "id": 21,
     "word": "emphasize",
     "meaning": "【動】強調する",
-    "example": "",
-    "translation": "ポイントを強調する",
+    "example": "He _____d the importance of teamwork.",
+    "translation": "彼はチームワークの重要性を強調しました。",
     "remark": ""
   },
   {
     "id": 22,
     "word": "aware",
     "meaning": "【形】気づいて",
-    "example": "",
-    "translation": "私は問題に気づいていた。",
+    "example": "I'm _____ of the risks involved.",
+    "translation": "私は伴うリスクを認識しています。",
     "remark": ""
   },
   {
     "id": 23,
     "word": "crowded",
     "meaning": "【形】混雑した",
-    "example": "",
-    "translation": "街は旅行客で混雑している",
+    "example": "The train was _____ during rush hour.",
+    "translation": "ラッシュアワーの電車は混雑していました。",
     "remark": ""
   },
   {
     "id": 24,
     "word": "praise",
     "meaning": "【動】褒める【名】称賛",
-    "example": "",
-    "translation": "そのチームはCEOに褒められた。",
+    "example": "The teacher _____d the student for his effort.",
+    "translation": "先生はその生徒の努力を称賛しました。",
     "remark": ""
   },
   {
     "id": 25,
     "word": "valuable",
     "meaning": "【形】貴重な",
-    "example": "",
-    "translation": "チームの貴重な新戦力",
+    "example": "This is a _____ piece of information.",
+    "translation": "これは貴重な情報です。",
     "remark": ""
   },
   {
     "id": 26,
     "word": "explore",
     "meaning": "【動】調査する、探索する",
-    "example": "",
-    "translation": "可能性を探る",
+    "example": "We need to _____ new markets.",
+    "translation": "新しい市場を調査する必要があります。",
     "remark": ""
   },
   {
     "id": 27,
     "word": "found",
     "meaning": "【動】設立する、創立する",
-    "example": "",
-    "translation": "会社を設立する",
+    "example": "The company was _____ed in 1990.",
+    "translation": "その会社は1990年に設立されました。",
     "remark": ""
   },
   {
     "id": 28,
     "word": "function",
     "meaning": "【名】機能【動】機能する",
-    "example": "",
-    "translation": "基本機能",
+    "example": "The phone has a camera _____.",
+    "translation": "この携帯電話にはカメラ機能があります。",
     "remark": ""
   },
   {
     "id": 29,
     "word": "impact",
     "meaning": "【名】影響する",
-    "example": "",
-    "translation": "環境にネガティブな影響を及ぼす",
+    "example": "The new law will have a big _____.",
+    "translation": "新しい法律は大きな影響を与えるでしょう。",
     "remark": ""
   },
   {
     "id": 30,
     "word": "amazing",
     "meaning": "【形】驚くべき",
-    "example": "",
-    "translation": "驚くべき成功",
+    "example": "That magician’s trick was _____.",
+    "translation": "あのマジシャンの技は驚くべきものでした。",
     "remark": ""
   },
   {
     "id": 31,
     "word": "assure",
     "meaning": "【動】保証する",
-    "example": "",
-    "translation": "",
+    "example": "I _____ you everything is under control.",
+    "translation": "すべては管理下にあると保証します。",
     "remark": ""
   },
   {
     "id": 32,
     "word": "cooperation",
     "meaning": "【名】協力",
-    "example": "",
-    "translation": "",
+    "example": "Thanks for your _____.",
+    "translation": "ご協力ありがとうございます。",
     "remark": ""
   },
   {
     "id": 33,
     "word": "popularity",
     "meaning": "【名】人気",
-    "example": "",
-    "translation": "",
+    "example": "Her _____ is increasing.",
+    "translation": "彼女の人気は高まっています。",
     "remark": ""
   },
   {
     "id": 34,
     "word": "permit",
     "meaning": "【名】許可証【動】許可する",
-    "example": "",
-    "translation": "",
+    "example": "You need a _____ to enter the area.",
+    "translation": "その地域に入るには許可証が必要です。",
     "remark": ""
   },
   {
     "id": 35,
     "word": "solve",
     "meaning": "【動】解決する",
-    "example": "",
-    "translation": "",
+    "example": "We must _____ this problem quickly.",
+    "translation": "この問題を早急に解決しなければなりません。",
     "remark": ""
   },
   {
     "id": 36,
     "word": "vote",
     "meaning": "【動】投票する【名】投票",
-    "example": "",
-    "translation": "",
+    "example": "Did you _____ in the election?",
+    "translation": "選挙で投票しましたか？",
     "remark": ""
   },
   {
     "id": 37,
     "word": "crop",
     "meaning": "【名】作物、収穫量",
-    "example": "",
-    "translation": "",
+    "example": "This year's rice _____ was good.",
+    "translation": "今年の米の収穫は良好でした。",
     "remark": ""
   },
   {
     "id": 38,
     "word": "neighborhood",
     "meaning": "【名】近所、地域",
-    "example": "",
-    "translation": "",
+    "example": "I met my neighbor in the _____ park.",
+    "translation": "近所の公園で隣人に会いました。",
     "remark": ""
   },
   {
     "id": 39,
     "word": "permanent",
     "meaning": "【形】常設の、常雇用の、永久の",
-    "example": "",
-    "translation": "",
+    "example": "He got a permanent job at the company.",
+    "translation": "彼はその会社で常雇用の仕事に就きました。",
     "remark": ""
   },
   {
     "id": 40,
     "word": "regret",
     "meaning": "【動】残念に思う",
-    "example": "",
-    "translation": "",
+    "example": "I _____ not taking that opportunity.",
+    "translation": "あの機会を逃したことを後悔しています。",
     "remark": ""
   },
   {
     "id": 41,
     "word": "slightly",
     "meaning": "【副】わずかに、少し",
-    "example": "",
-    "translation": "",
+    "example": "The temperature dropped _____.",
+    "translation": "気温がわずかに下がりました。",
     "remark": ""
   },
   {
     "id": 42,
     "word": "complicated",
     "meaning": "【形】複雑な",
-    "example": "",
-    "translation": "",
+    "example": "The instructions were too _____.",
+    "translation": "説明書が複雑すぎました。",
     "remark": ""
   },
   {
     "id": 43,
     "word": "factor",
     "meaning": "【名】要因、要素",
-    "example": "",
-    "translation": "",
+    "example": "Cost is a key _____ in this decision.",
+    "translation": "コストはこの決定の主要な要因です。",
     "remark": ""
   },
   {
     "id": 44,
     "word": "favorable",
     "meaning": "【形】好意的な、有利な",
-    "example": "",
-    "translation": "",
+    "example": "The results were _____.",
+    "translation": "結果は好意的でした。",
     "remark": ""
   },
   {
     "id": 45,
     "word": "guarantee",
     "meaning": "【動】保証する【名】保証",
-    "example": "",
-    "translation": "",
+    "example": "We _____ the quality of our products.",
+    "translation": "弊社は製品の品質を保証します。",
     "remark": ""
   },
   {
     "id": 46,
     "word": "mechanical",
     "meaning": "【形】機械の",
-    "example": "",
-    "translation": "",
+    "example": "He is studying _____ engineering.",
+    "translation": "彼は機械工学を勉強しています。",
     "remark": ""
   },
   {
     "id": 47,
     "word": "priority",
     "meaning": "【名】優先順位、優先事項",
-    "example": "",
-    "translation": "",
+    "example": "Safety is our top _____.",
+    "translation": "安全が私たちの最優先事項です。",
     "remark": ""
   },
   {
     "id": 48,
     "word": "relatively",
     "meaning": "【副】比較的",
-    "example": "",
-    "translation": "",
+    "example": "The room is _____ small.",
+    "translation": "この部屋は比較的小さいです。",
     "remark": ""
   },
   {
     "id": 49,
     "word": "resource",
     "meaning": "【名】資源",
-    "example": "",
-    "translation": "",
+    "example": "Water is an essential _____.",
+    "translation": "水は不可欠な資源です。",
     "remark": ""
   },
   {
     "id": 50,
     "word": "shuttle",
     "meaning": "【名】定期往復便",
-    "example": "",
-    "translation": "",
+    "example": "The airport has a free _____ service.",
+    "translation": "空港には無料のシャトル便があります。",
     "remark": ""
   },
   {
     "id": 51,
     "word": "slightly",
     "meaning": "【動】分ける",
-    "example": "",
-    "translation": "",
+    "example": "Please _____ the cake into six pieces.",
+    "translation": "ケーキを6つに分けてください。",
     "remark": ""
   },
   {
     "id": 52,
     "word": "complicated",
     "meaning": "【形】出身の【名】出身の人",
-    "example": "",
-    "translation": "",
+    "example": "She is a _____ of Canada.",
+    "translation": "彼女はカナダ出身です。",
     "remark": ""
   },
   {
     "id": 53,
     "word": "factor",
     "meaning": "【動】〜する余裕がある",
-    "example": "",
-    "translation": "",
+    "example": "I can't _____ to buy a new car.",
+    "translation": "新しい車を買う余裕がありません。",
     "remark": ""
   },
   {
     "id": 54,
     "word": "favorable",
     "meaning": "【名】収入",
-    "example": "",
-    "translation": "",
+    "example": "His monthly _____ is quite high.",
+    "translation": "彼の月収はかなり高いです。",
     "remark": ""
   },
   {
     "id": 55,
     "word": "guarantee",
     "meaning": "【動】起こる、発生する、行われる",
-    "example": "",
-    "translation": "",
+    "example": "An accident _____red on the highway.",
+    "translation": "高速道路で事故が発生しました。",
     "remark": ""
   },
   {
     "id": 56,
     "word": "mechanical",
     "meaning": "【名】値引き、貯蓄、節約",
-    "example": "",
-    "translation": "",
+    "example": "He put all his _____s into the business.",
+    "translation": "彼は全貯金をそのビジネスに投資しました。",
     "remark": ""
   },
   {
     "id": 57,
     "word": "priority",
     "meaning": "【名】(研究・調査の)結果、わかったこと",
-    "example": "",
-    "translation": "",
+    "example": "The _____ of the study were surprising.",
+    "translation": "その研究の結果は驚くべきものでした。",
     "remark": ""
   },
   {
     "id": 58,
     "word": "relatively",
     "meaning": "【動】見つける",
-    "example": "",
-    "translation": "",
+    "example": "Can you _____ the nearest gas station?",
+    "translation": "最寄りのガソリンスタンドを見つけられますか？",
     "remark": ""
   },
   {
     "id": 59,
     "word": "resource",
     "meaning": "【動】延期する",
-    "example": "",
-    "translation": "",
+    "example": "The meeting was _____d until next week.",
+    "translation": "会議は来週に延期されました。",
     "remark": ""
   },
   {
     "id": 60,
     "word": "shuttle",
     "meaning": "【動】保護する、保存する【名】保護区",
-    "example": "",
-    "translation": "",
+    "example": "We must _____ our natural environment.",
+    "translation": "私たちは自然環境を保護しなければなりません。",
     "remark": ""
   },
   {
     "id": 61,
     "word": "divide",
     "meaning": "【動】わかる、判明する、保証する",
-    "example": "",
-    "translation": "",
+    "example": "It _____d to be a wise decision.",
+    "translation": "それは賢明な判断であると判明しました。",
     "remark": ""
   },
   {
     "id": 62,
     "word": "native",
     "meaning": "【形】正確な",
-    "example": "",
-    "translation": "",
+    "example": "Please give me the _____ time.",
+    "translation": "正確な時間を教えてください。",
     "remark": ""
   },
   {
     "id": 63,
     "word": "afford",
     "meaning": "【動】得る【名】増加、利益",
-    "example": "",
-    "translation": "",
+    "example": "He _____ed a lot of experience.",
+    "translation": "彼は多くの経験を得ました。",
     "remark": ""
   },
   {
     "id": 64,
     "word": "income",
     "meaning": "【名】労力、労働者",
-    "example": "",
-    "translation": "",
+    "example": "Physical _____ is very tiring.",
+    "translation": "肉体労働はとても疲れます。",
     "remark": ""
   },
   {
     "id": 65,
     "word": "occur",
     "meaning": "【動】みなす、評価する【名】点",
-    "example": "",
-    "translation": "",
+    "example": "I _____ him as a trustworthy person.",
+    "translation": "私は彼を信頼できる人物とみなしています。",
     "remark": ""
   },
   {
     "id": 66,
     "word": "saving",
     "meaning": "【副】密に、注意深く",
-    "example": "",
-    "translation": "",
+    "example": "Please watch _____.",
+    "translation": "注意深く見てください。",
     "remark": ""
   },
   {
     "id": 67,
     "word": "findings",
     "meaning": "【動】値する",
-    "example": "",
-    "translation": "",
+    "example": "You _____ to win.",
+    "translation": "あなたは勝つに値します。",
     "remark": ""
   },
   {
     "id": 68,
     "word": "locate",
     "meaning": "【動】特定する",
-    "example": "",
-    "translation": "",
+    "example": "We need to _____ the problem.",
+    "translation": "問題を特定する必要があります。",
     "remark": ""
   },
   {
     "id": 69,
     "word": "postpone",
     "meaning": "【形】忠実な",
-    "example": "",
-    "translation": "",
+    "example": "She is a loyal customer.",
+    "translation": "彼女は忠実な顧客です。",
     "remark": ""
   },
   {
     "id": 70,
     "word": "preserve",
     "meaning": "【形】有望な",
-    "example": "",
-    "translation": "",
+    "example": "He is a _____ young athlete.",
+    "translation": "彼は有望な若手アスリートです。",
     "remark": ""
   },
   {
     "id": 71,
     "word": "prove",
     "meaning": "【動】強調する【名】ストレス",
-    "example": "",
-    "translation": "",
+    "example": "She _____ed the need for reform.",
+    "translation": "彼女は改革の必要性を強調しました。",
     "remark": ""
   },
   {
     "id": 72,
     "word": "exact",
     "meaning": "【動】分析する",
-    "example": "",
-    "translation": "",
+    "example": "Let's _____ the data carefully.",
+    "translation": "データを注意深く分析しましょう。",
     "remark": ""
   },
   {
     "id": 73,
     "word": "gain",
     "meaning": "【動】委託する、委任する【名】委員会、歩合",
-    "example": "",
-    "translation": "",
+    "example": "The company _____ed a new report.",
+    "translation": "その会社は新しい報告書を委託しました。",
     "remark": ""
   },
   {
     "id": 74,
     "word": "labor",
     "meaning": "【形】熱心に取り組む、献身的な",
-    "example": "",
-    "translation": "",
+    "example": "He is a _____ member of the team.",
+    "translation": "彼はチームに熱心に取り組むメンバーです。",
     "remark": ""
   },
   {
     "id": 75,
     "word": "regard",
     "meaning": "【名】比較",
-    "example": "",
-    "translation": "",
+    "example": "The _____ shows clear differences.",
+    "translation": "比較すると明確な違いが見られます。",
     "remark": ""
   },
   {
     "id": 76,
     "word": "closely",
     "meaning": "【名】商品",
-    "example": "",
-    "translation": "",
+    "example": "This machine has several _____s.",
+    "translation": "この機械にはいくつかの部品があります。",
     "remark": ""
   },
   {
     "id": 77,
     "word": "deserve",
     "meaning": "【動】可能にする",
-    "example": "",
-    "translation": "",
+    "example": "This feature _____s users to save time.",
+    "translation": "この機能によりユーザーは時間を節約できます。",
     "remark": ""
   },
   {
     "id": 78,
     "word": "identify",
     "meaning": "【形】楽しい",
-    "example": "",
-    "translation": "",
+    "example": "The party was really _____.",
+    "translation": "そのパーティーは本当に楽しかったです。",
     "remark": ""
   },
   {
     "id": 79,
     "word": "loyal",
     "meaning": "【形】従来の、既存の",
-    "example": "",
-    "translation": "",
+    "example": "We need to replace the _____ system.",
+    "translation": "既存のシステムを取り替える必要があります。",
     "remark": ""
   },
   {
     "id": 80,
     "word": "promising",
     "meaning": "【名】チラシ、(飛行機の)乗客",
-    "example": "",
-    "translation": "",
+    "example": "I saw the event on a _____.",
+    "translation": "チラシでそのイベントを見ました。",
     "remark": ""
   },
   {
     "id": 81,
     "word": "stress",
     "meaning": "【動】進む",
-    "example": "",
-    "translation": "",
+    "example": "Let's _____ with the next step.",
+    "translation": "次のステップに進みましょう。",
     "remark": ""
   },
   {
     "id": 82,
     "word": "analyze",
     "meaning": "【動】防ぐ",
-    "example": "",
-    "translation": "",
+    "example": "This vaccine can _____ the disease.",
+    "translation": "このワクチンは病気を防ぐことができます。",
     "remark": ""
   },
   {
     "id": 83,
     "word": "commission",
     "meaning": "【副】同様に【形】よく似た",
-    "example": "",
-    "translation": "",
+    "example": "The two sisters look _____.",
+    "translation": "その姉妹はとても似ています。",
     "remark": ""
   },
   {
     "id": 84,
     "word": "committed",
     "meaning": "【動】指名する、任命する",
-    "example": "",
-    "translation": "",
+    "example": "He was _____ed as the new manager.",
+    "translation": "彼は新しいマネージャーに任命されました。",
     "remark": ""
   },
   {
     "id": 85,
     "word": "comparison",
     "meaning": "【名】接続、つながり",
-    "example": "",
-    "translation": "",
+    "example": "There is no _____ between the two cases.",
+    "translation": "その2つの事件にはつながりがありません。",
     "remark": ""
   },
   {
     "id": 86,
     "word": "component",
     "meaning": "【形】〜したがる、熱望する",
-    "example": "",
-    "translation": "",
+    "example": "She is _____ to learn.",
+    "translation": "彼女は学ぶことに熱心です。",
     "remark": ""
   },
   {
     "id": 87,
     "word": "enable",
     "meaning": "【名】容易さ、たやすさ【動】やわらげる、容易にする",
-    "example": "",
-    "translation": "",
+    "example": "This tool helps _____ the task.",
+    "translation": "この道具は作業を容易にします。",
     "remark": ""
   },
   {
     "id": 88,
     "word": "fairly",
     "meaning": "【副】かなり",
-    "example": "",
-    "translation": "",
+    "example": "The room was _____ large.",
+    "translation": "部屋はかなり広かったです。",
     "remark": ""
   },
   {
     "id": 89,
     "word": "enjoyable",
     "meaning": "【副】完全に、間違いなく",
-    "example": "",
-    "translation": "",
+    "example": "I'm _____ sure about it.",
+    "translation": "それについては完全に確信しています。",
     "remark": ""
   },
   {
     "id": 90,
     "word": "existing",
     "meaning": "【名】雰囲気",
-    "example": "",
-    "translation": "",
+    "example": "The restaurant has a cozy _____.",
+    "translation": "そのレストランは居心地の良い雰囲気です。",
     "remark": ""
   },
   {
     "id": 91,
     "word": "flyer",
     "meaning": "【動】計算する",
-    "example": "",
-    "translation": "",
+    "example": "Can you _____ the total cost?",
+    "translation": "総費用を計算してくれますか？",
     "remark": ""
   },
   {
     "id": 92,
     "word": "contrast",
     "meaning": "【名】対照、はっきりした間違い【動】対照的である",
-    "example": "",
-    "translation": "",
+    "example": "There is a clear _____ between the two styles.",
+    "translation": "その2つのスタイルにははっきりとした対照があります。",
     "remark": ""
   },
   {
     "id": 93,
     "word": "monitor",
     "meaning": "【動】監視する【名】( コンピューターの)モニター",
-    "example": "",
-    "translation": "",
+    "example": "The teacher _____s students during the exam.",
+    "translation": "先生は試験中に生徒を監視します。",
     "remark": ""
   },
   {
     "id": 94,
     "word": "occasionally",
     "meaning": "【副】時々",
-    "example": "",
-    "translation": "",
+    "example": "I _____ visit my grandparents.",
+    "translation": "私は時々祖父母を訪ねます。",
     "remark": ""
   },
   {
     "id": 95,
     "word": "practical",
     "meaning": "【形】実務の、実際の",
-    "example": "",
-    "translation": "",
+    "example": "She has a lot of _____ experience.",
+    "translation": "彼女は実務経験が豊富です。",
     "remark": ""
   },
   {
     "id": 96,
     "word": "serious",
     "meaning": "【形】重大な、真剣な、重要な",
-    "example": "",
-    "translation": "",
+    "example": "This is a _____ problem.",
+    "translation": "これは重大な問題です。",
     "remark": ""
   },
   {
     "id": 97,
     "word": "strength",
     "meaning": "【名】強さ、強度",
-    "example": "",
-    "translation": "",
+    "example": "The bridge was built for _____ and safety.",
+    "translation": "その橋は強度と安全性のために建てられました。",
     "remark": ""
   },
   {
     "id": 98,
     "word": "equally",
     "meaning": "【副】同じように、均等に",
-    "example": "",
-    "translation": "",
+    "example": "Everyone should be treated _____.",
+    "translation": "すべての人が平等に扱われるべきです。",
     "remark": ""
   },
   {
     "id": 99,
     "word": "import",
     "meaning": "【名】輸入、輸入品【動】輸入する",
-    "example": "",
-    "translation": "",
+    "example": "Japan _____s many goods from abroad.",
+    "translation": "日本は多くの品物を海外から輸入しています。",
     "remark": ""
   },
   {
     "id": 100,
     "word": "informal",
     "meaning": "【形】非公式の、カジュアルな",
-    "example": "",
-    "translation": "",
+    "example": "The meeting was very _____.",
+    "translation": "その会議はとてもカジュアルでした。",
     "remark": ""
   }
 ]
