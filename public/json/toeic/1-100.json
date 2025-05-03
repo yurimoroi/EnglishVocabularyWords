@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "word": "avairable",
+    "word": "available",
     "meaning": "【形】入手できる、利用できる、購入できる、手が空いている",
     "example": "Tickets are _____ online.",
     "translation": "チケットはオンラインで入手可能です。",
@@ -113,7 +113,7 @@
   },
   {
     "id": 15,
-    "word": "constraction",
+    "word": "construction",
     "meaning": "【名】建設",
     "example": "_____ project",
     "translation": "建設プロジェクト",
@@ -465,7 +465,7 @@
   },
   {
     "id": 59,
-    "word": "menbership",
+    "word": "membership",
     "meaning": "【名】会員(であること)、会員資格、会員数",
     "example": "sign up for _____",
     "translation": "会員登録する",
@@ -633,7 +633,7 @@
   },
   {
     "id": 80,
-    "word": "exclose",
+    "word": "enclose",
     "meaning": "【動】同封する、囲む",
     "example": "My resume is _____d",
     "translation": "履歴書を同封いたします。",
