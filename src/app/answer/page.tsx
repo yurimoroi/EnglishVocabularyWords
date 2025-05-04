@@ -314,7 +314,14 @@ export default function AnswerPage() {
           {mode === "japaneseToEnglish" ? (
             <>
               <h2 className="text-xs font-bold text-gray-700 mb-1">意味</h2>
-              <p className="text-xs text-violet-600">{currentQuestion.meaning}</p>
+              <p className="text-xs text-violet-600">
+                {currentQuestion.meaning.split("　").map((word, index) => (
+                  <span key={index}>
+                    {word}
+                    {index < currentQuestion.meaning.split("　").length - 1 && <br />}
+                  </span>
+                ))}
+              </p>
 
               {currentQuestion.example && (
                 <>
@@ -392,7 +399,14 @@ export default function AnswerPage() {
               ) : (
                 <>
                   <h3 className="font-bold text-gray-700 mb-1 text-xs">Meaning:</h3>
-                  <p className="text-xs text-gray-600">{currentQuestion.meaning}</p>
+                  <p className="text-xs text-gray-600">
+                    {currentQuestion.meaning.split("　").map((word, index) => (
+                      <span key={index}>
+                        {word}
+                        {index < currentQuestion.meaning.split("　").length - 1 && <br />}
+                      </span>
+                    ))}
+                  </p>
 
                   {currentQuestion.translation && (
                     <>
@@ -409,7 +423,14 @@ export default function AnswerPage() {
                   <h3 className="font-bold text-gray-700 mt-3 mb-1 text-xs">
                     {mode === "japaneseToEnglish" ? "備考:" : "Remark:"}
                   </h3>
-                  <p className="text-xs text-gray-600">{currentQuestion.remark}</p>
+                  <p className="text-xs text-gray-600">
+                    {currentQuestion.remark.split("　").map((word, index) => (
+                      <span key={index}>
+                        {word}
+                        {index < currentQuestion.remark.split("　").length - 1 && <br />}
+                      </span>
+                    ))}
+                  </p>
                 </>
               )}
             </div>

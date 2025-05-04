@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "word": "face",
+    "meaning": "【動】(～の方を)向く",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 2,
+    "word": "wear",
+    "meaning": "【動】着用する、着る",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 3,
+    "word": "point",
+    "meaning": "【動】指す、指さす",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 4,
+    "word": "shelf",
+    "meaning": "【名】棚",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 5,
+    "word": "ladder",
+    "meaning": "【名】梯子",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 6,
+    "word": "trim",
+    "meaning": "【動】(芝や髪の毛を)刈り揃える",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 7,
+    "word": "examine",
+    "meaning": "【動】詳しく調べる、チェックする",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 8,
+    "word": "greet",
+    "meaning": "【動】挨拶する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 9,
+    "word": "sweep",
+    "meaning": "【動】(箒やブラシで)掃く",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 10,
+    "word": "adjust",
+    "meaning": "【動】調節する、調整する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 11,
+    "word": "head",
+    "meaning": "【動】向かう",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 12,
+    "word": "handle",
+    "meaning": "【動】手で扱う、扱う",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 13,
+    "word": "lean",
+    "meaning": "【動】寄りかかる",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 14,
+    "word": "cashier",
+    "meaning": "【名】レジ係",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 15,
+    "word": "polish",
+    "meaning": "【動】磨く",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 16,
+    "word": "lid",
+    "meaning": "【名】蓋",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 17,
+    "word": "stool",
+    "meaning": "【名】スツール(背もたれのない椅子)",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 18,
+    "word": "crosswalk",
+    "meaning": "【名】横断歩道",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 19,
+    "word": "brick",
+    "meaning": "【名】レンガ",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 20,
+    "word": "hang",
+    "meaning": "【動】(絵などが)掛かる",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 21,
+    "word": "kneel",
+    "meaning": "【動】膝をつく",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 22,
+    "word": "sew",
+    "meaning": "【動】縫う",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 23,
+    "word": "be propped up against",
+    "meaning": "～に立て掛けられている",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 24,
+    "word": "walkway",
+    "meaning": "【名】歩道",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 25,
+    "word": "side by side",
+    "meaning": "並んで",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 26,
+    "word": "applaud",
+    "meaning": "【動】拍手を送る",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 27,
+    "word": "water",
+    "meaning": "【動】水をかける",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 28,
+    "word": "fasten",
+    "meaning": "【動】結ぶ、留める",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 29,
+    "word": "hallway",
+    "meaning": "【名】廊下",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 30,
+    "word": "microscope",
+    "meaning": "【名】顕微鏡",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 31,
+    "word": "mount",
+    "meaning": "【動】(上に)据える、固定する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 32,
+    "word": "audience",
+    "meaning": "【名】聴衆",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 33,
+    "word": "plaza",
+    "meaning": "【名】広場",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 34,
+    "word": "glove",
+    "meaning": "【名】手袋",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 35,
+    "word": "place",
+    "meaning": "【動】置く",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 36,
+    "word": "protective",
+    "meaning": "【形】防護用の",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 37,
+    "word": "scattered",
+    "meaning": "【形】散らばっている",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 38,
+    "word": "artwork",
+    "meaning": "【名】芸術作品",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 39,
+    "word": "cast a shadow",
+    "meaning": "影を落とす",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 40,
+    "word": "page through",
+    "meaning": "ページをめくる",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 41,
+    "word": "row",
+    "meaning": "【名】列 【動】(船を)漕ぐ",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 42,
+    "word": "reach",
+    "meaning": "【動】手を伸ばす",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 43,
+    "word": "diner",
+    "meaning": "【名】食事客",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 44,
+    "word": "pour",
+    "meaning": "【動】注ぐ",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 45,
+    "word": "load",
+    "meaning": "【動】積み込む",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 46,
+    "word": "board",
+    "meaning": "【動】乗り込む",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 47,
+    "word": "pot",
+    "meaning": "【名】深鍋、植木鉢",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 48,
+    "word": "garbage can",
+    "meaning": "【名】ゴミ箱",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 49,
+    "word": "stack",
+    "meaning": "【動】積み重ねる",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 50,
+    "word": "drawer",
+    "meaning": "【名】引き出し",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 51,
+    "word": "instrument",
+    "meaning": "【名】楽器",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 52,
+    "word": "remove",
+    "meaning": "【動】取り出す、取り外す",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 53,
+    "word": "cargo",
+    "meaning": "【名】貨物、積み荷",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 54,
+    "word": "auditorium",
+    "meaning": "【名】講堂",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 55,
+    "word": "railing",
+    "meaning": "【名】手すり",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 56,
+    "word": "potted plant",
+    "meaning": "【名】鉢植え",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 57,
+    "word": "position",
+    "meaning": "【動】位置に置く、位置を合わせる",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 58,
+    "word": "browse",
+    "meaning": "【動】(特に買う気もなく店内を)見て回る",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 59,
+    "word": "reflect",
+    "meaning": "【動】(像を)映す、反映する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 60,
+    "word": "lay out",
+    "meaning": "広げる",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 61,
+    "word": "doorway",
+    "meaning": "【名】戸口",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 62,
+    "word": "wheel",
+    "meaning": "【動】(車輪のついたものを)動かす",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 63,
+    "word": "lead to",
+    "meaning": "(道などが)～に通じる、つながる",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 64,
+    "word": "sit opposite",
+    "meaning": "向き合って座る",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 65,
+    "word": "in the distance",
+    "meaning": "遠くに",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 66,
+    "word": "mow",
+    "meaning": "【動】刈る",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 67,
+    "word": "vase",
+    "meaning": "【名】花瓶",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 68,
+    "word": "fountain",
+    "meaning": "【名】噴水、泉",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 69,
+    "word": "intersection",
+    "meaning": "【名】交差点",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 70,
+    "word": "platform",
+    "meaning": "【名】台、プラットフォーム",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 71,
+    "word": "diock",
+    "meaning": "【名】波止場、埠頭",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 72,
+    "word": "glance",
+    "meaning": "【動】ちらっと見る",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 73,
+    "word": "cupboard",
+    "meaning": "【名】食器棚",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 74,
+    "word": "exit",
+    "meaning": "【動】(場所から)出る",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 75,
+    "word": "workstation",
+    "meaning": "【名】(PCのある)仕事場、作業場",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 76,
+    "word": "gaze",
+    "meaning": "【動】じっと見る",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 77,
+    "word": "curb",
+    "meaning": "【名】縁石",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 78,
+    "word": "slanted",
+    "meaning": "【形】傾斜した、斜めの",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 79,
+    "word": "staircase",
+    "meaning": "【名】(室内にある手すりの付いた)会談",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 80,
+    "word": "spectator",
+    "meaning": "【名】(スポーツ等の)観客、見物客",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 81,
+    "word": "courtyard",
+    "meaning": "【名】中庭",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 82,
+    "word": "pottery",
+    "meaning": "【名】陶器、瀬戸物",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 83,
+    "word": "cookware",
+    "meaning": "【名】(鍋、フライパン等の)調理器具",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 84,
+    "word": "overlook",
+    "meaning": "【名】見下ろす位置にある",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 85,
+    "word": "pier",
+    "meaning": "【名】桟橋",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 86,
+    "word": "lighthouse",
+    "meaning": "【名】灯台",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 87,
+    "word": "portrait",
+    "meaning": "【名】肖像画",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 88,
+    "word": "unattended",
+    "meaning": "【形】(担当の)人がいない",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 89,
+    "word": "awning",
+    "meaning": "【名】日よけ",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 90,
+    "word": "patio",
+    "meaning": "【名】テラス",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 91,
+    "word": "unoccupied",
+    "meaning": "【形】使われていない",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 92,
+    "word": "pedestrian",
+    "meaning": "【名】歩行者",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 93,
+    "word": "crate",
+    "meaning": "【名】(運送用の)木箱、ケース",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 94,
+    "word": "utensil",
+    "meaning": "【名】調理器具",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 95,
+    "word": "station",
+    "meaning": "【動】配置する 【名】駅",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 96,
+    "word": "window pane",
+    "meaning": "【名】窓ガラス",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 97,
+    "word": "stroll",
+    "meaning": "【動】ぶらぶら歩く",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 98,
+    "word": "lamppost",
+    "meaning": "【名】街灯柱",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 99,
+    "word": "wheelbarrow",
+    "meaning": "【名】(手押しの)一輪車",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 100,
+    "word": "canopy",
+    "meaning": "【名】天蓋",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  }
+]

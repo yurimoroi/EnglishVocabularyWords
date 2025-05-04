@@ -1,0 +1,746 @@
+[
+  {
+    "id": 1,
+    "word": "board of directors",
+    "meaning": "役員（会）",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 2,
+    "word": "accounting department",
+    "meaning": "経理部",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 3,
+    "word": "marketing department",
+    "meaning": "マーケティング部",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 4,
+    "word": "human resources department",
+    "meaning": "人事部",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 5,
+    "word": "personnel department",
+    "meaning": "人事部",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 6,
+    "word": "administrative department",
+    "meaning": "管理部",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 7,
+    "word": "legal department",
+    "meaning": "法務部",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 8,
+    "word": "sales department",
+    "meaning": "営業部",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 9,
+    "word": "technology department",
+    "meaning": "技術部",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 10,
+    "word": "security department",
+    "meaning": "保安部",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 11,
+    "word": "purchasing department",
+    "meaning": "購買部",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 12,
+    "word": "payroll department",
+    "meaning": "給与部",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 13,
+    "word": "public relations department",
+    "meaning": "広報部",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 14,
+    "word": "advertising department",
+    "meaning": "宣伝部",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 15,
+    "word": "general affairs department",
+    "meaning": "総務部",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 16,
+    "word": "plumber",
+    "meaning": "配管工",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 17,
+    "word": "mechanic",
+    "meaning": "機械工",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 18,
+    "word": "carpenter",
+    "meaning": "大工",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 19,
+    "word": "welder",
+    "meaning": "溶接工",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 20,
+    "word": "electrician",
+    "meaning": "電気屋",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 21,
+    "word": "civil engineer",
+    "meaning": "土木技師",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 22,
+    "word": "dentist",
+    "meaning": "司会",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 23,
+    "word": "sugeon",
+    "meaning": "外科医",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 24,
+    "word": "pharmacist",
+    "meaning": "薬剤師",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 25,
+    "word": "veterinarian(vet)",
+    "meaning": "獣医",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 26,
+    "word": "bakery",
+    "meaning": "パン屋",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 27,
+    "word": "florist",
+    "meaning": "花屋",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 28,
+    "word": "cleaner's",
+    "meaning": "クリーニング店",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 29,
+    "word": "locksmith",
+    "meaning": "鍵屋",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 30,
+    "word": "moving company",
+    "meaning": "引っ越し業者",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 31,
+    "word": "hardware store",
+    "meaning": "ホームセンター",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 32,
+    "word": "printer",
+    "meaning": "印刷業者",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 33,
+    "word": "courier",
+    "meaning": "宅配業者",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 34,
+    "word": "real estate agency",
+    "meaning": "不動産屋",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 35,
+    "word": "accountant",
+    "meaning": "会計士",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 36,
+    "word": "auditor",
+    "meaning": "会見監査し",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 37,
+    "word": "authropologist",
+    "meaning": "人類学者",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 38,
+    "word": "biologist",
+    "meaning": "生物学者",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 39,
+    "word": "botanist",
+    "meaning": "植物学者",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 40,
+    "word": "scientist",
+    "meaning": "科学者",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 41,
+    "word": "chemist",
+    "meaning": "化学者",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 42,
+    "word": "historian",
+    "meaning": "歴史学者",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 43,
+    "word": "lawyer",
+    "meaning": "弁護士",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 44,
+    "word": "attorney",
+    "meaning": "弁護士",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 45,
+    "word": "prodessor",
+    "meaning": "教授",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 46,
+    "word": "paralegal",
+    "meaning": "弁護士補助員",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 47,
+    "word": "journalist",
+    "meaning": "ジャーナリスト",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 48,
+    "word": "announcer",
+    "meaning": "アナウンサー",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  { "id": 49, "word": "host", "meaning": "司会者", "example": "", "translation": "", "remark": "" },
+  {
+    "id": 50,
+    "word": "correspondent",
+    "meaning": "特派員",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 51,
+    "word": "editor",
+    "meaning": "編集者",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 52,
+    "word": "proofreader",
+    "meaning": "校正者",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 53,
+    "word": "novelist",
+    "meaning": "小説家",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 54,
+    "word": "librarian",
+    "meaning": "図書館員",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 55,
+    "word": "flight attendant",
+    "meaning": "フライトアテンダント",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 56,
+    "word": "travel agent",
+    "meaning": "旅行業者",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 57,
+    "word": "tour guide",
+    "meaning": "ツアーガイド",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 58,
+    "word": "concierge",
+    "meaning": "コンシェルジュ",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 59,
+    "word": "housekeeping",
+    "meaning": "客室係",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 60,
+    "word": "conductor",
+    "meaning": "車掌・指揮者",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 61,
+    "word": "operator",
+    "meaning": "オペレーター",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 62,
+    "word": "architect",
+    "meaning": "建築家",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 63,
+    "word": "photographer",
+    "meaning": "写真家",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 64,
+    "word": "choreographer",
+    "meaning": "振付師",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  { "id": 65, "word": "actor", "meaning": "俳優", "example": "", "translation": "", "remark": "" },
+  {
+    "id": 66,
+    "word": "actress",
+    "meaning": "女優",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 67,
+    "word": "curator",
+    "meaning": "学芸員",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 68,
+    "word": "receptionist",
+    "meaning": "受付",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 69,
+    "word": "secretary",
+    "meaning": "秘書",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 70,
+    "word": "spokesperson",
+    "meaning": "広報担当者",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 71,
+    "word": "ambassador",
+    "meaning": "大使",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 72,
+    "word": "security guard",
+    "meaning": "警備員",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 73,
+    "word": "cashier",
+    "meaning": "レジ係",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 74,
+    "word": "accounting",
+    "meaning": "会計学",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 75,
+    "word": "architecture",
+    "meaning": "建築学",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 76,
+    "word": "astronomy",
+    "meaning": "天文学",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 77,
+    "word": "biology",
+    "meaning": "生物学",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 78,
+    "word": "chemistry",
+    "meaning": "化学",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 79,
+    "word": "ecology",
+    "meaning": "生態学",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 80,
+    "word": "economics",
+    "meaning": "経済学",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 81,
+    "word": "education",
+    "meaning": "教育学",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 82,
+    "word": "engineering",
+    "meaning": "工学",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 83,
+    "word": "fine arts",
+    "meaning": "芸術",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 84,
+    "word": "history",
+    "meaning": "歴史学",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 85,
+    "word": "journalism",
+    "meaning": "ジャーナリズム",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  { "id": 86, "word": "lawyer", "meaning": "法学", "example": "", "translation": "", "remark": "" },
+  {
+    "id": 87,
+    "word": "linguistics",
+    "meaning": "言語学",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 88,
+    "word": "literature",
+    "meaning": "文学",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 89,
+    "word": "mathematics",
+    "meaning": "数学",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 90,
+    "word": "medicine",
+    "meaning": "医学",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 91,
+    "word": "philosophy",
+    "meaning": "哲学",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 92,
+    "word": "physics",
+    "meaning": "物理学",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 93,
+    "word": "psychology",
+    "meaning": "心理学",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 94,
+    "word": "robotics",
+    "meaning": "ロボット工学",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 95,
+    "word": "sociology",
+    "meaning": "社会学",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  { "id": 96, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
+  { "id": 97, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
+  { "id": 98, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
+  { "id": 99, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },
+  { "id": 100, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" }
+]

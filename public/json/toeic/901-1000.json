@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "word": "subsequent",
+    "meaning": "【形】その次の、そのあとの",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 2,
+    "word": "thoughtfully",
+    "meaning": "【副】深く考えて、思慮深く、配慮して",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 3,
+    "word": "abridgrd",
+    "meaning": "【形】要約された、短縮された",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 4,
+    "word": "carpool",
+    "meaning": "【動】相乗りする　【名】相乗り",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 5,
+    "word": "compatible",
+    "meaning": "【形】相性が良い、互換性がある、共存できる",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 6,
+    "word": "endorse",
+    "meaning": "【動】推薦する、指示する、裏書きする",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 7,
+    "word": "explicit",
+    "meaning": "【形】明白な、明確な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 8,
+    "word": "keenly",
+    "meaning": "【副】痛烈に、鋭く",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 9,
+    "word": "plaque",
+    "meaning": "【名】縦",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 10,
+    "word": "dilute",
+    "meaning": "【動】薄める",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 11,
+    "word": "exempt",
+    "meaning": "【形】免除された　【動】免除する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 12,
+    "word": "centerpiece",
+    "meaning": "【名】中心に置かれる装飾品、中心になるもの",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 13,
+    "word": "oversight",
+    "meaning": "【名】見落とし、手落ち、監視",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 14,
+    "word": "privileged",
+    "meaning": "【形】光栄な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 15,
+    "word": "recur",
+    "meaning": "【動】再発する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 16,
+    "word": "skeotical",
+    "meaning": "【形】懐疑的な、疑い深い",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 17,
+    "word": "sustainable",
+    "meaning": "【形】持続可能な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 18,
+    "word": "artifact",
+    "meaning": "【名】(歴史的・文化的価値のある)工芸品、手工品",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 19,
+    "word": "keynote",
+    "meaning": "【形】基調となる　【名】基調",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 20,
+    "word": "breathtaking",
+    "meaning": "【形】息をのむほどの、驚くべき",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 21,
+    "word": "cubicle",
+    "meaning": "【名】個別の作業スペース",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 22,
+    "word": "outage",
+    "meaning": "【名】機能停止期間、供給停止期間",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 23,
+    "word": "perishable",
+    "meaning": "【形】傷みやすい、腐りやすい",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 24,
+    "word": "avid",
+    "meaning": "【形】熱心な、熱烈な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 25,
+    "word": "detour",
+    "meaning": "【名】回り道　【動】遠回りをする",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 26,
+    "word": "exoedite",
+    "meaning": "【動】早める、促進させる",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 27,
+    "word": "vicinity",
+    "meaning": "【名】近所、近辺",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 28,
+    "word": "affiliated",
+    "meaning": "【形】提携した、関連のある",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 29,
+    "word": "definitive",
+    "meaning": "【形】決定版の、最終的な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 30,
+    "word": "demolish",
+    "meaning": "【動】(建物を)解体する、取り壊す",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 31,
+    "word": "feasible",
+    "meaning": "【形】実現可能な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 32,
+    "word": "inaugural",
+    "meaning": "【形】最初の、初開催の",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 33,
+    "word": "installment",
+    "meaning": "【名】分割払いの1回分",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 34,
+    "word": "redeemable",
+    "meaning": "【形】(現金や商品と)交換可能な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 35,
+    "word": "streamline",
+    "meaning": "【動】合理化する、簡略化する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 36,
+    "word": "insulation",
+    "meaning": "【名】(音、熱、電気等を)防ぐこと",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 37,
+    "word": "intact",
+    "meaning": "【形】傷がない",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 38,
+    "word": "occupancy",
+    "meaning": "【名】(ホテルや部屋等の)占有、占有人数",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 39,
+    "word": "turnover",
+    "meaning": "【名】離職率",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 40,
+    "word": "unanimous",
+    "meaning": "【形】満場一致の",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 41,
+    "word": "deteriorate",
+    "meaning": "【動】悪化する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 42,
+    "word": "sturdy",
+    "meaning": "【形】頑丈な、丈夫な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 43,
+    "word": "adverse",
+    "meaning": "【形】よくない、不利な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 44,
+    "word": "bearer",
+    "meaning": "【名】(小切手やクーポン等の)持参人",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 45,
+    "word": "unprecedented",
+    "meaning": "【形】前例のない",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 46,
+    "word": "botanical",
+    "meaning": "【形】植物の、植物学の",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 47,
+    "word": "commensurate",
+    "meaning": "【形】つりあった、比例した、見合った",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 48,
+    "word": "consecutive",
+    "meaning": "【形】連続した",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 49,
+    "word": "deliberation",
+    "meaning": "【名】熟考",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 50,
+    "word": "discreetly",
+    "meaning": "【副】分別をもって、思慮深く",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 51,
+    "word": "entail",
+    "meaning": "【動】必要とする、～を伴う",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 52,
+    "word": "fluctuation",
+    "meaning": "【名】変動",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 53,
+    "word": "foremost",
+    "meaning": "【形】最高の、トップの",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 54,
+    "word": "imperative",
+    "meaning": "【形】急を要する、非常に重要な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 55,
+    "word": "mandatory",
+    "meaning": "【形】義務の、強制の",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 56,
+    "word": "meticulously",
+    "meaning": "【副】最新の注意を払って、几帳面に",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 57,
+    "word": "outreach",
+    "meaning": "【名】福祉活動、支援活動",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 58,
+    "word": "tenure",
+    "meaning": "【名】在職期間",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 59,
+    "word": "versatile",
+    "meaning": "【形】多才な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 60,
+    "word": "alleviate",
+    "meaning": "【動】和らげる、軽減する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 61,
+    "word": "exemplary",
+    "meaning": "【形】模範的な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 62,
+    "word": "gala",
+    "meaning": "【名】祝祭、祭り",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 63,
+    "word": "mural",
+    "meaning": "【名】壁画",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 64,
+    "word": "proprietor",
+    "meaning": "【名】オー内、所有者",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 65,
+    "word": "stagnant",
+    "meaning": "【形】停滞した",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 66,
+    "word": "stringent",
+    "meaning": "【形】非常に厳しい",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 67,
+    "word": "testimonial",
+    "meaning": "【名】推薦文、推薦の声",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 68,
+    "word": "turnout",
+    "meaning": "【名】参加者数、来場者数",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 69,
+    "word": "waive",
+    "meaning": "【動】(権利や条件を)放棄する、差し控える、適用しない",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 70,
+    "word": "faucet",
+    "meaning": "【名】蛇口",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 71,
+    "word": "amendment",
+    "meaning": "【名】改正、修正",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 72,
+    "word": "anonymous",
+    "meaning": "【形】匿名の",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 73,
+    "word": "fraud",
+    "meaning": "【名】詐欺",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 74,
+    "word": "liable",
+    "meaning": "【形】法的責任がある",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 75,
+    "word": "considerate",
+    "meaning": "【形】思いやりのある、配慮して",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 76,
+    "word": "consolodate",
+    "meaning": "【動】統合する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 77,
+    "word": "vigorous",
+    "meaning": "【形】活気のある、精力的な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 78,
+    "word": "retreat",
+    "meaning": "【名】研修旅行、退避、静養",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 79,
+    "word": "custodian",
+    "meaning": "【名】管理人、守衛",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 80,
+    "word": "forge",
+    "meaning": "【動】築く、構築する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 81,
+    "word": "impending",
+    "meaning": "【形】間近に迫った、差し迫った",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 82,
+    "word": "itemize",
+    "meaning": "【動】項目別にする",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 83,
+    "word": "liaison",
+    "meaning": "【名】連絡係、連絡",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 84,
+    "word": "objectionable",
+    "meaning": "【形】深いな、気に障る",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 85,
+    "word": "repave",
+    "meaning": "【動】再舗装する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 86,
+    "word": "shortcoming",
+    "meaning": "【名】欠点、短所",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 87,
+    "word": "viable",
+    "meaning": "【形】実行可能な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 88,
+    "word": "memorabilia",
+    "meaning": "【名】記念品",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 89,
+    "word": "deplete",
+    "meaning": "【動】使い果たす、激減させる",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 90,
+    "word": "jeopardy",
+    "meaning": "【名】危機、危険",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 91,
+    "word": "nominal",
+    "meaning": "【形】ほんの僅かの",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 92,
+    "word": "deviate",
+    "meaning": "【動】それる",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 93,
+    "word": "forfeit",
+    "meaning": "【動】没収される、剥奪される　【名】罰金、犠牲",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 94,
+    "word": "bolster",
+    "meaning": "【動】強化する、補強する、鼓舞する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 95,
+    "word": "optimal",
+    "meaning": "【形】ベストの、最適な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 96,
+    "word": "purveyor",
+    "meaning": "【名】供給業者、販売業者",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 97,
+    "word": "raffle",
+    "meaning": "【名】福引",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 98,
+    "word": "ventilation",
+    "meaning": "【名】歓喜、風通し",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 99,
+    "word": "unwavering",
+    "meaning": "【形】揺るがぬ、断固とした",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 100,
+    "word": "exponentially",
+    "meaning": "【副】加速度的に、指数関数的に",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  }
+]

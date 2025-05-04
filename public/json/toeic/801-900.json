@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "word": "tutorial",
+    "meaning": "【名】指導書、個別指導",
+    "example": "The _____ explains how to install the software.",
+    "translation": "この指導書はソフトのインストール方法を説明しています。",
+    "remark": ""
+  },
+  {
+    "id": 2,
+    "word": "apprentice",
+    "meaning": "【名】見習い、実習生",
+    "example": "The _____ learned valuable skills from the master carpenter.",
+    "translation": "見習いは親方から貴重な技術を学びました。",
+    "remark": ""
+  },
+  {
+    "id": 3,
+    "word": "bid",
+    "meaning": "【名】入札　【動】入札する",
+    "example": "Our company submitted a _____ for the construction project.",
+    "translation": "当社はその建設プロジェクトに入札しました。",
+    "remark": ""
+  },
+  {
+    "id": 4,
+    "word": "discard",
+    "meaning": "【動】捨てる",
+    "example": "Please _____ any expired food in the fridge.",
+    "translation": "冷蔵庫の期限切れ食品は捨ててください。",
+    "remark": ""
+  },
+  {
+    "id": 5,
+    "word": "outing",
+    "meaning": "【名】外出、お出かけ",
+    "example": "We are planning a company _____ this weekend.",
+    "translation": "今週末に会社の外出を計画しています。",
+    "remark": ""
+  },
+  {
+    "id": 6,
+    "word": "overwhelmingly",
+    "meaning": "【副】圧倒的に",
+    "example": "The new product was _____ well-received.",
+    "translation": "新製品は圧倒的に好評でした。",
+    "remark": ""
+  },
+  {
+    "id": 7,
+    "word": "proceeds",
+    "meaning": "【名】収益",
+    "example": "All _____ from the event go to charity.",
+    "translation": "イベントの収益はすべて慈善事業に使われます。",
+    "remark": ""
+  },
+  {
+    "id": 8,
+    "word": "refrain",
+    "meaning": "【動】差し控える",
+    "example": "Please _____ from using mobile phones here.",
+    "translation": "ここでの携帯電話の使用は控えてください。",
+    "remark": ""
+  },
+  {
+    "id": 9,
+    "word": "inclement",
+    "meaning": "【形】荒れ模様の",
+    "example": "The flight was canceled due to _____ weather.",
+    "translation": "荒れ模様の天候のためフライトがキャンセルされました。",
+    "remark": ""
+  },
+  {
+    "id": 10,
+    "word": "novice",
+    "meaning": "【名】初心者",
+    "example": "She is a _____ at cooking.",
+    "translation": "彼女は料理の初心者です。",
+    "remark": ""
+  },
+  {
+    "id": 11,
+    "word": "activate",
+    "meaning": "【動】使えるようにする、始動させる",
+    "example": "Click here to _____ your account.",
+    "translation": "ここをクリックしてアカウントを使えるようにしてください。",
+    "remark": ""
+  },
+  {
+    "id": 12,
+    "word": "anecdote",
+    "meaning": "【名】逸話",
+    "example": "He told a funny _____ about his childhood.",
+    "translation": "彼は子供時代の面白い逸話を語った。",
+    "remark": ""
+  },
+  {
+    "id": 13,
+    "word": "collaboration",
+    "meaning": "【名】協力、協同",
+    "example": "This project requires close _____.",
+    "translation": "このプロジェクトには密な協力が必要です。",
+    "remark": ""
+  },
+  {
+    "id": 14,
+    "word": "commemorate",
+    "meaning": "【動】(記念日や人を)祝う、記念する",
+    "example": "A ceremony was held to _____ the anniversary.",
+    "translation": "記念式典がその記念日を祝うために行われました。",
+    "remark": ""
+  },
+  {
+    "id": 15,
+    "word": "duplicate",
+    "meaning": "【形】複製の　【名】複製　【動】複製を取る",
+    "example": "Please make a _____ of the original file.",
+    "translation": "元ファイルの複製を作成してください。",
+    "remark": ""
+  },
+  {
+    "id": 16,
+    "word": "intermission",
+    "meaning": "【名】休憩時間",
+    "example": "The movie will resume after the _____.",
+    "translation": "映画は休憩時間の後に再開します。",
+    "remark": ""
+  },
+  {
+    "id": 17,
+    "word": "fertilizer",
+    "meaning": "【名】肥料",
+    "example": "Use organic _____ to enrich the soil.",
+    "translation": "有機肥料を使って土壌を豊かにしましょう。",
+    "remark": ""
+  },
+  {
+    "id": 18,
+    "word": "proofread",
+    "meaning": "【動】校正する",
+    "example": "Be sure to _____ your report before submitting.",
+    "translation": "提出前にレポートを校正してください。",
+    "remark": ""
+  },
+  {
+    "id": 19,
+    "word": "solicit",
+    "meaning": "【動】求める、懇願する",
+    "example": "They _____ donations for the new shelter.",
+    "translation": "彼らは新しい避難所のために寄付を求めました。",
+    "remark": ""
+  },
+  {
+    "id": 20,
+    "word": "unveil",
+    "meaning": "【動】披露する、公表する",
+    "example": "The company will _____ its new product next week.",
+    "translation": "同社は来週新製品を披露します。",
+    "remark": ""
+  },
+  {
+    "id": 21,
+    "word": "applicable",
+    "meaning": "【形】適用される、当てはまる",
+    "example": "This policy is not _____ in all situations.",
+    "translation": "この方針はすべての状況に適用されるわけではありません。",
+    "remark": ""
+  },
+  {
+    "id": 22,
+    "word": "commend",
+    "meaning": "【動】褒める",
+    "example": "I would like to _____ you on your excellent work.",
+    "translation": "あなたの素晴らしい働きを褒めたいと思います。",
+    "remark": ""
+  },
+  {
+    "id": 23,
+    "word": "complement",
+    "meaning": "【動】合う、保管する",
+    "example": "This sauce will perfectly _____ the dish.",
+    "translation": "このソースはその料理にぴったり合います。",
+    "remark": ""
+  },
+  {
+    "id": 24,
+    "word": "incentive",
+    "meaning": "【名】動機付け、やる気を起こさせるもの",
+    "example": "The company offers a generous _____ for top performers.",
+    "translation": "その会社は優秀な従業員に対して十分な報奨を提供します。",
+    "remark": ""
+  },
+  {
+    "id": 25,
+    "word": "incorporate",
+    "meaning": "【動】取り入れる、組み込む",
+    "example": "We will _____ the new feature into the app.",
+    "translation": "新機能をアプリに取り入れます。",
+    "remark": ""
+  },
+  {
+    "id": 26,
+    "word": "lapse",
+    "meaning": "【動】失効する、うっかりミスをする　【名】過失、時の経過",
+    "example": "The subscription will _____ if not renewed.",
+    "translation": "更新されなければ契約は失効します。",
+    "remark": ""
+  },
+  {
+    "id": 27,
+    "word": "picturesque",
+    "meaning": "【形】絵のように美しい",
+    "example": "We stayed in a _____ village in the mountains.",
+    "translation": "私たちは山の中の絵のように美しい村に滞在しました。",
+    "remark": ""
+  },
+  {
+    "id": 28,
+    "word": "prospective",
+    "meaning": "【形】見込みのある、将来の",
+    "example": "He is a _____ customer who may sign the deal.",
+    "translation": "彼は契約を結ぶ見込みのある顧客です。",
+    "remark": ""
+  },
+  {
+    "id": 29,
+    "word": "simplify",
+    "meaning": "【動】簡素化する、単純にする",
+    "example": "We need to _____ the process to save time.",
+    "translation": "時間を節約するためにそのプロセスを簡素化する必要があります。",
+    "remark": ""
+  },
+  {
+    "id": 30,
+    "word": "surpass",
+    "meaning": "【動】超える",
+    "example": "This year’s sales _____ last year's record.",
+    "translation": "今年の売上は昨年の記録を超えました。",
+    "remark": ""
+  },
+  {
+    "id": 31,
+    "word": "surplus",
+    "meaning": "【形】余分な　【名】余り",
+    "example": "The company has a large _____ of products.",
+    "translation": "その会社には製品の余りがたくさんあります。",
+    "remark": ""
+  },
+  {
+    "id": 32,
+    "word": "withstand",
+    "meaning": "【動】耐える",
+    "example": "This material can _____ high temperatures.",
+    "translation": "この素材は高温に耐えることができます。",
+    "remark": ""
+  },
+  {
+    "id": 33,
+    "word": "advocate",
+    "meaning": "【名】提唱者、支持者　【動】提唱する",
+    "example": "She is an _____ for women's rights.",
+    "translation": "彼女は女性の権利の提唱者です。",
+    "remark": ""
+  },
+  {
+    "id": 34,
+    "word": "aspiring",
+    "meaning": "【形】～志望の、～になろうとする",
+    "example": "He is an _____ actor trying to break into film.",
+    "translation": "彼は映画界に進出しようとしている俳優志望の人物です。",
+    "remark": ""
+  },
+  {
+    "id": 35,
+    "word": "assorted",
+    "meaning": "【形】詰め合わせの",
+    "example": "We bought an _____ box of chocolates.",
+    "translation": "私たちはチョコレートの詰め合わせを買いました。",
+    "remark": ""
+  },
+  {
+    "id": 36,
+    "word": "credentials",
+    "meaning": "【名】資格、経歴、資質",
+    "example": "Please send us your updated _____.",
+    "translation": "更新された資格情報を送ってください。",
+    "remark": ""
+  },
+  {
+    "id": 37,
+    "word": "interoffice",
+    "meaning": "【形】社内の、オフィス間の",
+    "example": "Use the _____ mail envelope.",
+    "translation": "社内用の封筒を使ってください。",
+    "remark": ""
+  },
+  {
+    "id": 38,
+    "word": "malfunction",
+    "meaning": "【名】故障　【動】故障する",
+    "example": "The printer _____ during the presentation.",
+    "translation": "プレゼン中にプリンターが故障しました。",
+    "remark": ""
+  },
+  {
+    "id": 39,
+    "word": "mutually",
+    "meaning": "【副】互いに、相互に",
+    "example": "They reached an agreement _____.",
+    "translation": "彼らは互いに合意に達しました。",
+    "remark": ""
+  },
+  {
+    "id": 40,
+    "word": "periodically",
+    "meaning": "【副】定期的に",
+    "example": "The system is checked _____.",
+    "translation": "そのシステムは定期的にチェックされています。",
+    "remark": ""
+  },
+  {
+    "id": 41,
+    "word": "copyright",
+    "meaning": "【名】著作権",
+    "example": "The author holds the _____ for this book.",
+    "translation": "この本の著作権はその著者が持っています。",
+    "remark": ""
+  },
+  {
+    "id": 42,
+    "word": "nututious",
+    "meaning": "【形】栄養のある",
+    "example": "Fruits and vegetables are very _____.",
+    "translation": "果物や野菜は非常に栄養があります。",
+    "remark": ""
+  },
+  {
+    "id": 43,
+    "word": "obstruct",
+    "meaning": "【動】(通路や視界を)ふさぐ、さえぎる",
+    "example": "Don’t _____ the exit with boxes.",
+    "translation": "箱で出口をふさがないでください。",
+    "remark": ""
+  },
+  {
+    "id": 44,
+    "word": "abundant",
+    "meaning": "【形】豊富な、十分な",
+    "example": "The region has _____ resources.",
+    "translation": "その地域には豊富な資源があります。",
+    "remark": ""
+  },
+  {
+    "id": 45,
+    "word": "agreeable",
+    "meaning": "【形】快適な、(人が)フレンドリーな、合意可能な",
+    "example": "She has an _____ personality.",
+    "translation": "彼女はフレンドリーな性格です。",
+    "remark": ""
+  },
+  {
+    "id": 46,
+    "word": "compromise",
+    "meaning": "【名】妥協、妥協点　【動】妥協する",
+    "example": "They reached a _____ after long discussions.",
+    "translation": "長時間の議論の末に彼らは妥協に達しました。",
+    "remark": ""
+  },
+  {
+    "id": 47,
+    "word": "continuous",
+    "meaning": "【形】途切れない、絶え間のない",
+    "example": "The machine runs in a _____ loop.",
+    "translation": "その機械は途切れないループで稼働しています。",
+    "remark": ""
+  },
+  {
+    "id": 48,
+    "word": "dominant",
+    "meaning": "【形】支配的な、圧倒的な",
+    "example": "The company is the _____ force in the industry.",
+    "translation": "その会社は業界で支配的な勢力です。",
+    "remark": ""
+  },
+  {
+    "id": 49,
+    "word": "exhausted",
+    "meaning": "【形】疲れ切った",
+    "example": "After the hike, we were all _____.",
+    "translation": "ハイキングの後、私たちはみな疲れ切っていました。",
+    "remark": ""
+  },
+  {
+    "id": 50,
+    "word": "fierce",
+    "meaning": "【形】熾烈な",
+    "example": "There was a _____ debate during the meeting",
+    "translation": "会議では激しい議論がありました。",
+    "remark": ""
+  },
+  {
+    "id": 51,
+    "word": "prosperous",
+    "meaning": "【形】反映している、裕福な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 52,
+    "word": "quote",
+    "meaning": "【名】提示価格、引用　【動】価格を提示する、引用する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 53,
+    "word": "reluctant",
+    "meaning": "【形】気乗りしない、渋っている",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 54,
+    "word": "remedy",
+    "meaning": "【名】改善策、治療薬　【動】改善する、治療する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 55,
+    "word": "solely",
+    "meaning": "【副】唯一、伊砦、単独で",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 56,
+    "word": "vital",
+    "meaning": "【形】不可欠な、非常に重要な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 57,
+    "word": "revitalize",
+    "meaning": "【動】杯活性化する、復興する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 58,
+    "word": "commence",
+    "meaning": "【動】始まる",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 59,
+    "word": "contless",
+    "meaning": "【形】数えきれないほどの、無数の",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 60,
+    "word": "divise",
+    "meaning": "【動】考案する、立案する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 61,
+    "word": "execute",
+    "meaning": "【動】実行する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 62,
+    "word": "foster",
+    "meaning": "【動】促進する、養う",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 63,
+    "word": "initiate",
+    "meaning": "【動】始める",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 64,
+    "word": "insight",
+    "meaning": "【名】洞察、洞察力",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 65,
+    "word": "misleading",
+    "meaning": "【形】誤解を招く恐れのある",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 66,
+    "word": "precaution",
+    "meaning": "【名】予防策、予防措置",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 67,
+    "word": "transparent",
+    "meaning": "【形】透明の",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 68,
+    "word": "coincide",
+    "meaning": "【動】同時に起こる",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 69,
+    "word": "concise",
+    "meaning": "【形】簡潔な",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 70,
+    "word": "delegation",
+    "meaning": "【名】代表団、(権限等の)委譲",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 71,
+    "word": "diagnosis",
+    "meaning": "【名】診断",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 72,
+    "word": "enforce",
+    "meaning": "【動】施行する、実行する、強制する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 73,
+    "word": "hypothesis",
+    "meaning": "【名】仮説",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 74,
+    "word": "predecessor",
+    "meaning": "【名】前任者、前機種",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 75,
+    "word": "prominently",
+    "meaning": "【副】目立って、傑出して",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 76,
+    "word": "adoption",
+    "meaning": "【名】採用",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 77,
+    "word": "accelerate",
+    "meaning": "【動】加速させる、拍車をかける",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 78,
+    "word": "adhere",
+    "meaning": "【動】(規則や法律等に)忠実に従う、接着する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 79,
+    "word": "allocate",
+    "meaning": "【動】割り当てる",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 80,
+    "word": "appraisal",
+    "meaning": "【名】査定、評価",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 81,
+    "word": "compile",
+    "meaning": "【動】取りまとめる、編集する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 82,
+    "word": "conform",
+    "meaning": "【動】(規則や周囲の状況等に)合わせる、一致する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 83,
+    "word": "constraint",
+    "meaning": "【名】製薬",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 84,
+    "word": "distraction",
+    "meaning": "【名】気を散らすもの、注意の妨げになるもの",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 85,
+    "word": "facilitate",
+    "meaning": "【動】容易にする、促進する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 86,
+    "word": "integral",
+    "meaning": "【形】不可欠の",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 87,
+    "word": "interact",
+    "meaning": "【動】交流する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 88,
+    "word": "persistence",
+    "meaning": "【名】粘り強さ",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 89,
+    "word": "quota",
+    "meaning": "【名】ノルマ、割り当て",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 90,
+    "word": "congested",
+    "meaning": "【形】渋滞した",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 91,
+    "word": "deduct",
+    "meaning": "【動】控除する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 92,
+    "word": "embrace",
+    "meaning": "【動】積極的に受け入れる、快諾する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 93,
+    "word": "synthetic",
+    "meaning": "【形】合成の",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 94,
+    "word": "terminate",
+    "meaning": "【動】終わらせる",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 95,
+    "word": "detect",
+    "meaning": "【動】見つける、検知する",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 96,
+    "word": "patiently",
+    "meaning": "【副】根気よく、我慢強く",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 97,
+    "word": "ratio",
+    "meaning": "【名】比率",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 98,
+    "word": "dietary",
+    "meaning": "【形】食事の",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 99,
+    "word": "intentionally",
+    "meaning": "【副】意図的に",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  },
+  {
+    "id": 100,
+    "word": "persuasive",
+    "meaning": "【形】説得力のある",
+    "example": "",
+    "translation": "",
+    "remark": ""
+  }
+]

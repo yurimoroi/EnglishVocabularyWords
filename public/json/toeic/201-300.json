@@ -21,7 +21,7 @@
     "meaning": "【形】満足した",
     "example": "I'm _____ with the service.",
     "translation": "サービスに満足しています。",
-    "remark": "【動】satisfyu(満足させる) 【名】satisfaction(満足) 【形】satisafactory(満足させるような) 【副】satisafactorily(満足させるように)"
+    "remark": "【動】satisfyu(満足させる)　【名】satisfaction(満足)　【形】satisafactory(満足させるような)　【副】satisafactorily(満足させるように)"
   },
   {
     "id": 4,
@@ -34,7 +34,7 @@
   {
     "id": 5,
     "word": "develop",
-    "meaning": "【動】（計画等を）作り出す、開発する、（スキルを）高める",
+    "meaning": "【動】(計画等を)作り出す、開発する、(スキルを)高める",
     "example": "We plan to _____ a new app.",
     "translation": "新しいアプリを開発する予定です。",
     "remark": ""
@@ -50,7 +50,7 @@
   {
     "id": 7,
     "word": "reasonable",
-    "meaning": "【形】（値段が）手ごろな、妥当な",
+    "meaning": "【形】(値段が)手ごろな、妥当な",
     "example": "The price is quite _____.",
     "translation": "値段はかなり手ごろです。",
     "remark": "【類】affordable(手ごろな)、competitive(他に負けない)、inexpensive(安価な)"
@@ -58,7 +58,7 @@
   {
     "id": 8,
     "word": "unable",
-    "meaning": "【形】（～することが）できない",
+    "meaning": "【形】(～することが)できない",
     "example": "He was _____ to attend the meeting.",
     "translation": "彼は会議に出席できませんでした。",
     "remark": "【反】able(～できる)"
@@ -93,7 +93,7 @@
     "meaning": "【動】拡大する、進出する",
     "example": "The company plans to _____ into Asia.",
     "translation": "その会社はアジアへ進出する予定です。",
-    "remark": "【名】expansion(拡大、進出) 【形】expansive(広範囲の) 【類】enlarge(拡大する、拡張する)"
+    "remark": "【名】expansion(拡大、進出)　【形】expansive(広範囲の)　【類】enlarge(拡大する、拡張する)"
   },
   {
     "id": 13,
@@ -125,7 +125,7 @@
     "meaning": "【名】利益　【動】利益を与える",
     "example": "The company made a big _____ last year.",
     "translation": "その会社は昨年大きな利益を上げました。",
-    "remark": "【形】profitable(利益になる) 【名】profitability(利益性)"
+    "remark": "【形】profitable(利益になる)　【名】profitability(利益性)"
   },
   {
     "id": 17,
@@ -138,7 +138,7 @@
   {
     "id": 18,
     "word": "entry",
-    "meaning": "【名】エントリー（作品）、入場",
+    "meaning": "【名】エントリー(作品)、入場",
     "example": "Only one _____ per person is allowed.",
     "translation": "一人につき一作品のみ応募できます。",
     "remark": ""
@@ -178,7 +178,7 @@
   {
     "id": 23,
     "word": "raise",
-    "meaning": "【動】上げる、（お金を）集める、高める　【名】昇給",
+    "meaning": "【動】上げる、(お金を)集める、高める　【名】昇給",
     "example": "We need to _____ more funds.",
     "translation": "もっと資金を集める必要があります。",
     "remark": ""
@@ -189,7 +189,7 @@
     "meaning": "【動】添付する",
     "example": "I _____ed the file to the email.",
     "translation": "メールにファイルを添付しました。",
-    "remark": "【類】attach/enclose(同封する)、accompany(添える)、include(含む) 【名】attachment(添付ファイル、付属品) 【反】detach(切り離す)"
+    "remark": "【類】attach/enclose(同封する)、accompany(添える)、include(含む)　【名】attachment(添付ファイル、付属品)　【反】detach(切り離す)"
   },
   {
     "id": 25,
@@ -197,7 +197,7 @@
     "meaning": "【動】引き付ける、呼び込む",
     "example": "The campaign _____ed many customers.",
     "translation": "そのキャンペーンは多くの顧客を引きつけました。",
-    "remark": "【形】attractive(魅力的な) 【名】attraction(名所、魅力)"
+    "remark": "【形】attractive(魅力的な)　【名】attraction(名所、魅力)"
   },
   {
     "id": 26,
@@ -205,7 +205,7 @@
     "meaning": "【名】保険",
     "example": "Do you have health _____?",
     "translation": "健康保険に入っていますか？",
-    "remark": "【動】insure(保険を掛ける、保証する) 【関】insurance policy(保険証書)、policyholder(保険契約者)、premium(保険料)"
+    "remark": "【動】insure(保険を掛ける、保証する)　【関】insurance policy(保険証書)、policyholder(保険契約者)、premium(保険料)"
   },
   {
     "id": 27,
@@ -237,7 +237,7 @@
     "meaning": "【名】見積もり　【動】見積もる",
     "example": "We received the cost _____.",
     "translation": "費用の見積もりを受け取りました。",
-    "remark": "【形】estimated(推定の、おおよその) 【関】underestimate(低く見積もる、過小評価する)"
+    "remark": "【形】estimated(推定の、おおよその)　【関】underestimate(低く見積もる、過小評価する)"
   },
   {
     "id": 31,
@@ -261,7 +261,7 @@
     "meaning": "【形】現代的な、近代的な",
     "example": "This is a _____ building.",
     "translation": "これは現代的な建物です。",
-    "remark": "【類】contemporary(現代の) 【動】modernize(現代的にする)"
+    "remark": "【類】contemporary(現代の)　【動】modernize(現代的にする)"
   },
   {
     "id": 34,
@@ -309,7 +309,7 @@
     "meaning": "【形】具体的な、特定の",
     "example": "Please give me a _____ example.",
     "translation": "具体的な例を挙げてください。",
-    "remark": "【副】specifically(具体的に、特に) 【名】specifics(詳細)"
+    "remark": "【副】specifically(具体的に、特に)　【名】specifics(詳細)"
   },
   {
     "id": 40,
@@ -322,10 +322,10 @@
   {
     "id": 41,
     "word": "historical",
-    "meaning": "【形】歴史（上）の",
+    "meaning": "【形】歴史(上)の",
     "example": "This is a _____ building.",
     "translation": "これは歴史的な建物です。",
-    "remark": "【副】historically(歴史的に) 【類】historic(歴史上重要な)"
+    "remark": "【副】historically(歴史的に)　【類】historic(歴史上重要な)"
   },
   {
     "id": 42,
@@ -357,7 +357,7 @@
     "meaning": "【副】単純に、単に",
     "example": "It's _____ not true.",
     "translation": "それは単に事実ではありません。",
-    "remark": "【関】simply out(簡単に言うと) 【同】onlu/just/merely/purely(単に)"
+    "remark": "【関】simply out(簡単に言うと)　【同】onlu/just/merely/purely(単に)"
   },
   {
     "id": 46,
@@ -389,7 +389,7 @@
     "meaning": "【名】能力",
     "example": "She has great _____ in languages.",
     "translation": "彼女は語学の能力に優れています。",
-    "remark": "【形】able(～できる) 【類】capabilly(能力)"
+    "remark": "【形】able(～できる)　【類】capabilly(能力)"
   },
   {
     "id": 50,
@@ -405,7 +405,7 @@
     "meaning": "【形】よく知っている、おなじみの",
     "example": "I'm _____ with this software.",
     "translation": "このソフトに慣れています。",
-    "remark": "【動】familiarize(慣れ親しませる) 【名】familiarity(よく知っていること) 【反】infamiliar(よく知らない)"
+    "remark": "【動】familiarize(慣れ親しませる)　【名】familiarity(よく知っていること)　【反】infamiliar(よく知らない)"
   },
   {
     "id": 52,
@@ -413,7 +413,7 @@
     "meaning": "【形】理想的な",
     "example": "This is the _____ place for a picnic.",
     "translation": "ここはピクニックに理想的な場所です。",
-    "remark": "【副】ideally(理想的に) 【類】impeccable(非の打ちどころのない)、perfect(完璧な)"
+    "remark": "【副】ideally(理想的に)　【類】impeccable(非の打ちどころのない)、perfect(完璧な)"
   },
   {
     "id": 53,
@@ -421,7 +421,7 @@
     "meaning": "【動】維持する、主張する",
     "example": "We must _____ high quality.",
     "translation": "高い品質を維持しなければなりません。",
-    "remark": "【関】maintain that SV(SがVだと主張する(=claim)) 【名】maintenance(維持管理)"
+    "remark": "【関】maintain that SV(SがVだと主張する(=claim))　【名】maintenance(維持管理)"
   },
   {
     "id": 54,
@@ -429,12 +429,12 @@
     "meaning": "【名】造園",
     "example": "The _____ around the building is beautiful.",
     "translation": "建物の周りの造園が美しいです。",
-    "remark": "【類】gardening(園芸)gardener(植木屋) 【関】landscape paintings(風景画)、greenhouse(温室)"
+    "remark": "【類】gardening(園芸)gardener(植木屋)　【関】landscape paintings(風景画)、greenhouse(温室)"
   },
   {
     "id": 55,
     "word": "organize",
-    "meaning": "【動】（イベントなどを）計画する、取りまとめる、組織化する",
+    "meaning": "【動】(イベントなどを)計画する、取りまとめる、組織化する",
     "example": "She _____d the event perfectly.",
     "translation": "彼女はそのイベントを完璧に取りまとめました。",
     "remark": "【関】organizer(主催者)"
@@ -445,12 +445,12 @@
     "meaning": "【形】かなりの、大幅な、重要な",
     "example": "The project had _____ results.",
     "translation": "そのプロジェクトは大きな成果を上げました。",
-    "remark": "【名】significance(重要性) 【類】considerable/substantial(かなりの)"
+    "remark": "【名】significance(重要性)　【類】considerable/substantial(かなりの)"
   },
   {
     "id": 57,
     "word": "occasion",
-    "meaning": "【名】特別な行事、（何かが起こる）時、好機",
+    "meaning": "【名】特別な行事、(何かが起こる)時、好機",
     "example": "The wedding was a special _____.",
     "translation": "結婚式は特別な行事でした。",
     "remark": ""
@@ -485,7 +485,7 @@
     "meaning": "【形】進んだ、上級の、高度な",
     "example": "She is taking an _____ course.",
     "translation": "彼女は上級コースを受講しています。",
-    "remark": "【関】advanced degree(上位学位：修士号、博士号といった、大卒の資格である学士以上の学位いのこと) 【名】advance(進歩、前進)"
+    "remark": "【関】advanced degree(上位学位：修士号、博士号といった、大卒の資格である学士以上の学位いのこと)　【名】advance(進歩、前進)"
   },
   {
     "id": 62,
@@ -493,7 +493,7 @@
     "meaning": "【形】代わりの　【名】代案",
     "example": "We need an _____ solution.",
     "translation": "別の解決策が必要です。",
-    "remark": "【副】alternatively(もしくは) 【同】alternate(代わりの) 【類】substitute(代用する、代用品、代行)"
+    "remark": "【副】alternatively(もしくは)　【同】alternate(代わりの)　【類】substitute(代用する、代用品、代行)"
   },
   {
     "id": 63,
@@ -501,7 +501,7 @@
     "meaning": "【形】確信している、自信がある",
     "example": "I'm _____ we can finish on time.",
     "translation": "時間通りに終わると確信しています。",
-    "remark": "【名】confidence(確信、自信) 【類】convinced(確信して)"
+    "remark": "【名】confidence(確信、自信)　【類】convinced(確信して)"
   },
   {
     "id": 64,
@@ -533,7 +533,7 @@
     "meaning": "【名】お祝い、祝典",
     "example": "We held a _____ for her birthday.",
     "translation": "彼女の誕生日を祝うお祝いを開きました。",
-    "remark": "【動】celebrate(祝う) 【形】celebrated(有名な) 【関】celebrity(有名人) 【類】desrivity/gala(祝祭)"
+    "remark": "【動】celebrate(祝う)　【形】celebrated(有名な)　【関】celebrity(有名人)　【類】desrivity/gala(祝祭)"
   },
   {
     "id": 68,
@@ -549,7 +549,7 @@
     "meaning": "【名】環境",
     "example": "We need to protect the _____.",
     "translation": "環境を守る必要があります。",
-    "remark": "【形】environmental(環境の) 【副】environmentally(環境に)"
+    "remark": "【形】environmental(環境の)　【副】environmentally(環境に)"
   },
   {
     "id": 70,
@@ -557,7 +557,7 @@
     "meaning": "【動】操作する、運営する",
     "example": "This machine is easy to _____.",
     "translation": "この機械は操作が簡単です。",
-    "remark": "【名】operation(運営、操作) 【関】operating costs(運営費)"
+    "remark": "【名】operation(運営、操作)　【関】operating costs(運営費)"
   },
   {
     "id": 71,
@@ -565,7 +565,7 @@
     "meaning": "【形】様々な",
     "example": "We offer _____ services.",
     "translation": "私たちは様々なサービスを提供しています。",
-    "remark": "【名】variety(種類、多様性) 【動】vary(異なる) 【関】variable(【形】変えられる 【名】変動要素) 【類】erratic(不規則な)"
+    "remark": "【名】variety(種類、多様性)　【動】vary(異なる)　【関】variable(【形】変えられる　【名】変動要素)　【類】erratic(不規則な)"
   },
   {
     "id": 72,
@@ -581,7 +581,7 @@
     "meaning": "【形】常勤の",
     "example": "He got a _____ job.",
     "translation": "彼は常勤の仕事に就きました。",
-    "remark": "【反】part-time(パートタイムの) 【関】a permanent job(正社員職)"
+    "remark": "【反】part-time(パートタイムの)　【関】a permanent job(正社員職)"
   },
   {
     "id": 74,
@@ -597,7 +597,7 @@
     "meaning": "【動】達成する",
     "example": "We aim to _____ our goals.",
     "translation": "私たちは目標を達成することを目指しています。",
-    "remark": "【名】achevement(業績、達成) 【類】attain/meet a target(目標を達成する)"
+    "remark": "【名】achevement(業績、達成)　【類】attain/meet a target(目標を達成する)"
   },
   {
     "id": 76,
@@ -621,7 +621,7 @@
     "meaning": "【形】とても喜んでいる",
     "example": "I'm _____ to meet you.",
     "translation": "お会いできてとても嬉しいです。",
-    "remark": "【類】pleased(喜んで) 【関】delightful(人をとても喜ばせるような)"
+    "remark": "【類】pleased(喜んで)　【関】delightful(人をとても喜ばせるような)"
   },
   {
     "id": 79,
@@ -634,7 +634,7 @@
   {
     "id": 80,
     "word": "honor",
-    "meaning": "【動】称える、（契約等を）守る　【名】名誉",
+    "meaning": "【動】称える、(契約等を)守る　【名】名誉",
     "example": "We should _____ our promises.",
     "translation": "私たちは約束を守るべきです。",
     "remark": "【類】accolade(栄誉)"
@@ -645,7 +645,7 @@
     "meaning": "【副】ちゃんと、適切に",
     "example": "Please install the software _____.",
     "translation": "ソフトを正しくインストールしてください。",
-    "remark": "【形】proper(適切な) 【反】inproperly(不適切に)"
+    "remark": "【形】proper(適切な)　【反】inproperly(不適切に)"
   },
   {
     "id": 82,
@@ -653,7 +653,7 @@
     "meaning": "【形】相応しい、適切な",
     "example": "This dress is _____ for the event.",
     "translation": "このドレスはそのイベントに適しています。",
-    "remark": "【副】suitably(適切に) 【名】suitrability(適正、ふさわしいこと)"
+    "remark": "【副】suitably(適切に)　【名】suitrability(適正、ふさわしいこと)"
   },
   {
     "id": 83,
@@ -669,7 +669,7 @@
     "meaning": "【動】取りまとめる、仕上げる、最終決定する",
     "example": "We need to _____ the report today.",
     "translation": "今日中にレポートを仕上げる必要があります。",
-    "remark": "【形】final(最終的な、最終の) 【副】finally(ついに、最終的に)"
+    "remark": "【形】final(最終的な、最終の)　【副】finally(ついに、最終的に)"
   },
   {
     "id": 85,
@@ -677,7 +677,7 @@
     "meaning": "【形】寛大な、気前の良い",
     "example": "He is _____ with his time.",
     "translation": "彼は時間を惜しまずに使ってくれます。",
-    "remark": "【副】generously(寛大に、気前よく) 【名】generousity(寛大さ、気前の良さ)"
+    "remark": "【副】generously(寛大に、気前よく)　【名】generousity(寛大さ、気前の良さ)"
   },
   {
     "id": 86,
@@ -693,7 +693,7 @@
     "meaning": "【名】任務、職務、関税",
     "example": "It's your _____ to report the issue.",
     "translation": "その問題を報告するのはあなたの任務です。",
-    "remark": "【関】on duty(勤務中) 【類】responsibility(職務)"
+    "remark": "【関】on duty(勤務中)　【類】responsibility(職務)"
   },
   {
     "id": 88,
@@ -741,7 +741,7 @@
     "meaning": "【副】特に",
     "example": "I _____ liked the dessert.",
     "translation": "特にデザートが気に入りました。",
-    "remark": "【形】particular(特定の) 【類】especially(特に) 【関】in particular(特に)"
+    "remark": "【形】particular(特定の)　【類】especially(特に)　【関】in particular(特に)"
   },
   {
     "id": 94,
@@ -749,7 +749,7 @@
     "meaning": "【名】面、局面",
     "example": "We discussed every _____ of the issue.",
     "translation": "その問題のすべての側面を話し合いました。",
-    "remark": "【同】facet(面) 【類】phase(段階)、factor(要素)"
+    "remark": "【同】facet(面)　【類】phase(段階)、factor(要素)"
   },
   {
     "id": 95,

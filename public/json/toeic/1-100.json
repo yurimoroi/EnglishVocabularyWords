@@ -13,7 +13,7 @@
     "meaning": "【前】～に続いて 【形】次の、以下の",
     "example": "_____ the meeting, we had lunch together.",
     "translation": "会議に続いて、私たちは一緒に昼食をとりました。",
-    "remark": "【動】follow(従う) 【関】be followed by X(Xが後に続く)"
+    "remark": "【動】follow(従う)　【関】be followed by X(Xが後に続く)"
   },
   {
     "id": 3,
@@ -29,7 +29,7 @@
     "meaning": "【形】入手できる、利用できる、購入できる、手が空いている",
     "example": "The manager is not _____ at the moment.",
     "translation": "マネージャーは今、手が空いていません。",
-    "remark": "【名】availability(利用できること)【反】customer-referral program(顧客紹介プログラム)"
+    "remark": "【名】availability(利用できること)　【反】customer-referral program(顧客紹介プログラム)"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "meaning": "【名】部門、売り場",
     "example": "She works in the marketing _____.",
     "translation": "彼女はマーケティング部門で働いています。",
-    "remark": "【形】departmental(部門の)【関】a department store(デパート)"
+    "remark": "【形】departmental(部門の)　【関】a department store(デパート)"
   },
   {
     "id": 6,
@@ -93,7 +93,7 @@
     "meaning": "【形】地元の 【名】地元の人",
     "example": "We support _____ businesses.",
     "translation": "私たちは地元のビジネスを支援しています。",
-    "remark": "【副】locally(地元で)【関】a local train(各駅停車の電車)"
+    "remark": "【副】locally(地元で)　【関】a local train(各駅停車の電車)"
   },
   {
     "id": 13,
@@ -109,7 +109,7 @@
     "meaning": "【名】空き、開店",
     "example": "There is a job _____ in our department.",
     "translation": "私たちの部署に空きがあります。",
-    "remark": "【類】vacancy(空き)【関】an open position(空きポジション)"
+    "remark": "【類】vacancy(空き)　【関】an open position(空きポジション)"
   },
   {
     "id": 15,
@@ -117,7 +117,7 @@
     "meaning": "【名】建設",
     "example": "The _____ will be completed soon.",
     "translation": "建設工事はまもなく完了します。",
-    "remark": "【動】construct(建設する)【関】under construction(建設中、工事中)"
+    "remark": "【動】construct(建設する)　【関】under construction(建設中、工事中)"
   },
   {
     "id": 16,
@@ -141,7 +141,7 @@
     "meaning": "【動】出席する、参加する",
     "example": "I will _____ the meeting tomorrow.",
     "translation": "明日の会議に出席します。",
-    "remark": "【名】attendance(出席)【関】attendee(出席者)"
+    "remark": "【名】attendance(出席)　【関】attendee(出席者)"
   },
   {
     "id": 19,
@@ -173,7 +173,7 @@
     "meaning": "【名】社員、従業員",
     "example": "The company has 200 _____s.",
     "translation": "その会社には200人の従業員がいます。",
-    "remark": "【動】employ(雇う)【関】employer(雇用主)、employment(雇用)【関】in the employ of(~に雇われている)"
+    "remark": "【動】employ(雇う)　【関】employer(雇用主)、employment(雇用)【関】in the employ of(～に雇われている)"
   },
   {
     "id": 23,
@@ -181,7 +181,7 @@
     "meaning": "【形】追加の",
     "example": "_____ information is available online.",
     "translation": "追加情報はオンラインで入手できます。",
-    "remark": "【動】add(加える)【副】additionally(加えて)【名】addition(追加、新戦力)【関】in addition to X(Xに加えて)、in addition(加えて)"
+    "remark": "【動】add(加える)　【副】additionally(加えて)　【名】addition(追加、新戦力)　【関】in addition to X(Xに加えて)、in addition(加えて)"
   },
   {
     "id": 24,
@@ -221,7 +221,7 @@
     "meaning": "【名】詳細 【動】詳しく調べる",
     "example": "Please check the _____s on the website.",
     "translation": "詳細はウェブサイトでご確認ください。",
-    "remark": "【形】detailed(詳細な)【関】in detail(詳しく)"
+    "remark": "【形】detailed(詳細な)　【関】in detail(詳しく)"
   },
   {
     "id": 29,
@@ -245,7 +245,7 @@
     "meaning": "【名】増加 【動】増える、増やす",
     "example": "We saw a sharp _____ in demand.",
     "translation": "需要が大きく増加しました。",
-    "remark": "【形】increasing(増大する)【副】increasingly(ますます)【反】decrease(現象、減る、減らす)【類】surge(急増)"
+    "remark": "【形】increasing(増大する)　【副】increasingly(ますます)　【反】decrease(現象、減る、減らす)　【類】surge(急増)"
   },
   {
     "id": 32,
@@ -253,7 +253,7 @@
     "meaning": "【動】含む",
     "example": "The price _____s tax.",
     "translation": "価格には税金が含まれています。",
-    "remark": "【反】exclude(~を除く)【関】excluding(~を除いて)"
+    "remark": "【反】exclude(～を除く)【関】excluding(～を除いて)"
   },
   {
     "id": 33,
@@ -269,7 +269,7 @@
     "meaning": "【名】広告(業)、宣伝(活動)",
     "example": "He works in _____.",
     "translation": "彼は広告業に従事しています。",
-    "remark": "【動】advertise(宣伝する)【類】advertisement(広告、宣伝)【関】advertising agency(広告代理店)"
+    "remark": "【動】advertise(宣伝する)　【類】advertisement(広告、宣伝)　【関】advertising agency(広告代理店)"
   },
   {
     "id": 35,
@@ -285,7 +285,7 @@
     "meaning": "【動】予期する、予定する",
     "example": "We _____ to finish by Friday.",
     "translation": "金曜日までに終える予定です。",
-    "remark": "【名】expectation(期待)【類】be slated to do~(〜する予定だ)"
+    "remark": "【名】expectation(期待)　【類】be slated to do(〜する予定だ)"
   },
   {
     "id": 37,
@@ -309,7 +309,7 @@
     "meaning": "【形】お金の、財務の、金融の",
     "example": "The company is in good _____ condition.",
     "translation": "その会社は財務的に健全です。",
-    "remark": "【名】finance(財務)【副】financially(金銭的に)【類】monetary(お金の)"
+    "remark": "【名】finance(財務)　【副】financially(金銭的に)　【類】monetary(お金の)"
   },
   {
     "id": 40,
@@ -317,7 +317,7 @@
     "meaning": "【形】年に1度の、毎年恒例の、年間の",
     "example": "We hold an _____ meeting every April.",
     "translation": "毎年4月に年次会議を開きます。",
-    "remark": "【類】annually(年に一度)【関】semi-annual(年に二度の)"
+    "remark": "【類】annually(年に一度)　【関】semi-annual(年に二度の)"
   },
   {
     "id": 41,
@@ -349,7 +349,7 @@
     "meaning": "【名】契約(書)",
     "example": "He signed a new _____.",
     "translation": "彼は新しい契約書に署名しました。",
-    "remark": "【形】contractual(契約の、契約上の)【副】contractually(契約上で)【関】contractor(契約業者)【類】deal(取引、契約)"
+    "remark": "【形】contractual(契約の、契約上の)　【副】contractually(契約上で)　【関】contractor(契約業者)　【類】deal(取引、契約)"
   },
   {
     "id": 45,
@@ -373,7 +373,7 @@
     "meaning": "【形】喜んで、満足して",
     "example": "I’m _____ to hear the good news.",
     "translation": "その良い知らせを聞いて嬉しいです。",
-    "remark": "【関】pleasant(楽しい、心地よい)【名】pleasure(喜び)"
+    "remark": "【関】pleasant(楽しい、心地よい)　【名】pleasure(喜び)"
   },
   {
     "id": 48,
@@ -429,7 +429,7 @@
     "meaning": "【名】展示物、展示会 【動】展示する",
     "example": "They will _____ their products at the trade show.",
     "translation": "彼らは見本市で製品を展示します。",
-    "remark": "【同】exhibition(展示物、展示会、展示)【関】exhibitor(出展者)"
+    "remark": "【同】exhibition(展示物、展示会、展示)　【関】exhibitor(出展者)"
   },
   {
     "id": 55,
@@ -461,7 +461,7 @@
     "meaning": "【名】説明書、説明、指示",
     "example": "Read the _____s carefully before use.",
     "translation": "使用前に説明書をよく読んでください。",
-    "remark": "【動】instruct(指示する)【関】instructor(講師)【類】tutorial(個別指導)"
+    "remark": "【動】instruct(指示する)　【関】instructor(講師)　【類】tutorial(個別指導)"
   },
   {
     "id": 59,
@@ -517,7 +517,7 @@
     "meaning": "【形】成功した、うまく行く",
     "example": "It was a _____ event.",
     "translation": "サービスは素晴らしかったです。",
-    "remark": "【動】succeed(成功する)【名】success(成功)【副】successfully(うまく)"
+    "remark": "【動】succeed(成功する)　【名】success(成功)　【副】successfully(うまく)"
   },
   {
     "id": 66,
@@ -525,7 +525,7 @@
     "meaning": "【形】素晴らしい",
     "example": "The service was _____.",
     "translation": "彼は自動車業界で働いています。",
-    "remark": "【名】excellence(優秀さ)【類】fine(優れた)"
+    "remark": "【名】excellence(優秀さ)　【類】fine(優れた)"
   },
   {
     "id": 67,
@@ -549,7 +549,7 @@
     "meaning": "【動】受け入れる",
     "example": "We cannot _____ late applications.",
     "translation": "遅れた申請は受け付けられません。",
-    "remark": "【形】acceptable(受け入れ可能な)【名】acceptance(受け入れること、合格)"
+    "remark": "【形】acceptable(受け入れ可能な)　【名】acceptance(受け入れること、合格)"
   },
   {
     "id": 70,
@@ -573,7 +573,7 @@
     "meaning": "【動】提出する",
     "example": "Please _____ your report by Friday.",
     "translation": "金曜日までに報告書を提出してください。",
-    "remark": "【名】submission(提出、提出物)【類】file/turn in/hand in(提出する)"
+    "remark": "【名】submission(提出、提出物)　【類】file/turn in/hand in(提出する)"
   },
   {
     "id": 73,
@@ -653,7 +653,7 @@
     "meaning": "【動】登録する 【名】レジ",
     "example": "You can _____ online.",
     "translation": "オンラインで登録できます。",
-    "remark": "【名】registration(登録)【類】sign up for(~に登録する)"
+    "remark": "【名】registration(登録)　【類】sign up for(～に登録する)"
   },
   {
     "id": 83,

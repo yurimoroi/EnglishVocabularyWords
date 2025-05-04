@@ -43,9 +43,12 @@ export default function QuestionPage() {
     "TOEIC 401-500",
     "TOEIC 501-600",
     "TOEIC 601-700",
-    "TOEIC 701-800",
-    "TOEIC 801-900",
-    "TOEIC 901-1000",
+    // "TOEIC 701-800",
+    // "TOEIC 801-900",
+    // "TOEIC 901-1000",
+    "TOEIC supplement1",
+    "TOEIC supplement2",
+    "TOEIC supplement3",
   ];
 
   const toeicThemeSets = [
@@ -159,12 +162,12 @@ export default function QuestionPage() {
               {set}
             </button>
           ))}
-        {selectedType === "IELTS" &&
+        {/* {selectedType === "IELTS" &&
           ieltsSets.map((set, index) => (
             <button key={index} className={buttonStyle} onClick={() => handleQuestionSetClick(set)}>
               {set}
             </button>
-          ))}
+          ))} */}
         {selectedType === "TOEIC_THEME" &&
           toeicThemeSets.map((set, index) => (
             <button key={index} className={buttonStyle} onClick={() => handleQuestionSetClick(set)}>

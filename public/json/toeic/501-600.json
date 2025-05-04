@@ -42,7 +42,7 @@
   {
     "id": 6,
     "word": "highlight",
-    "meaning": "【動】強調する、スポットを当てる 【名】見どころ",
+    "meaning": "【動】強調する、スポットを当てる　【名】見どころ",
     "example": "The guide _____ed the most important exhibits.",
     "translation": "ガイドは最も重要な展示品にスポットを当てました。",
     "remark": ""
@@ -50,7 +50,7 @@
   {
     "id": 7,
     "word": "profile",
-    "meaning": "【動】人物紹介する 【名】プロフィール",
+    "meaning": "【動】人物紹介する　【名】プロフィール",
     "example": "The magazine _____d a famous entrepreneur.",
     "translation": "雑誌は有名な起業家を紹介しました。",
     "remark": ""
@@ -82,7 +82,7 @@
   {
     "id": 11,
     "word": "luxury",
-    "meaning": "【形】高級な 【名】高級、贅沢",
+    "meaning": "【形】高級な　【名】高級、贅沢",
     "example": "They stayed in a _____ hotel.",
     "translation": "彼らは高級ホテルに泊まりました。",
     "remark": ""
@@ -122,7 +122,7 @@
   {
     "id": 16,
     "word": "alert",
-    "meaning": "【動】(重大なことを)知らせる 【形】警戒した 【名】警報",
+    "meaning": "【動】(重大なことを)知らせる　【形】警戒した　【名】警報",
     "example": "He _____ed the staff to the emergency.",
     "translation": "彼は緊急事態をスタッフに知らせました。",
     "remark": ""
@@ -170,7 +170,7 @@
   {
     "id": 22,
     "word": "overtime",
-    "meaning": "【名】残業 【副】時間外に",
+    "meaning": "【名】残業　【副】時間外に",
     "example": "He worked _____ to finish the task.",
     "translation": "彼はその作業を終えるために残業しました。",
     "remark": ""
@@ -210,7 +210,7 @@
   {
     "id": 27,
     "word": "outline",
-    "meaning": "【動】概要を説明する 【名】概要",
+    "meaning": "【動】概要を説明する　【名】概要",
     "example": "Please _____ your presentation.",
     "translation": "あなたのプレゼンの概要を説明してください。",
     "remark": ""
@@ -322,7 +322,7 @@
   {
     "id": 41,
     "word": "characteristic",
-    "meaning": "【名】特徴 【形】特徴的な",
+    "meaning": "【名】特徴　【形】特徴的な",
     "example": "Honesty is his best _____.",
     "translation": "正直さは彼の一番の特徴です。",
     "remark": ""
@@ -346,7 +346,7 @@
   {
     "id": 44,
     "word": "associate",
-    "meaning": "【動】関連付ける 【名】同僚、アシスタント 【形】アシスタントの",
+    "meaning": "【動】関連付ける　【名】同僚、アシスタント　【形】アシスタントの",
     "example": "I often _____ summer with the beach.",
     "translation": "夏といえば海を連想します。",
     "remark": ""
@@ -434,7 +434,7 @@
   {
     "id": 55,
     "word": "recruit",
-    "meaning": "【動】採用する、募集する 【名】新人",
+    "meaning": "【動】採用する、募集する　【名】新人",
     "example": "The company is _____ing new graduates.",
     "translation": "その会社は新卒者を採用しています。",
     "remark": ""
@@ -442,7 +442,7 @@
   {
     "id": 56,
     "word": "substitute",
-    "meaning": "【動】～を代わりに用いる 【名】代わりを務める人、代用品",
+    "meaning": "【動】～を代わりに用いる　【名】代わりを務める人、代用品",
     "example": "You can _____ honey for sugar.",
     "translation": "砂糖の代わりにハチミツを使えます。",
     "remark": ""
@@ -506,7 +506,7 @@
   {
     "id": 64,
     "word": "aim",
-    "meaning": "【動】目指す、狙う 【名】目標、狙い",
+    "meaning": "【動】目指す、狙う　【名】目標、狙い",
     "example": "We _____ to improve customer satisfaction.",
     "translation": "顧客満足度の向上を目指しています。",
     "remark": ""
@@ -538,7 +538,7 @@
   {
     "id": 68,
     "word": "attempt",
-    "meaning": "【名】試み 【動】試みる",
+    "meaning": "【名】試み　【動】試みる",
     "example": "They made an _____ to fix the issue.",
     "translation": "彼らはその問題を解決しようと試みました。",
     "remark": ""
@@ -594,7 +594,7 @@
   {
     "id": 75,
     "word": "reward",
-    "meaning": "【動】報いる、褒美を与える 【名】報酬、褒美",
+    "meaning": "【動】報いる、褒美を与える　【名】報酬、褒美",
     "example": "She _____ed the team with a bonus.",
     "translation": "彼女はチームにボーナスで報いました。",
     "remark": ""
@@ -618,7 +618,7 @@
   {
     "id": 78,
     "word": "contrary",
-    "meaning": "【形】正反対の 【名】正反対",
+    "meaning": "【形】正反対の　【名】正反対",
     "example": "_____ to expectations, the plan worked.",
     "translation": "予想に反して、その計画はうまくいきました。",
     "remark": ""
@@ -666,7 +666,7 @@
   {
     "id": 84,
     "word": "remark",
-    "meaning": "【名】(スピーチでの)言葉、コメント、意見 【動】コメントする",
+    "meaning": "【名】(スピーチでの)言葉、コメント、意見　【動】コメントする",
     "example": "He made a _____ about the new policy.",
     "translation": "彼は新しい方針についてコメントしました。",
     "remark": ""
@@ -778,7 +778,7 @@
   {
     "id": 98,
     "word": "lack",
-    "meaning": "【名】不足 【動】～が不足している",
+    "meaning": "【名】不足　【動】～が不足している",
     "example": "The project failed due to a _____ of funds.",
     "translation": "資金不足によりプロジェクトは失敗しました。",
     "remark": ""

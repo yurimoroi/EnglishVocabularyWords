@@ -90,7 +90,7 @@
   {
     "id": 12,
     "word": "track",
-    "meaning": "【動】追跡する 【名】線路、走路",
+    "meaning": "【動】追跡する　【名】線路、走路",
     "example": "We can _____ your order online.",
     "translation": "注文はオンラインで追跡できます。",
     "remark": ""
@@ -338,7 +338,7 @@
   {
     "id": 43,
     "word": "lease",
-    "meaning": "【名】賃貸借(契約) 【動】賃貸借する",
+    "meaning": "【名】賃貸借(契約)　【動】賃貸借する",
     "example": "They signed a one-year _____.",
     "translation": "彼らは1年間の賃貸契約に署名しました。",
     "remark": ""
@@ -354,7 +354,7 @@
   {
     "id": 45,
     "word": "quarterly",
-    "meaning": "【形】年に4回の、四半期ごとの 【副】年に4回",
+    "meaning": "【形】年に4回の、四半期ごとの　【副】年に4回",
     "example": "We have a _____ meeting.",
     "translation": "私たちは四半期ごとに会議を開きます。",
     "remark": ""
@@ -378,7 +378,7 @@
   {
     "id": 48,
     "word": "grocery",
-    "meaning": "【形】食料雑貨の 【名】食品雑貨",
+    "meaning": "【形】食料雑貨の　【名】食品雑貨",
     "example": "I bought some _____es for dinner.",
     "translation": "夕食のために食料品を買いました。",
     "remark": ""
@@ -634,7 +634,7 @@
   {
     "id": 80,
     "word": "household",
-    "meaning": "【形】家庭用の 【名】家庭",
+    "meaning": "【形】家庭用の　【名】家庭",
     "example": "This product is for _____ use.",
     "translation": "この製品は家庭用です。",
     "remark": ""
