@@ -3,231 +3,231 @@
     "id": 1,
     "word": "due to",
     "meaning": "【前】～が理由で",
-    "example": "",
-    "translation": "",
+    "example": "The flight was delayed due to bad weather.",
+    "translation": "悪天候が理由で飛行機が遅れました。",
     "remark": ""
   },
   {
     "id": 2,
     "word": "owing to",
     "meaning": "【前】～が理由で",
-    "example": "",
-    "translation": "",
+    "example": "Owing to heavy traffic, he was late.",
+    "translation": "渋滞が理由で彼は遅刻しました。",
     "remark": ""
   },
   {
     "id": 3,
     "word": "despite",
     "meaning": "【前】～にも関わらず",
-    "example": "",
-    "translation": "",
+    "example": "Despite the rain, the event was held.",
+    "translation": "雨にも関わらずイベントは開催されました。",
     "remark": ""
   },
   {
     "id": 4,
     "word": "in spite of",
     "meaning": "【前】～にも関わらず",
-    "example": "",
-    "translation": "",
+    "example": "In spite of his age, he is very active.",
+    "translation": "年齢にも関わらず、彼はとても活動的です。",
     "remark": ""
   },
   {
     "id": 5,
     "word": "notwithstanding",
     "meaning": "【前】～にも関わらず",
-    "example": "",
-    "translation": "",
+    "example": "Notwithstanding the challenges, they succeeded.",
+    "translation": "困難にも関わらず、彼らは成功しました。",
     "remark": ""
   },
   {
     "id": 6,
     "word": "given",
     "meaning": "【前】～を考慮に入れると",
-    "example": "",
-    "translation": "",
+    "example": "Given his experience, he should be the leader.",
+    "translation": "彼の経験を考慮すると、彼がリーダーにふさわしいです。",
     "remark": ""
   },
   {
     "id": 7,
     "word": "in light of",
     "meaning": "【前】～を考慮に入れると",
-    "example": "",
-    "translation": "",
+    "example": "In light of recent events, we must act.",
+    "translation": "最近の出来事を考慮に入れて、我々は行動すべきです。",
     "remark": ""
   },
   {
     "id": 8,
     "word": "in the event of",
     "meaning": "【前】～の場合",
-    "example": "",
-    "translation": "",
+    "example": "In the event of fire, use the stairs.",
+    "translation": "火事の場合は階段を使ってください。",
     "remark": ""
   },
   {
     "id": 9,
     "word": "in addition to",
     "meaning": "【前】～に加えて",
-    "example": "",
-    "translation": "",
+    "example": "In addition to English, she speaks French.",
+    "translation": "英語に加えて、彼女はフランス語も話します。",
     "remark": ""
   },
   {
     "id": 10,
     "word": "except for",
     "meaning": "【前】～を除いて",
-    "example": "",
-    "translation": "",
+    "example": "Except for John, everyone was present.",
+    "translation": "ジョンを除いて全員が出席していました。",
     "remark": ""
   },
   {
     "id": 11,
     "word": "regardless of",
     "meaning": "【前】～とは無関係に",
-    "example": "",
-    "translation": "",
+    "example": "The law applies regardless of age.",
+    "translation": "その法律は年齢に関係なく適用されます。",
     "remark": ""
   },
   {
     "id": 12,
     "word": "instead of",
     "meaning": "【前】～の代わりに",
-    "example": "",
-    "translation": "",
+    "example": "She chose tea instead of coffee.",
+    "translation": "彼女はコーヒーの代わりに紅茶を選びました。",
     "remark": ""
   },
   {
     "id": 13,
     "word": "whereas",
     "meaning": "【接】一方で",
-    "example": "",
-    "translation": "",
+    "example": "He likes coffee, whereas I prefer tea.",
+    "translation": "彼はコーヒーが好きだが、一方で私は紅茶が好きです。",
     "remark": ""
   },
   {
     "id": 14,
-    "word": "wherther",
+    "word": "whether",
     "meaning": "【接】～であろうと、～かどうか",
-    "example": "",
-    "translation": "",
+    "example": "She asked whether it was true.",
+    "translation": "彼女はそれが本当かどうか尋ねました。",
     "remark": ""
   },
   {
     "id": 15,
     "word": "as soon as",
     "meaning": "【接】～するとすぐに",
-    "example": "",
-    "translation": "",
+    "example": "Call me as soon as you arrive.",
+    "translation": "到着したらすぐに電話してください。",
     "remark": ""
   },
   {
     "id": 16,
     "word": "once",
     "meaning": "【接】いったん～したら",
-    "example": "",
-    "translation": "",
+    "example": "Once he finishes, we can leave.",
+    "translation": "彼が終わり次第、出発できます。",
     "remark": ""
   },
   {
     "id": 17,
     "word": "unless",
     "meaning": "【接】～しない限り",
-    "example": "",
-    "translation": "",
+    "example": "You can’t enter unless you have a ticket.",
+    "translation": "チケットがない限り入場できません。",
     "remark": ""
   },
   {
     "id": 18,
     "word": "now that",
     "meaning": "【接】今はもう～なので",
-    "example": "",
-    "translation": "",
+    "example": "Now that you’re here, we can start.",
+    "translation": "あなたが来たので、始められます。",
     "remark": ""
   },
   {
     "id": 19,
     "word": "so that",
     "meaning": "【接】～するように",
-    "example": "",
-    "translation": "",
+    "example": "I explained it clearly so that everyone understood.",
+    "translation": "全員が理解できるように、はっきり説明しました。",
     "remark": ""
   },
   {
     "id": 20,
     "word": "in order that",
     "meaning": "【接】～するように",
-    "example": "",
-    "translation": "",
+    "example": "He works hard in order that his family can live well.",
+    "translation": "家族がよく暮らせるように彼は懸命に働いています。",
     "remark": ""
   },
   {
     "id": 21,
     "word": "although",
     "meaning": "【接】～にも関わらず",
-    "example": "",
-    "translation": "",
+    "example": "Although it was cold, we went outside.",
+    "translation": "寒かったにも関わらず、私たちは外に出ました。",
     "remark": ""
   },
   {
     "id": 22,
     "word": "though",
     "meaning": "【接】～にも関わらず",
-    "example": "",
-    "translation": "",
+    "example": "Though tired, he kept working.",
+    "translation": "疲れていたにも関わらず、彼は働き続けました。",
     "remark": ""
   },
   {
     "id": 23,
     "word": "even though",
     "meaning": "【接】～にも関わらず",
-    "example": "",
-    "translation": "",
+    "example": "Even though she apologized, he was still upset.",
+    "translation": "彼女が謝ったにも関わらず、彼はまだ怒っていました。",
     "remark": ""
   },
   {
     "id": 24,
     "word": "even if",
     "meaning": "【接】たとえ～でも",
-    "example": "",
-    "translation": "",
+    "example": "Even if it rains, we will go hiking.",
+    "translation": "たとえ雨が降っても、私たちはハイキングに行きます。",
     "remark": ""
   },
   {
     "id": 25,
     "word": "provided that",
     "meaning": "【接】～するという条件でのみ",
-    "example": "",
-    "translation": "",
+    "example": "You can go out provided that you finish your homework.",
+    "translation": "宿題を終えれば外出していいよ。",
     "remark": ""
   },
   {
     "id": 26,
     "word": "as long as",
     "meaning": "【接】～する限り",
-    "example": "",
-    "translation": "",
+    "example": "You can stay as long as you like.",
+    "translation": "好きなだけ滞在して構いません。",
     "remark": ""
   },
   {
     "id": 27,
-    "word": "in cace",
+    "word": "in case",
     "meaning": "【接】～するといけないので",
-    "example": "",
-    "translation": "",
+    "example": "Take an umbrella in case it rains.",
+    "translation": "雨が降るといけないので傘を持って行きなさい。",
     "remark": ""
   },
   {
     "id": 28,
     "word": "given that",
     "meaning": "【接】～を考慮すると",
-    "example": "",
-    "translation": "",
+    "example": "Given that he's new, he did well.",
+    "translation": "彼が新人であることを考えると、よくやった。",
     "remark": ""
   },
   {
     "id": 29,
     "word": "in the event that",
     "meaning": "【接】～した場合",
-    "example": "",
+    "example": "In the event that I’m late, start without me.",
     "translation": "",
     "remark": ""
   },
@@ -235,88 +235,88 @@
     "id": 30,
     "word": "insofar as",
     "meaning": "【接】～する限りにおいて",
-    "example": "",
-    "translation": "",
+    "example": "He’s helpful insofar as he can.",
+    "translation": "彼はできる限り協力的です。",
     "remark": ""
   },
   {
     "id": 31,
     "word": "inasmuch as",
     "meaning": "【接】～する限りにおいて、～するので",
-    "example": "",
-    "translation": "",
+    "example": "Inasmuch as I agree, I still have doubts.",
+    "translation": "同意はするけれど、それでも疑問は残ります。",
     "remark": ""
   },
   {
     "id": 32,
     "word": "therefore",
     "meaning": "【接副】したがって",
-    "example": "",
-    "translation": "",
+    "example": "She studied hard; therefore, she passed.",
+    "translation": "彼女は一生懸命勉強した。したがって、合格しました。",
     "remark": ""
   },
   {
     "id": 33,
     "word": "however",
     "meaning": "【接副】しかしながら",
-    "example": "",
-    "translation": "",
+    "example": "I wanted to go; however, I was too tired.",
+    "translation": "行きたかったが、しかし疲れすぎていました。",
     "remark": ""
   },
   {
     "id": 34,
     "word": "nevertheless",
     "meaning": "【接副】それにも関わらず",
-    "example": "",
-    "translation": "",
+    "example": "It was raining; nevertheless, we went out.",
+    "translation": "雨が降っていたが、それにも関わらず外出しました。",
     "remark": ""
   },
   {
     "id": 35,
     "word": "moreover",
     "meaning": "【接副】その上",
-    "example": "",
-    "translation": "",
+    "example": "The room was large; moreover, it was cheap.",
+    "translation": "その部屋は広く、その上安かった。",
     "remark": ""
   },
   {
     "id": 36,
     "word": "furthermore",
     "meaning": "【接副】さらに",
-    "example": "",
-    "translation": "",
+    "example": "Furthermore, the service was excellent.",
+    "translation": "さらにサービスも素晴らしかったです。",
     "remark": ""
   },
   {
     "id": 37,
     "word": "consequently",
     "meaning": "【接副】結果として",
-    "example": "",
-    "translation": "",
+    "example": "He missed the train; consequently, he was late.",
+    "translation": "彼は電車を逃し、その結果遅刻しました。",
     "remark": ""
   },
   {
     "id": 38,
     "word": "thereby",
     "meaning": "【接副】そうすることで",
-    "example": "",
-    "translation": "",
+    "example": "He improved his English, thereby increasing his job chances.",
+    "translation": "彼は英語力を向上させ、それによって就職の可能性が高まりました。",
     "remark": ""
   },
   {
     "id": 39,
     "word": "thus",
     "meaning": "【接副】このようにして",
-    "example": "",
-    "translation": "",
+    "example": "He forgot the keys, thus causing a delay.",
+    "translation": "彼は鍵を忘れたため、それで遅れが生じました。",
     "remark": ""
   },
   {
     "id": 40,
     "word": "meanwhile",
     "meaning": "【接副】その間",
-    "example": "",
-    "translation": "",
+    "example": "She was cooking; meanwhile, he set the table.",
+    "translation": "彼女が料理している間、彼はテーブルを準備していました。",
     "remark": ""
   },
   { "id": 41, "word": "", "meaning": "", "example": "", "translation": "", "remark": "" },

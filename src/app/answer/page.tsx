@@ -314,7 +314,7 @@ export default function AnswerPage() {
           {mode === "japaneseToEnglish" ? (
             <>
               <h2 className="text-xs font-bold text-gray-700 mb-1">意味</h2>
-              <p className="text-xs text-violet-600">
+              <p className="text-sm text-violet-600">
                 {currentQuestion.meaning.split("　").map((word, index) => (
                   <span key={index}>
                     {word}
@@ -326,14 +326,14 @@ export default function AnswerPage() {
               {currentQuestion.example && (
                 <>
                   <h2 className="text-xs font-bold text-gray-700 mt-3 mb-1">例文</h2>
-                  <p className="text-xs text-gray-600">{currentQuestion.example}</p>
+                  <p className="text-sm text-gray-600">{currentQuestion.example}</p>
                 </>
               )}
 
               {currentQuestion.translation && (
                 <>
                   <h2 className="text-xs font-bold text-gray-700 mt-3 mb-1">日本語訳</h2>
-                  <p className="text-xs text-gray-600">{currentQuestion.translation}</p>
+                  <p className="text-sm text-gray-600">{currentQuestion.translation}</p>
                 </>
               )}
             </>
@@ -359,12 +359,12 @@ export default function AnswerPage() {
                   </svg>
                 </button>
               </div>
-              <p className="text-xs text-violet-600">{currentQuestion.word}</p>
+              <p className="text-sm text-violet-600">{currentQuestion.word}</p>
 
               {currentQuestion.example && (
                 <>
                   <h2 className="text-xs font-bold text-gray-700 mt-3 mb-1">Example</h2>
-                  <p className="text-xs text-gray-600">{currentQuestion.example}</p>
+                  <p className="text-sm text-gray-600">{currentQuestion.example}</p>
                 </>
               )}
             </>
@@ -394,12 +394,12 @@ export default function AnswerPage() {
                       </svg>
                     </button>
                   </div>
-                  <p className="text-xs text-gray-600">{currentQuestion.word}</p>
+                  <p className="text-sm text-gray-600">{currentQuestion.word}</p>
                 </>
               ) : (
                 <>
                   <h3 className="font-bold text-gray-700 mb-1 text-xs">Meaning:</h3>
-                  <p className="text-xs text-gray-600">
+                  <p className="text-sm text-gray-600">
                     {currentQuestion.meaning.split("　").map((word, index) => (
                       <span key={index}>
                         {word}
@@ -413,7 +413,7 @@ export default function AnswerPage() {
                       <h3 className="font-bold text-gray-700 mt-3 mb-1 text-xs">
                         Example Meaning:
                       </h3>
-                      <p className="text-xs text-gray-600">{currentQuestion.translation}</p>
+                      <p className="text-sm text-gray-600">{currentQuestion.translation}</p>
                     </>
                   )}
                 </>
@@ -423,7 +423,7 @@ export default function AnswerPage() {
                   <h3 className="font-bold text-gray-700 mt-3 mb-1 text-xs">
                     {mode === "japaneseToEnglish" ? "備考:" : "Remark:"}
                   </h3>
-                  <p className="text-xs text-gray-600">
+                  <p className="text-sm text-gray-600">
                     {currentQuestion.remark.split("　").map((word, index) => (
                       <span key={index}>
                         {word}

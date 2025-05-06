@@ -37,7 +37,7 @@
     "meaning": "【形】社内の、現場の　【副】その場で",
     "example": "She works _____ at the factory.",
     "translation": "彼女はその工場で現場勤務しています。",
-    "remark": ""
+    "remark": "【反】off-site(社外の、現場から離れた)　【類】in-house(社内の)"
   },
   {
     "id": 6,
@@ -53,7 +53,7 @@
     "meaning": "【形】機密の、秘密の",
     "example": "The file contains _____ information.",
     "translation": "そのファイルには機密情報が含まれています。",
-    "remark": ""
+    "remark": "【名】confidentiality(機密)"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "meaning": "【名】専門知識",
     "example": "He has _____ in network security.",
     "translation": "彼はネットワークセキュリティの専門知識があります。",
-    "remark": ""
+    "remark": "【副】expertly(上手に)"
   },
   {
     "id": 9,
@@ -101,7 +101,7 @@
     "meaning": "【名】生地、織物",
     "example": "The curtain is made of soft _____.",
     "translation": "そのカーテンは柔らかい生地で作られています。",
-    "remark": ""
+    "remark": "【関】textile(織物)"
   },
   {
     "id": 14,
@@ -109,7 +109,7 @@
     "meaning": "【形】広々とした、ゆったりした",
     "example": "The apartment has a _____ living room.",
     "translation": "そのアパートには広々としたリビングがあります。",
-    "remark": ""
+    "remark": "【反】cramped(窮屈な)"
   },
   {
     "id": 15,
@@ -133,7 +133,7 @@
     "meaning": "【名】通勤者",
     "example": "Many _____ commute by train.",
     "translation": "多くの通勤者が電車で通勤しています。",
-    "remark": ""
+    "remark": "【動】【名】commute(通勤する、通勤)　【関】telecommuter(在宅勤務者)"
   },
   {
     "id": 18,
@@ -141,7 +141,7 @@
     "meaning": "【動】向上させる、強化する",
     "example": "This feature will _____ the user experience.",
     "translation": "この機能はユーザー体験を向上させます。",
-    "remark": ""
+    "remark": "【名】enhancement(改良、強化)　【類】bolster/strengthen(強める)"
   },
   {
     "id": 19,
@@ -149,7 +149,7 @@
     "meaning": "【名】貨物、輸送、輸送料　【動】輸送する",
     "example": "The train carried a load of _____.",
     "translation": "列車は大量の貨物を運んでいました。",
-    "remark": ""
+    "remark": "【類】cargo(貨物)"
   },
   {
     "id": 20,
@@ -157,7 +157,7 @@
     "meaning": "【動】(候補として)推薦する、ノミネートする",
     "example": "She was _____ed for best actress.",
     "translation": "彼女は最優秀女優賞にノミネートされました。",
-    "remark": ""
+    "remark": "【名】nomination(推薦、賞の候補作品、候補者)"
   },
   {
     "id": 21,
@@ -173,7 +173,7 @@
     "meaning": "【名】メンター制度",
     "example": "Our company offers a _____ program.",
     "translation": "当社ではメンター制度を導入しています。",
-    "remark": ""
+    "remark": "【関】mentee(指導を受ける人)"
   },
   {
     "id": 23,
@@ -181,7 +181,7 @@
     "meaning": "【形】個人に合わせた、名前入りの",
     "example": "They gave me a _____ mug.",
     "translation": "彼らは私に名前入りのマグカップをくれました。",
-    "remark": ""
+    "remark": "【類】customized(特別仕様の、特注の)　【関】customizable(特別仕様にできる)"
   },
   {
     "id": 24,
@@ -189,7 +189,7 @@
     "meaning": "【名】薬局",
     "example": "I picked up medicine from the _____.",
     "translation": "私は薬局で薬を受け取りました。",
-    "remark": ""
+    "remark": "【関】pharmacist(薬剤師)　【形】pharmaceutical(製薬の)"
   },
   {
     "id": 25,
@@ -205,7 +205,7 @@
     "meaning": "【動】宣伝する",
     "example": "The company _____ed its new product.",
     "translation": "その会社は新製品を宣伝しました。",
-    "remark": ""
+    "remark": "【名】publicity(宣伝、注目)"
   },
   {
     "id": 27,
@@ -221,7 +221,7 @@
     "meaning": "【名】(法律・規則等の)順守",
     "example": "We ensure _____ with all regulations.",
     "translation": "当社はすべての規則を順守しています。",
-    "remark": ""
+    "remark": "【動】comply(順守する)　【形】compliant(遵守した)"
   },
   {
     "id": 29,
@@ -229,7 +229,7 @@
     "meaning": "【動】はっきりさせる、明確にする",
     "example": "Let me _____ your question.",
     "translation": "あなたの質問を明確にさせてください。",
-    "remark": ""
+    "remark": "【名】clarity(明確さ)"
   },
   {
     "id": 30,
@@ -245,7 +245,7 @@
     "meaning": "【副】それぞれ",
     "example": "They arrived at 8 and 9 a.m., _____.",
     "translation": "彼らはそれぞれ午前8時と9時に到着しました。",
-    "remark": ""
+    "remark": "【名】durability(耐久性、丈夫さ)"
   },
   {
     "id": 32,
@@ -277,7 +277,7 @@
     "meaning": "【名】受取人、受賞者",
     "example": "The prize will be sent to the _____.",
     "translation": "賞は受賞者に送られます。",
-    "remark": ""
+    "remark": "【関】receipt(領収書)"
   },
   {
     "id": 36,
@@ -301,7 +301,7 @@
     "meaning": "【動】確認する、検証する、認証する",
     "example": "We need to _____ this result.",
     "translation": "この結果を検証する必要があります。",
-    "remark": ""
+    "remark": "【名】verification(確認、検証)"
   },
   {
     "id": 39,
@@ -325,7 +325,7 @@
     "meaning": "【名】服装",
     "example": "Business _____ is required at the meeting.",
     "translation": "ビジネス服装が会議で必要です。",
-    "remark": ""
+    "remark": "【関】dress code(服装規定)"
   },
   {
     "id": 42,
@@ -333,7 +333,7 @@
     "meaning": "【動】払い戻す",
     "example": "We will _____ your travel expenses.",
     "translation": "あなたの旅費を払い戻します。",
-    "remark": ""
+    "remark": "【名】reimbursement(払い戻し)"
   },
   {
     "id": 43,
@@ -341,7 +341,7 @@
     "meaning": "【形】礼儀正しい",
     "example": "He is always _____ to guests.",
     "translation": "彼は常にお客様に礼儀正しいです。",
-    "remark": ""
+    "remark": "【副】courteously(礼儀正しく)　【名】courtesy(礼儀正しさ)　【類】polite(礼儀正しい)"
   },
   {
     "id": 44,
@@ -349,7 +349,7 @@
     "meaning": "【形】家具付きの",
     "example": "The apartment is fully _____.",
     "translation": "そのアパートには家具が完全に備え付けられています。",
-    "remark": ""
+    "remark": "【名】furnishings(カーテンやカーペットを含む家具類)"
   },
   {
     "id": 45,
@@ -357,7 +357,7 @@
     "meaning": "【形】知識が豊富な",
     "example": "She is very _____ about art history.",
     "translation": "彼女は美術史にとても詳しいです。",
-    "remark": ""
+    "remark": "【名】knowledge(知識)"
   },
   {
     "id": 46,
@@ -365,7 +365,7 @@
     "meaning": "【名】職人",
     "example": "Local _____ displayed their work.",
     "translation": "地元の職人たちが作品を展示しました。",
-    "remark": ""
+    "remark": "【類】artisan(職人)"
   },
   {
     "id": 47,
@@ -373,7 +373,7 @@
     "meaning": "【動】削除する",
     "example": "Please _____ unnecessary files.",
     "translation": "不要なファイルを削除してください。",
-    "remark": ""
+    "remark": "【類】omit(省く)"
   },
   {
     "id": 48,
@@ -381,7 +381,7 @@
     "meaning": "【形】新たに表れた、信仰の",
     "example": "Several _____ technologies are being adopted.",
     "translation": "いくつかの新興技術が採用されています。",
-    "remark": ""
+    "remark": "【動】emerge(現れる)"
   },
   {
     "id": 49,
@@ -389,7 +389,7 @@
     "meaning": "【動】登録する、入会する、入学する",
     "example": "You must _____ by the deadline.",
     "translation": "期限までに登録しなければなりません。",
-    "remark": ""
+    "remark": "【名】enrollment(入会、登録、登録者数)"
   },
   {
     "id": 50,
@@ -397,7 +397,7 @@
     "meaning": "【名】熟達、スキルの高さ、高い能力",
     "example": "Her language _____ is impressive.",
     "translation": "彼女の語学スキルは見事です。",
-    "remark": ""
+    "remark": "【形】proficient(堪能な、熟達した)"
   },
   {
     "id": 51,
@@ -405,7 +405,7 @@
     "meaning": "【形】眺めがいい、景色の",
     "example": "The hotel is located in a _____ area with beautiful mountain views",
     "translation": "そのホテルは山の美しい景色が見える眺めの良い場所にあります",
-    "remark": ""
+    "remark": "【関】scenery(風景)　【類】picturesque(絵のように美しい)"
   },
   {
     "id": 52,
@@ -413,7 +413,7 @@
     "meaning": "【形】最新式の、最先端の",
     "example": "This device features _____ technology for better performance",
     "translation": "この装置はより良い性能のために最先端の技術を搭載しています",
-    "remark": ""
+    "remark": "【類】up-to-date(最新式の)、latest(最新の)、cutting-edge(最先端の)"
   },
   {
     "id": 53,
@@ -437,7 +437,7 @@
     "meaning": "【形】有資格の、公認の",
     "example": "She is a _____ yoga instructor",
     "translation": "彼女は有資格のヨガインストラクターです",
-    "remark": ""
+    "remark": "【動】certify(認定する、認証する)　【名】certificate(認定証、修了証)。certification(認証)"
   },
   {
     "id": 56,
@@ -445,7 +445,7 @@
     "meaning": "【名】薬",
     "example": "Please take the _____ twice a day after meals",
     "translation": "この薬を1日2回、食後に服用してください",
-    "remark": ""
+    "remark": "【類】medicine/drug(薬)"
   },
   {
     "id": 57,
@@ -453,7 +453,7 @@
     "meaning": "【名】概略、概況",
     "example": "The report provides a brief _____ of the new policy",
     "translation": "その報告書は新しい方針の概略を提供しています",
-    "remark": ""
+    "remark": "【類】outline(概要、概要を説明する)、summary(要約)、abstract(摘要)"
   },
   {
     "id": 58,
@@ -461,7 +461,7 @@
     "meaning": "【形】耐えられる、抵抗力のある",
     "example": "This material is _____ to water and heat",
     "translation": "この素材は水や熱に対して耐性があります",
-    "remark": ""
+    "remark": "【動】regist(抵抗する)　【名】resistance(抵抗)　【関】heatproof(耐熱の)。water-resistant/waterproof(防水の)"
   },
   {
     "id": 59,
@@ -469,7 +469,7 @@
     "meaning": "【形】素晴らしい",
     "example": "The concert was a _____ success",
     "translation": "そのコンサートは素晴らしい成功を収めました",
-    "remark": ""
+    "remark": "【副】superbly(素晴らしく)　【類】excellent(素晴らしい)"
   },
   {
     "id": 60,
@@ -485,7 +485,7 @@
     "meaning": "【形】有益な",
     "example": "The guide was very _____ and easy to follow",
     "translation": "そのガイドはとても有益でわかりやすかったです",
-    "remark": ""
+    "remark": "【類】beneficial(有益な)、useful/helpful(役に立つ)"
   },
   {
     "id": 62,
@@ -501,7 +501,7 @@
     "meaning": "【形】時代遅れの",
     "example": "The computer system is _____ and no longer supported",
     "translation": "そのコンピュータシステムは時代遅れで、もうサポートされていません",
-    "remark": ""
+    "remark": "【類】obsolete(すたれた、時代遅れの)"
   },
   {
     "id": 64,
@@ -509,7 +509,7 @@
     "meaning": "【名】株主",
     "example": "Every _____ received a dividend this quarter",
     "translation": "今四半期、すべての株主が配当を受け取りました",
-    "remark": ""
+    "remark": "【同】stockholder(株主)"
   },
   {
     "id": 65,
@@ -517,7 +517,7 @@
     "meaning": "【名】引換券",
     "example": "You can redeem this _____ at any participating store",
     "translation": "この引換券は提携している店舗で使用できます",
-    "remark": ""
+    "remark": "【類】coupon(クーポン)、gift certificate(商品券)"
   },
   {
     "id": 66,
@@ -525,7 +525,7 @@
     "meaning": "【形】隣接した",
     "example": "Our office is _____ to the train station",
     "translation": "当社のオフィスは駅に隣接しています",
-    "remark": ""
+    "remark": "【同】adjoining(隣の)"
   },
   {
     "id": 67,
@@ -533,7 +533,7 @@
     "meaning": "【名】(手紙やメールでの)やり取り",
     "example": "She kept all the _____ with her former professor",
     "translation": "彼女は元教授との手紙のやり取りをすべて保管していました",
-    "remark": ""
+    "remark": "【動】correspond(一致する、手紙でやり取りする)　【形】corresponging(～に対応する、付随する)　【副】correspondingly(～に応じて、付随して)　【関】correspondent(特派員)"
   },
   {
     "id": 68,
@@ -557,7 +557,7 @@
     "meaning": "【形】機能を果たせる、機能的な",
     "example": "The furniture is both stylish and _____",
     "translation": "その家具はおしゃれで機能的でもあります",
-    "remark": ""
+    "remark": "【類】operational(運転可能な、操業可能な)"
   },
   {
     "id": 71,
@@ -565,7 +565,7 @@
     "meaning": "【形】実地の、実用的な",
     "example": "The training includes _____ experience with the equipment",
     "translation": "その研修には装置を使った実地体験が含まれています",
-    "remark": ""
+    "remark": "【類】firsthand(直接の、現場の)"
   },
   {
     "id": 72,
@@ -597,7 +597,7 @@
     "meaning": "【形】壮観な、目を見張るほどの",
     "example": "The view from the top was absolutely _____.",
     "translation": "頂上からの眺めは本当に壮観でした",
-    "remark": ""
+    "remark": "【類】amazing/stunning(驚くべき)、extraordinary(途方もない)"
   },
   {
     "id": 76,
@@ -605,7 +605,7 @@
     "meaning": "【名】起業家",
     "example": "The _____ launched a new business in tech",
     "translation": "その起業家はテクノロジー分野で新しいビジネスを立ち上げました",
-    "remark": ""
+    "remark": "【形】entrepreneurial(起業家の)　【関】venture(新事業)"
   },
   {
     "id": 77,
@@ -613,7 +613,7 @@
     "meaning": "【形】入門の、最初の、お試しの",
     "example": "This is an _____ offer for new customers only",
     "translation": "これは新規顧客限定のお試しオファーです",
-    "remark": ""
+    "remark": "【関】introductory price(お試し価格)"
   },
   {
     "id": 78,
@@ -621,7 +621,7 @@
     "meaning": "【動】最小限に抑える、最小化する",
     "example": "We try to _____ waste by using digital documents",
     "translation": "デジタル文書を使用することで無駄を最小限に抑えようとしています",
-    "remark": ""
+    "remark": "【名】【形】minimum(最小限、最小限の)　【反】maxmize(最大化する)　【関】maximum(最大限、最大限の)"
   },
   {
     "id": 79,
@@ -637,7 +637,7 @@
     "meaning": "【名】上映、検査",
     "example": "The airport implemented strict _____ for passengers",
     "translation": "空港では乗客に対して厳格な検査が導入されました",
-    "remark": ""
+    "remark": "【関】preview(試写会)"
   },
   {
     "id": 81,
@@ -653,7 +653,7 @@
     "meaning": "【形】長期にわたる、冗長な",
     "example": "The meeting turned into a _____ discussion",
     "translation": "その会議は長引く議論になりました",
-    "remark": ""
+    "remark": "【動】lengthen(伸ばす)　【名】length(長さ)"
   },
   {
     "id": 83,
@@ -677,7 +677,7 @@
     "meaning": "【形】注目すべき、有名な",
     "example": "He is a _____ figure in the science community",
     "translation": "彼は科学界で注目すべき人物です",
-    "remark": ""
+    "remark": "【副】notably(特に)　【同】noteworthy(注目に値する)　【類】noted(著名な)"
   },
   {
     "id": 86,
@@ -693,7 +693,7 @@
     "meaning": "【形】本物の",
     "example": "We offer _____ Italian food made by local chefs",
     "translation": "当店では地元シェフが作る本物のイタリア料理を提供しています",
-    "remark": ""
+    "remark": "【名】authenticity(信憑性)"
   },
   {
     "id": 88,
@@ -709,7 +709,7 @@
     "meaning": "【名】混乱、妨げ",
     "example": "Construction caused major _____ in the area",
     "translation": "工事によりその地域に大きな混乱が生じました",
-    "remark": ""
+    "remark": "【動】disrupt(混乱させる、妨げる)　【形】disruptive(妨げになる)　【関】disturbance(邪魔、中断)、interruption(中断)"
   },
   {
     "id": 90,
@@ -717,7 +717,7 @@
     "meaning": "【形】壊れやすい",
     "example": "Handle the package carefully—it's _____.",
     "translation": "その荷物は壊れやすいので丁寧に扱ってください",
-    "remark": ""
+    "remark": "【類】breakable(壊れやすい)、vulnerable(弱い、傷つきやすい)、susceptible(影響を受けやすい)"
   },
   {
     "id": 91,
@@ -733,7 +733,7 @@
     "meaning": "【名】定期刊行物",
     "example": "This _____ is published every quarter",
     "translation": "この定期刊行物は四半期ごとに発行されます",
-    "remark": ""
+    "remark": "【形】periodic(定期的な)　【副】periodically(定期的に)　【関】weekly(週刊誌)、monthly(月刊誌)"
   },
   {
     "id": 93,
@@ -757,7 +757,7 @@
     "meaning": "【動】監督する",
     "example": "The manager will _____ the new construction",
     "translation": "そのマネージャーが新しい建設工事を監督します",
-    "remark": ""
+    "remark": "【類】supervise(監督する)"
   },
   {
     "id": 96,
@@ -781,7 +781,7 @@
     "meaning": "【形】厳格な、厳密な",
     "example": "The program is known for its _____ training",
     "translation": "そのプログラムは厳格な訓練で知られています",
-    "remark": ""
+    "remark": "【副】rigorously(厳格に)"
   },
   {
     "id": 99,
@@ -797,6 +797,6 @@
     "meaning": "【形】仮の",
     "example": "This is a _____ plan and may change later",
     "translation": "これは仮の計画で、後に変更される可能性があります",
-    "remark": ""
+    "remark": "【副】tentatively(仮に)　【類】interim(暫定の、中間の)"
   }
 ]
