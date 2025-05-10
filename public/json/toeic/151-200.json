@@ -1,0 +1,402 @@
+[
+  {
+    "id": 51,
+    "word": "device",
+    "meaning": "【名】機器、装置",
+    "example": "This _____ is not working properly.",
+    "translation": "この機器は正常に動作していません。",
+    "remark": ""
+  },
+  {
+    "id": 52,
+    "word": "intended",
+    "meaning": "【形】意図された、向けられた",
+    "example": "The _____ audience is young professionals.",
+    "translation": "対象となる読者は若い社会人です。",
+    "remark": "【動】intend(意図する)　【名】intention(意図)"
+  },
+  {
+    "id": 53,
+    "word": "brochure",
+    "meaning": "【名】パンフレット",
+    "example": "Please read the _____ before your visit.",
+    "translation": "訪問前にパンフレットをお読みください。",
+    "remark": ""
+  },
+  {
+    "id": 54,
+    "word": "mail",
+    "meaning": "【名】郵便物、郵便配達　【動】郵送する",
+    "example": "I will _____ the documents tomorrow.",
+    "translation": "明日、その書類を郵送します。",
+    "remark": ""
+  },
+  {
+    "id": 55,
+    "word": "prefer",
+    "meaning": "【動】～を(…よりも)好む",
+    "example": "I _____ coffee to tea.",
+    "translation": "私は紅茶よりコーヒーの方が好きです。",
+    "remark": "【関】respondent(回答者)　【類】reply(返事をする、返事)"
+  },
+  {
+    "id": 56,
+    "word": "response",
+    "meaning": "【名】返答、返事",
+    "example": "We received a quick _____.",
+    "translation": "私たちはすぐに返答を受け取りました。",
+    "remark": ""
+  },
+  {
+    "id": 57,
+    "word": "region",
+    "meaning": "【名】地域",
+    "example": "Sales are increasing in this _____.",
+    "translation": "この地域で売上が増えています。",
+    "remark": ""
+  },
+  {
+    "id": 58,
+    "word": "donation",
+    "meaning": "【名】寄付",
+    "example": "Thank you for your generous _____.",
+    "translation": "ご厚意のあるご寄付をありがとうございます。",
+    "remark": "【動】donate(寄付する)　【関】donor(寄付者)　【類】contribution(寄付、貢献)"
+  },
+  {
+    "id": 59,
+    "word": "quarter",
+    "meaning": "【名】四半期",
+    "example": "The company reports profits every _____.",
+    "translation": "その会社は四半期ごとに利益を報告します。",
+    "remark": ""
+  },
+  {
+    "id": 60,
+    "word": "agreement",
+    "meaning": "【名】契約(書)、同意(書)、合意",
+    "example": "The two companies signed an _____.",
+    "translation": "両社は契約書に署名しました。",
+    "remark": "【動】agree(同意する)　【形】agreeable(合意可能な、快適な)"
+  },
+  {
+    "id": 61,
+    "word": "journal",
+    "meaning": "【名】専門誌",
+    "example": "The _____ is published monthly.",
+    "translation": "その専門誌は毎月発行されます。",
+    "remark": "【類】a trade magazine(業界誌)"
+  },
+  {
+    "id": 62,
+    "word": "distribute",
+    "meaning": "【動】配布する、流通させる",
+    "example": "Flyers were _____d at the station.",
+    "translation": "チラシが駅で配布されました。",
+    "remark": "【名】distribution(配布、流通)　【関】distributor(流通業者)"
+  },
+  {
+    "id": 63,
+    "word": "potential",
+    "meaning": "【形】見込みがある、潜在的な　【名】可能性",
+    "example": "He is a _____ customer.",
+    "translation": "彼は見込み客です。",
+    "remark": ""
+  },
+  {
+    "id": 64,
+    "word": "reschedule",
+    "meaning": "【動】スケジュールを変更する",
+    "example": "We need to _____ the meeting.",
+    "translation": "会議のスケジュールを変更する必要があります。",
+    "remark": ""
+  },
+  {
+    "id": 65,
+    "word": "renew",
+    "meaning": "【動】更新する",
+    "example": "Don’t forget to _____ your license.",
+    "translation": "免許の更新を忘れないでください。",
+    "remark": "【名】renewal(更新)"
+  },
+  {
+    "id": 66,
+    "word": "warehouse",
+    "meaning": "【名】倉庫",
+    "example": "The products are stored in a _____.",
+    "translation": "商品は倉庫に保管されています。",
+    "remark": ""
+  },
+  {
+    "id": 67,
+    "word": "refund",
+    "meaning": "【名】返金　【動】返金する",
+    "example": "You will receive a _____ within a week.",
+    "translation": "1週間以内に返金されます。",
+    "remark": "【関】partial refund(部分返金)"
+  },
+  {
+    "id": 68,
+    "word": "advise",
+    "meaning": "【動】勧める、忠告する，助言する",
+    "example": "I _____ you to take a break.",
+    "translation": "一度休憩することをお勧めします。",
+    "remark": "【形】advisable(望ましい)"
+  },
+  {
+    "id": 69,
+    "word": "immediately",
+    "meaning": "【副】すぐに、即座に",
+    "example": "Please reply _____.",
+    "translation": "すぐにご返答ください。",
+    "remark": "【形】immediate(すぐの、近い)"
+  },
+  {
+    "id": 70,
+    "word": "council",
+    "meaning": "【名】議会",
+    "example": "The city _____ approved the budget.",
+    "translation": "市議会は予算を承認しました。",
+    "remark": ""
+  },
+  {
+    "id": 71,
+    "word": "broadcast",
+    "meaning": "【動】放送する、放送",
+    "example": "The news was _____ live.",
+    "translation": "そのニュースは生放送されました。",
+    "remark": ""
+  },
+  {
+    "id": 72,
+    "word": "responsible",
+    "meaning": "【形】担当している、責任がある",
+    "example": "She is _____ for customer service.",
+    "translation": "彼女は顧客対応を担当しています。",
+    "remark": ""
+  },
+  {
+    "id": 73,
+    "word": "avoid",
+    "meaning": "【動】避ける",
+    "example": "Try to _____ unnecessary expenses.",
+    "translation": "不必要な出費は避けましょう。",
+    "remark": ""
+  },
+  {
+    "id": 74,
+    "word": "effective",
+    "meaning": "【形】効果的な",
+    "example": "This is an _____ marketing strategy.",
+    "translation": "これは効果的なマーケティング戦略です。",
+    "remark": "【副】effectively(効果的に)　【名】effect(効果)、effectiveness(有効性)"
+  },
+  {
+    "id": 75,
+    "word": "invitation",
+    "meaning": "【名】招待(状)",
+    "example": "You’ll receive an _____ by email.",
+    "translation": "メールで招待状が届きます。",
+    "remark": ""
+  },
+  {
+    "id": 76,
+    "word": "reduce",
+    "meaning": "【動】(値段を)下げる、減らす",
+    "example": "We want to _____ costs.",
+    "translation": "コストを削減したいと考えています。",
+    "remark": "【名】reduction(削減)　【関】reduced price(値下げ価格)　【類】shorten(短縮する)"
+  },
+  {
+    "id": 77,
+    "word": "vehicle",
+    "meaning": "【名】乗り物、車両",
+    "example": "The _____ is parked outside.",
+    "translation": "車両は外に停めてあります。",
+    "remark": ""
+  },
+  {
+    "id": 78,
+    "word": "efficient",
+    "meaning": "【形】効率的な",
+    "example": "This method is very _____.",
+    "translation": "この方法は非常に効率的です。",
+    "remark": "【副】efficiently(効率的に)　【名】efficiency(効率、効率性)　【反】inefficient(非効率な)"
+  },
+  {
+    "id": 79,
+    "word": "manufacturer",
+    "meaning": "【名】メーカー、製造業者",
+    "example": "The _____ guarantees quality.",
+    "translation": "そのメーカーは品質を保証します。",
+    "remark": "【関】manufacture(【動】製造する【名】製造), manufacturing(製造、製造業)"
+  },
+  {
+    "id": 80,
+    "word": "comfortable",
+    "meaning": "【形】快適な、楽な、自信がある",
+    "example": "This chair is very _____.",
+    "translation": "この椅子はとても快適です。",
+    "remark": "【名】comfort(快適さ)　【副】comfortably(快適に)　【反】uncomfortable(不快な、落ち着かない)"
+  },
+  {
+    "id": 81,
+    "word": "correct",
+    "meaning": "【形】正確な、正しい　【動】修正する",
+    "example": "Your answer is _____.",
+    "translation": "あなたの答えは正しいです。",
+    "remark": "【副】correctly(正しく)　【反】incorrect(不正確な)"
+  },
+  {
+    "id": 82,
+    "word": "downtown",
+    "meaning": "【形】中心街の　【副】中心街で　【名】中心街",
+    "example": "I work _____.",
+    "translation": "私は中心街で働いています。",
+    "remark": "【類】urban(都会の)"
+  },
+  {
+    "id": 83,
+    "word": "method",
+    "meaning": "【名】方法",
+    "example": "There is no better _____.",
+    "translation": "より良い方法はありません。",
+    "remark": "【類】means(手段、方法)　【類】approach to sales(独自の販売手法)"
+  },
+  {
+    "id": 84,
+    "word": "entire",
+    "meaning": "【形】全体の",
+    "example": "The _____ team joined the meeting.",
+    "translation": "チーム全員が会議に参加しました。",
+    "remark": "【副】entirely(完全に)　【名】entirety(全部)"
+  },
+  {
+    "id": 85,
+    "word": "range",
+    "meaning": "【名】範囲",
+    "example": "We offer a wide _____ of services.",
+    "translation": "幅広いサービスを提供しています。",
+    "remark": "【類】extent(範囲)"
+  },
+  {
+    "id": 86,
+    "word": "setting",
+    "meaning": "【名】環境",
+    "example": "The hotel has a quiet _____.",
+    "translation": "そのホテルは静かな環境にあります。",
+    "remark": "【関】atmosphere(雰囲気)"
+  },
+  {
+    "id": 87,
+    "word": "apologize",
+    "meaning": "【動】お詫びする",
+    "example": "I _____ for the inconvenience.",
+    "translation": "ご不便をおかけして申し訳ありません。",
+    "remark": "【名】apology(おわび)"
+  },
+  {
+    "id": 88,
+    "word": "frequent",
+    "meaning": "【形】頻繁な",
+    "example": "She is a _____ traveler.",
+    "translation": "彼女はよく旅行をします。",
+    "remark": "【副】frequently(頻繁に)　【名】fuequency(頻度)　【関】frequent customer(常連客)"
+  },
+  {
+    "id": 89,
+    "word": "promotion",
+    "meaning": "【名】昇進、販売促進",
+    "example": "He got a _____ last month.",
+    "translation": "彼は先月昇進しました。",
+    "remark": "【形】promotional(販促の)"
+  },
+  {
+    "id": 90,
+    "word": "regarding",
+    "meaning": "【前】～に関する",
+    "example": "We have questions _____ the schedule.",
+    "translation": "スケジュールに関して質問があります。",
+    "remark": "【同】concerning,in/with regard to(～に関する)"
+  },
+  {
+    "id": 91,
+    "word": "temporary",
+    "meaning": "【形】一時的な、臨時の",
+    "example": "This is only a _____ solution.",
+    "translation": "これはあくまで一時的な対策です。",
+    "remark": "【副】temporarily(一時的に)　【関】permanent staff(常連のフタッフ、正社員)"
+  },
+  {
+    "id": 92,
+    "word": "traditional",
+    "meaning": "【形】伝統的な、従来の",
+    "example": "She wore a _____ outfit.",
+    "translation": "彼女は伝統的な衣装を着ていました。",
+    "remark": "【名】tradition(伝統)　【類】conventional(従来型の、型にはまった)【関】heritage(伝統、遺産)"
+  },
+  {
+    "id": 93,
+    "word": "admission",
+    "meaning": "【名】入場、入場料、入場許可",
+    "example": "_____ is free today.",
+    "translation": "今日は入場無料です。",
+    "remark": "【動】admit(認める)　【関】general-admission seating(自由席、一般席)"
+  },
+  {
+    "id": 94,
+    "word": "fit",
+    "meaning": "【動】合う、入る",
+    "example": "This lid doesn’t _____ the container.",
+    "translation": "このフタは容器に合いません。",
+    "remark": ""
+  },
+  {
+    "id": 95,
+    "word": "reference",
+    "meaning": "【名】照会先、照会、参照",
+    "example": "Please provide a _____.",
+    "translation": "照会先をご記入ください。",
+    "remark": ""
+  },
+  {
+    "id": 96,
+    "word": "status",
+    "meaning": "【名】状況、地位",
+    "example": "What is the current _____ of the project?",
+    "translation": "プロジェクトの現在の状況はどうですか？",
+    "remark": ""
+  },
+  {
+    "id": 97,
+    "word": "fuel",
+    "meaning": "【名】燃料",
+    "example": "The price of _____ is rising.",
+    "translation": "燃料価格が上昇しています。",
+    "remark": ""
+  },
+  {
+    "id": 98,
+    "word": "nearly",
+    "meaning": "【副】ほとんど、もう少しで",
+    "example": "_____ everyone agreed.",
+    "translation": "ほとんど全員が賛成しました。",
+    "remark": "【同】almost(もう少しで)"
+  },
+  {
+    "id": 99,
+    "word": "cafeteria",
+    "meaning": "【名】社員食堂",
+    "example": "We ate lunch in the _____.",
+    "translation": "私たちは社員食堂で昼食を食べました。",
+    "remark": ""
+  },
+  {
+    "id": 100,
+    "word": "determine",
+    "meaning": "【動】決定する、判断する、決心する",
+    "example": "We need to _____ the cause.",
+    "translation": "原因を特定する必要があります。",
+    "remark": "【形】determined(断固とした)　【名】determination(決意、決定、判断)　【類】decide(決まる)、gauge(判断する)"
+  }
+]

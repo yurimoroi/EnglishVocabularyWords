@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "word": "expense",
+    "meaning": "【名】費用、経費",
+    "example": "The travel _____ was higher than expected.",
+    "translation": "旅行費用は予想より高かったです。",
+    "remark": "【類】expenditure(支出)、spendinig(支出)"
+  },
+  {
+    "id": 2,
+    "word": "overseas",
+    "meaning": "【形】海外の　【副】海外で",
+    "example": "He works for an _____ company.",
+    "translation": "彼は海外の会社で働いています。",
+    "remark": ""
+  },
+  {
+    "id": 3,
+    "word": "satisfied",
+    "meaning": "【形】満足した",
+    "example": "I'm _____ with the service.",
+    "translation": "サービスに満足しています。",
+    "remark": "【動】satisfyu(満足させる)　【名】satisfaction(満足)　【形】satisafactory(満足させるような)　【副】satisafactorily(満足させるように)"
+  },
+  {
+    "id": 4,
+    "word": "appear",
+    "meaning": "【動】現れる、掲載される、～のように見える",
+    "example": "A rainbow _____ed after the rain.",
+    "translation": "雨の後に虹が現れました。",
+    "remark": ""
+  },
+  {
+    "id": 5,
+    "word": "develop",
+    "meaning": "【動】(計画等を)作り出す、開発する、(スキルを)高める",
+    "example": "We plan to _____ a new app.",
+    "translation": "新しいアプリを開発する予定です。",
+    "remark": ""
+  },
+  {
+    "id": 6,
+    "word": "improve",
+    "meaning": "【動】改善する、改良する",
+    "example": "This tool can help _____ productivity.",
+    "translation": "このツールは生産性の向上に役立ちます。",
+    "remark": "【名】improvement(改善)"
+  },
+  {
+    "id": 7,
+    "word": "reasonable",
+    "meaning": "【形】(値段が)手ごろな、妥当な",
+    "example": "The price is quite _____.",
+    "translation": "値段はかなり手ごろです。",
+    "remark": "【類】affordable(手ごろな)、competitive(他に負けない)、inexpensive(安価な)"
+  },
+  {
+    "id": 8,
+    "word": "unable",
+    "meaning": "【形】(～することが)できない",
+    "example": "He was _____ to attend the meeting.",
+    "translation": "彼は会議に出席できませんでした。",
+    "remark": "【反】able(～できる)"
+  },
+  {
+    "id": 9,
+    "word": "delay",
+    "meaning": "【動】遅らせる　【名】遅れ",
+    "example": "The flight was _____ed due to weather.",
+    "translation": "天候のために飛行機が遅れました。",
+    "remark": ""
+  },
+  {
+    "id": 10,
+    "word": "legal",
+    "meaning": "【形】法律に関する、合法の",
+    "example": "He has strong _____ knowledge.",
+    "translation": "彼は法律に関する知識が豊富です。",
+    "remark": ""
+  },
+  {
+    "id": 11,
+    "word": "regulation",
+    "meaning": "【名】規制、規則",
+    "example": "The new _____ starts next month.",
+    "translation": "新しい規制は来月始まります。",
+    "remark": "【動】regulate(規制する)"
+  },
+  {
+    "id": 12,
+    "word": "expand",
+    "meaning": "【動】拡大する、進出する",
+    "example": "The company plans to _____ into Asia.",
+    "translation": "その会社はアジアへ進出する予定です。",
+    "remark": "【名】expansion(拡大、進出)　【形】expansive(広範囲の)　【類】enlarge(拡大する、拡張する)"
+  },
+  {
+    "id": 13,
+    "word": "launch",
+    "meaning": "【名】開始、発売　【動】開始する、発売する",
+    "example": "The _____ of the new product is tomorrow.",
+    "translation": "新商品の発売は明日です。",
+    "remark": ""
+  },
+  {
+    "id": 14,
+    "word": "recommendation",
+    "meaning": "【名】推薦",
+    "example": "I followed her _____.",
+    "translation": "彼女の推薦に従いました。",
+    "remark": "【動】recommend(推薦する、勧める)"
+  },
+  {
+    "id": 15,
+    "word": "direct",
+    "meaning": "【動】向ける、管理する　【形】直接の",
+    "example": "Please _____ your questions to the manager.",
+    "translation": "質問はマネージャーに向けてください。",
+    "remark": "【副】directly(直接)"
+  },
+  {
+    "id": 16,
+    "word": "profit",
+    "meaning": "【名】利益　【動】利益を与える",
+    "example": "The company made a big _____ last year.",
+    "translation": "その会社は昨年大きな利益を上げました。",
+    "remark": "【形】profitable(利益になる)　【名】profitability(利益性)"
+  },
+  {
+    "id": 17,
+    "word": "seek",
+    "meaning": "【動】探し求める",
+    "example": "We _____ talented individuals.",
+    "translation": "私たちは才能ある人材を探しています。",
+    "remark": "【関】job seeker(求職者)"
+  },
+  {
+    "id": 18,
+    "word": "entry",
+    "meaning": "【名】エントリー(作品)、入場",
+    "example": "Only one _____ per person is allowed.",
+    "translation": "一人につき一作品のみ応募できます。",
+    "remark": ""
+  },
+  {
+    "id": 19,
+    "word": "claim",
+    "meaning": "【名】申し立て、首長、所有権　【動】主張する、所有権を主張する",
+    "example": "He _____ed ownership of the land.",
+    "translation": "彼はその土地の所有権を主張しました。",
+    "remark": ""
+  },
+  {
+    "id": 20,
+    "word": "crew",
+    "meaning": "【名】グループ、班、乗員",
+    "example": "The flight _____ was very professional.",
+    "translation": "飛行機の乗員はとてもプロフェッショナルでした。",
+    "remark": ""
+  },
+  {
+    "id": 21,
+    "word": "demand",
+    "meaning": "【名】需要　【動】要求する",
+    "example": "The _____ for the product is growing.",
+    "translation": "その製品の需要が高まっています。",
+    "remark": ""
+  },
+  {
+    "id": 22,
+    "word": "figure",
+    "meaning": "【名】数字、人物",
+    "example": "This _____ shows the total cost.",
+    "translation": "この数字は総費用を示しています。",
+    "remark": ""
+  },
+  {
+    "id": 23,
+    "word": "raise",
+    "meaning": "【動】上げる、(お金を)集める、高める　【名】昇給",
+    "example": "We need to _____ more funds.",
+    "translation": "もっと資金を集める必要があります。",
+    "remark": ""
+  },
+  {
+    "id": 24,
+    "word": "attach",
+    "meaning": "【動】添付する",
+    "example": "I _____ed the file to the email.",
+    "translation": "メールにファイルを添付しました。",
+    "remark": "【類】attach/enclose(同封する)、accompany(添える)、include(含む)　【名】attachment(添付ファイル、付属品)　【反】detach(切り離す)"
+  },
+  {
+    "id": 25,
+    "word": "attract",
+    "meaning": "【動】引き付ける、呼び込む",
+    "example": "The campaign _____ed many customers.",
+    "translation": "そのキャンペーンは多くの顧客を引きつけました。",
+    "remark": "【形】attractive(魅力的な)　【名】attraction(名所、魅力)"
+  },
+  {
+    "id": 26,
+    "word": "insurance",
+    "meaning": "【名】保険",
+    "example": "Do you have health _____?",
+    "translation": "健康保険に入っていますか？",
+    "remark": "【動】insure(保険を掛ける、保証する)　【関】insurance policy(保険証書)、policyholder(保険契約者)、premium(保険料)"
+  },
+  {
+    "id": 27,
+    "word": "departure",
+    "meaning": "【名】出発、逸脱",
+    "example": "The _____ was delayed.",
+    "translation": "出発が遅れました。",
+    "remark": "【動】depart(出発する)"
+  },
+  {
+    "id": 28,
+    "word": "mayor",
+    "meaning": "【名】町長、市長",
+    "example": "The _____ announced a new policy.",
+    "translation": "市長は新しい政策を発表しました。",
+    "remark": ""
+  },
+  {
+    "id": 29,
+    "word": "balance",
+    "meaning": "【名】残金、残額、バランス",
+    "example": "Please check your account _____.",
+    "translation": "口座の残高を確認してください。",
+    "remark": ""
+  },
+  {
+    "id": 30,
+    "word": "estimate",
+    "meaning": "【名】見積もり　【動】見積もる",
+    "example": "We received the cost _____.",
+    "translation": "費用の見積もりを受け取りました。",
+    "remark": "【形】estimated(推定の、おおよその)　【関】underestimate(低く見積もる、過小評価する)"
+  },
+  {
+    "id": 31,
+    "word": "district",
+    "meaning": "【名】地区",
+    "example": "This _____ is known for its food.",
+    "translation": "この地区は食べ物で有名です。",
+    "remark": "【類】area/region(地域)"
+  },
+  {
+    "id": 32,
+    "word": "former",
+    "meaning": "【形】前の、かつての　【名】前者",
+    "example": "He is a _____ president.",
+    "translation": "彼は元大統領です。",
+    "remark": "【類】previous(前の)"
+  },
+  {
+    "id": 33,
+    "word": "modern",
+    "meaning": "【形】現代的な、近代的な",
+    "example": "This is a _____ building.",
+    "translation": "これは現代的な建物です。",
+    "remark": "【類】contemporary(現代の)　【動】modernize(現代的にする)"
+  },
+  {
+    "id": 34,
+    "word": "tip",
+    "meaning": "【名】アドバイス、コツ",
+    "example": "She gave me some cooking _____s.",
+    "translation": "彼女は料理のコツを教えてくれました。",
+    "remark": "【類】advise(助言、アドバイス)"
+  },
+  {
+    "id": 35,
+    "word": "establish",
+    "meaning": "【動】設立する、創立する",
+    "example": "The company was _____ed in 1985.",
+    "translation": "その会社は1985年に設立されました。",
+    "remark": "【類】found(設立する)"
+  },
+  {
+    "id": 36,
+    "word": "option",
+    "meaning": "【名】選択肢、オプション",
+    "example": "You have several _____s.",
+    "translation": "あなたにはいくつかの選択肢があります。",
+    "remark": "【形】optional(任意の、強制的ではない)"
+  },
+  {
+    "id": 37,
+    "word": "retire",
+    "meaning": "【動】退職する",
+    "example": "He plans to _____ next year.",
+    "translation": "彼は来年退職する予定です。",
+    "remark": "【名】retirement(退職)"
+  },
+  {
+    "id": 38,
+    "word": "search",
+    "meaning": "【名】捜索、検索　【動】探す、検索する",
+    "example": "I did a quick _____ online.",
+    "translation": "オンラインでさっと検索しました。",
+    "remark": ""
+  },
+  {
+    "id": 39,
+    "word": "specific",
+    "meaning": "【形】具体的な、特定の",
+    "example": "Please give me a _____ example.",
+    "translation": "具体的な例を挙げてください。",
+    "remark": "【副】specifically(具体的に、特に)　【名】specifics(詳細)"
+  },
+  {
+    "id": 40,
+    "word": "agricultural",
+    "meaning": "【形】農業の",
+    "example": "Japan is known for its _____ products.",
+    "translation": "日本は農産物で知られています。",
+    "remark": "【名】agriculture(農業)"
+  },
+  {
+    "id": 41,
+    "word": "historical",
+    "meaning": "【形】歴史(上)の",
+    "example": "This is a _____ building.",
+    "translation": "これは歴史的な建物です。",
+    "remark": "【副】historically(歴史的に)　【類】historic(歴史上重要な)"
+  },
+  {
+    "id": 42,
+    "word": "helpful",
+    "meaning": "【形】役立つ、助けになる",
+    "example": "Your advice was very _____.",
+    "translation": "あなたのアドバイスはとても役立ちました。",
+    "remark": ""
+  },
+  {
+    "id": 43,
+    "word": "complaint",
+    "meaning": "【名】苦情、クレーム",
+    "example": "We received many customer _____s.",
+    "translation": "多くの顧客から苦情が寄せられました。",
+    "remark": ""
+  },
+  {
+    "id": 44,
+    "word": "related",
+    "meaning": "【形】関連した",
+    "example": "These issues are closely _____.",
+    "translation": "これらの問題は密接に関連しています。",
+    "remark": "【類】relevant(関連した)、pertain to X(Xに関連した)、related to X(Xに関連した)"
+  },
+  {
+    "id": 45,
+    "word": "simply",
+    "meaning": "【副】単純に、単に",
+    "example": "It's _____ not true.",
+    "translation": "それは単に事実ではありません。",
+    "remark": "【関】simply out(簡単に言うと)　【同】onlu/just/merely/purely(単に)"
+  },
+  {
+    "id": 46,
+    "word": "unique",
+    "meaning": "【形】他にはない、独自の、特有の",
+    "example": "This is a _____ opportunity.",
+    "translation": "これは他にはない機会です。",
+    "remark": "【関】unique to X(Xに特有の)"
+  },
+  {
+    "id": 47,
+    "word": "concerning",
+    "meaning": "【前】～に関する",
+    "example": "I have a question _____ the schedule.",
+    "translation": "スケジュールに関して質問があります。",
+    "remark": "【同】regarding、in/with regard to(～に関する)"
+  },
+  {
+    "id": 48,
+    "word": "reputation",
+    "meaning": "【名】評判",
+    "example": "The hotel has a good _____.",
+    "translation": "そのホテルは評判が良いです。",
+    "remark": ""
+  },
+  {
+    "id": 49,
+    "word": "ability",
+    "meaning": "【名】能力",
+    "example": "She has great _____ in languages.",
+    "translation": "彼女は語学の能力に優れています。",
+    "remark": "【形】able(～できる)　【類】capabilly(能力)"
+  },
+  {
+    "id": 50,
+    "word": "arrival",
+    "meaning": "【名】到着",
+    "example": "The train’s _____ was delayed.",
+    "translation": "電車の到着が遅れました。",
+    "remark": "【反】departure(出発)"
+  }
+]

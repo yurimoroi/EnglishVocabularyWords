@@ -32,7 +32,7 @@ export default function AnswerPage() {
   const [showConfirmation, setShowConfirmation] = useState(false);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
-  const [wrongQuestionIds, setWrongQuestionIds] = useState<number[]>([]);
+  const [wrongQuestion, setWrongQuestion] = useState<number[]>([]);
   const [correctAnswers, setCorrectAnswers] = useState(0);
   const [audio, setAudio] = useState<HTMLAudioElement | null>(null);
 
@@ -79,6 +79,91 @@ export default function AnswerPage() {
   useEffect(() => {
     const fetchQuestions = async () => {
       try {
+        if (type === "reviews" && user) {
+          // 昨日の日付を取得
+          const yesterday = new Date();
+          yesterday.setDate(yesterday.getDate() - 1);
+          const yesterdayStr = yesterday.toISOString().split("T")[0];
+
+          // 昨日の学習記録を取得
+          const reviewDocRef = doc(db, "reviews", user.uid);
+          const reviewDoc = await getDoc(reviewDocRef);
+
+          if (!reviewDoc.exists()) {
+            setError("復習データが見つかりませんでした");
+            setLoading(false);
+            return;
+          }
+
+          const data = reviewDoc.data();
+          if (!data[yesterdayStr]) {
+            setError("昨日の学習記録が見つかりませんでした");
+            setLoading(false);
+            return;
+          }
+
+          // 昨日学習した単元の問題を全て取得
+          const allQuestions: Question[] = [];
+          for (const review of data[yesterdayStr]) {
+            const filePath = `/json/${review.type}/${review.range}.json`;
+            const response = await fetch(filePath);
+            if (!response.ok) continue;
+
+            const questions = await response.json();
+            allQuestions.push(...questions);
+          }
+
+          // 最大50問をランダムに選択
+          const selectedQuestions = allQuestions.sort(() => Math.random() - 0.5).slice(0, 50);
+
+          setQuestions(selectedQuestions);
+          setLoading(false);
+          return;
+        } else if (range === "overcome" && user) {
+          const resultDocRef = doc(db, "results", user.uid);
+          const resultDoc = await getDoc(resultDocRef);
+
+          if (resultDoc.exists()) {
+            const resultData = resultDoc.data();
+            if (resultData[type]) {
+              const fieldNames = Object.keys(resultData[type]);
+
+              const data = [];
+              for (const fieldName of fieldNames) {
+                const filePath = `/json/${type}/${fieldName}.json`;
+                const response = await fetch(filePath);
+                if (!response.ok) {
+                  throw new Error("問題データの取得に失敗しました");
+                }
+
+                const questions = await response.json();
+                data.push(...questions);
+              }
+
+              const wrongQuestion: number[] = [];
+              for (const [, value] of Object.entries(resultData[type])) {
+                if (Array.isArray(value)) {
+                  value.forEach((v: number) => {
+                    wrongQuestion.push(v);
+                  });
+                }
+              }
+
+              const processedQuestions = data.filter(
+                (question: Question, index: number) => wrongQuestion[index] === 1
+              );
+
+              const selectedQuestions = processedQuestions
+                .sort(() => Math.random() - 0.5)
+                .slice(0, 50);
+
+              setQuestions(selectedQuestions);
+              setLoading(false);
+            }
+          }
+          return;
+        }
+
         const filePath = `/json/${type}/${range}.json`;
         const response = await fetch(filePath);
 
@@ -97,9 +182,9 @@ export default function AnswerPage() {
           if (resultDoc.exists()) {
             const userData = resultDoc.data();
             if (userData[type] && userData[type][range]) {
-              const wrongQuestionIds = userData[type][range];
-              processedQuestions = processedQuestions.filter((question: Question) =>
-                wrongQuestionIds.includes(question.id)
+              const wrongQuestion = userData[type][range];
+              processedQuestions = processedQuestions.filter(
+                (question: Question, index: number) => wrongQuestion[index] !== 0
               );
             }
           }
@@ -118,7 +203,7 @@ export default function AnswerPage() {
       }
     };
 
-    if (type && range) {
+    if (type && (range || type === "reviews")) {
       fetchQuestions();
     }
   }, [type, range, random, onlyWrong, user]);
@@ -128,8 +213,7 @@ export default function AnswerPage() {
       setShowConfirmation(true);
       setShowAnswer(true);
     } else {
-      const currentQuestion = questions[currentQuestionIndex];
-      setWrongQuestionIds((prev) => [...prev, currentQuestion.id]);
+      setWrongQuestion((prev) => [...prev, 1]);
       setShowAnswer(true);
     }
   };
@@ -137,9 +221,9 @@ export default function AnswerPage() {
   const handleConfirmation = (correct: boolean) => {
     if (correct) {
       setCorrectAnswers((prev) => prev + 1);
+      setWrongQuestion((prev) => [...prev, 0]);
     } else {
-      const currentQuestion = questions[currentQuestionIndex];
-      setWrongQuestionIds((prev) => [...prev, currentQuestion.id]);
+      setWrongQuestion((prev) => [...prev, 1]);
     }
     setShowConfirmation(false);
 
@@ -160,30 +244,124 @@ export default function AnswerPage() {
     try {
       if (user === null) return;
 
-      const userDocRef = doc(db, "results", user.uid);
-      const userDoc = await getDoc(userDocRef);
+      // reviewsの場合はDBに登録しない
+      if (type === "reviews") return;
 
-      if (userDoc.exists()) {
-        // 既存のデータを取得
-        const existingData = userDoc.data();
+      if (range === "overcome") return;
 
-        // 同じtypeのrangeのみを更新
-        await updateDoc(userDocRef, {
+      // 誤った問題の保存
+      const resultDocRef = doc(db, "results", user.uid);
+      const resultDoc = await getDoc(resultDocRef);
+
+      if (resultDoc.exists()) {
+        const existingData = resultDoc.data();
+        const existingWrongQuestions = existingData[type]?.[range] || [];
+        const newWrongQuestions = existingWrongQuestions.map(
+          (value: number, index: number) => value + (wrongQuestion[index] || 0)
+        );
+
+        await updateDoc(resultDocRef, {
+          count: {
+            [type]: {
+              ...(existingData.count?.[type] || {}),
+              [range]: {
+                ...(existingData.count?.[type]?.[range] || {}),
+                count: (existingData.count?.[type]?.[range]?.count || 0) + 1,
+              },
+            },
+          },
           [type]: {
-            ...existingData[type],
-            [range]: wrongQuestionIds,
+            ...(existingData[type] || {}),
+            [range]: newWrongQuestions,
           },
         });
       } else {
-        // 新規登録
-        await setDoc(userDocRef, {
+        await setDoc(resultDocRef, {
+          count: {
+            [type]: {
+              [range]: { count: 1 },
+            },
+          },
           [type]: {
-            [range]: wrongQuestionIds,
+            [range]: wrongQuestion,
           },
         });
       }
+
+      // 学習記録の保存
+      const reviewDocRef = doc(db, "reviews", user.uid);
+      const reviewDoc = await getDoc(reviewDocRef);
+      const today = new Date().toISOString().split("T")[0];
+
+      if (reviewDoc.exists()) {
+        const existingData = reviewDoc.data();
+        const todayReviews = existingData[today] || [];
+
+        // 同じtypeとrangeの組み合わせが既に存在するかチェック
+        const isDuplicate = todayReviews.some(
+          (review: { type: string; range: string }) =>
+            review.type === type && review.range === range
+        );
+
+        if (!isDuplicate) {
+          // その日のデータのみを保持
+          await setDoc(reviewDocRef, {
+            [today]: [
+              ...todayReviews,
+              {
+                type,
+                range,
+              },
+            ],
+          });
+        }
+      } else {
+        await setDoc(reviewDocRef, {
+          [today]: [
+            {
+              type,
+              range,
+            },
+          ],
+        });
+      }
+
+      // 統計データの保存
+      const statisticsDocRef = doc(db, "statistics", user.uid);
+      const statisticsDoc = await getDoc(statisticsDocRef);
+      const score = Math.round((correctAnswers / questions.length) * 100);
+
+      if (statisticsDoc.exists()) {
+        const existingData = statisticsDoc.data();
+        const todayStats = existingData[today] || [];
+
+        await updateDoc(statisticsDocRef, {
+          [today]: [
+            ...todayStats,
+            {
+              type,
+              range,
+              score,
+              totalQuestions: questions.length,
+              timestamp: new Date().toISOString(),
+            },
+          ],
+        });
+      } else {
+        await setDoc(statisticsDocRef, {
+          [today]: [
+            {
+              type,
+              range,
+              score,
+              totalQuestions: questions.length,
+              timestamp: new Date().toISOString(),
+            },
+          ],
+        });
+      }
     } catch (error) {
-      console.error("誤った問題の保存に失敗しました:", error);
+      console.error("データの保存に失敗しました:", error);
     }
   };
 
@@ -309,7 +487,7 @@ export default function AnswerPage() {
       </div>
 
       {/* 問題カード */}
-      <div className="bg-white rounded-lg shadow-lg p-6 sm:h-100 h-[calc(100vh-10rem)] flex flex-col">
+      <div className="bg-white rounded-lg shadow-lg p-6 sm:h-150 h-[calc(100vh-10rem)] flex flex-col">
         <div className="flex-1 overflow-y-auto">
           {mode === "japaneseToEnglish" ? (
             <>
