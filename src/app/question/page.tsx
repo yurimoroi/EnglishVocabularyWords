@@ -6,17 +6,35 @@ import { doc, getDoc } from "firebase/firestore";
 import { db } from "@/lib/firebase/firebase";
 import { useAuth } from "@/contexts/AuthContext";
 import { FiPenTool, FiClock } from "react-icons/fi";
+import {
+  directionTypes,
+  questionTypes,
+  toeicSets,
+  toeicThemeSets,
+  toeicTheme2Sets,
+} from "@/options/options";
 
 export default function QuestionPage() {
   const router = useRouter();
   const { user } = useAuth();
   const [selectedType, setSelectedType] = useState("TOEIC");
   const [selectedDirection, setSelectedDirection] = useState("japaneseToEnglish");
-  const [isRandom, setIsRandom] = useState(false);
+  const [isRandom, setIsRandom] = useState(true);
   const [isOnlyWrong, setIsOnlyWrong] = useState(false);
   const [yesterdayReviews, setYesterdayReviews] = useState<Array<{ type: string; range: string }>>(
     []
   );
+
+  useEffect(() => {
+    const userData = sessionStorage.getItem("user");
+    if (userData) {
+      const data = JSON.parse(userData);
+      setSelectedType(data.questionType || "TOEIC");
+      setSelectedDirection(data.direction || "japaneseToEnglish");
+      setIsRandom(data.isRandom ?? true);
+      setIsOnlyWrong(data.isOnlyWrong ?? false);
+    }
+  }, []);
 
   useEffect(() => {
     const fetchYesterdayReviews = async () => {
@@ -47,18 +65,6 @@ export default function QuestionPage() {
   const buttonStyle =
     "bg-violet-500 hover:bg-violet-600 text-white font-medium py-4 px-6 rounded-lg transition-colors duration-200 shadow-md hover:shadow-lg cursor-pointer";
 
-  const questionTypes = [
-    { id: "TOEIC", label: "TOEIC" },
-    { id: "TOEIC_THEME", label: "TOEIC THEME" },
-    { id: "TOEIC_THEME2", label: "TOEIC THEME2" },
-    { id: "IELTS", label: "IELTS" },
-  ];
-
-  const directionTypes = [
-    { id: "japaneseToEnglish", label: "日本語 → 英語" },
-    { id: "englishToJapanese", label: "英語 → 日本語" },
-  ];
-
   const handleQuestionSetClick = (set: string) => {
     // セット名から数値範囲を抽出（例：'TOEIC 1-100' から '1-100'）
     const range = set.split(" ")[1];
@@ -68,71 +74,6 @@ export default function QuestionPage() {
       `/answer?type=${selectedType.toLowerCase()}&range=${range}&mode=${selectedDirection}&random=${isRandom}&onlyWrong=${isOnlyWrong}`
     );
   };
-
-  const toeicSets = [
-    "TOEIC 1-50",
-    "TOEIC 51-100",
-    "TOEIC 101-150",
-    "TOEIC 151-200",
-    "TOEIC 201-250",
-    "TOEIC 251-300",
-    "TOEIC 301-350",
-    "TOEIC 351-400",
-    "TOEIC 401-450",
-    "TOEIC 451-500",
-    "TOEIC 501-550",
-    "TOEIC 551-600",
-    "TOEIC 601-650",
-    "TOEIC 651-700",
-    "TOEIC 701-750",
-    "TOEIC 751-800",
-    "TOEIC 801-850",
-    "TOEIC 851-900",
-    "TOEIC 901-950",
-    "TOEIC 951-1000",
-    "TOEIC supplement1",
-    "TOEIC supplement2",
-    "TOEIC supplement3",
-  ];
-
-  const toeicThemeSets = [
-    "TOEIC_THEME Banking_and_Finance",
-    "TOEIC_THEME Marketing",
-    "TOEIC_THEME Hospitality",
-    "TOEIC_THEME Office",
-    "TOEIC_THEME Shopping",
-    "TOEIC_THEME Transportation",
-    "TOEIC_THEME Health",
-    "TOEIC_THEME Telephone",
-    "TOEIC_THEME Travel",
-    "TOEIC_THEME Mail",
-    "TOEIC_THEME Insurance",
-    "TOEIC_THEME Meetings",
-  ];
-
-  const toeicTheme2Sets = [
-    "TOEIC_THEME2 General_Business",
-    "TOEIC_THEME2 Office_Issues",
-    "TOEIC_THEME2 Personnel",
-    "TOEIC_THEME2 Purchasing",
-    "TOEIC_THEME2 Financing_and_Budgeting",
-    "TOEIC_THEME2 Management_Issues",
-    "TOEIC_THEME2 Restaurants_and_Events",
-    "TOEIC_THEME2 Travel",
-    "TOEIC_THEME2 Entertainment",
-    "TOEIC_THEME2 Health",
-  ];
-
-  // const ieltsSets = [
-  //   "IELTS 1-100",
-  //   "IELTS 101-200",
-  //   "IELTS 201-300",
-  //   "IELTS 301-400",
-  //   "IELTS 401-500",
-  //   "IELTS 501-600",
-  //   "IELTS 601-700",
-  //   "IELTS 701-800",
-  // ];
 
   const handleReviewClick = () => {
     router.push(

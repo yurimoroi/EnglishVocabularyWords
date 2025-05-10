@@ -6,6 +6,7 @@ import {
   signInWithEmailAndPassword,
   signOut as firebaseSignOut,
   onAuthStateChanged,
+  UserCredential,
 } from "firebase/auth";
 import { auth } from "@/lib/firebase/firebase";
 import { useRouter } from "next/navigation";
@@ -13,7 +14,7 @@ import { useRouter } from "next/navigation";
 interface AuthContextType {
   user: User | null;
   loading: boolean;
-  signIn: (userId: string, password: string) => Promise<void>;
+  signIn: (userId: string, password: string) => Promise<UserCredential>;
   signOut: () => Promise<void>;
 }
 
@@ -67,6 +68,8 @@ export function AuthProvider({ children }: { children: ReactNode }) {
 
       // 5. ルートページへのリダイレクト
       router.push("/");
+
+      return userCredential;
     } catch (error) {
       console.error("Error signing in:", error);
       if (error instanceof Error) {

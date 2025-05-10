@@ -1,32 +1,66 @@
 "use client";
 
 import { useState } from "react";
+import { useRouter } from "next/navigation";
 import { useAuth } from "@/contexts/AuthContext";
 import Link from "next/link";
+import { doc, getDoc } from "firebase/firestore";
+import { db } from "@/lib/firebase/firebase";
 
 export default function LoginPage() {
+  const router = useRouter();
   const { signIn } = useAuth();
-  const [credentials, setCredentials] = useState({
-    email: "",
-    password: "",
-  });
-  const [error, setError] = useState("");
-  const [loading, setLoading] = useState(false);
+  const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
+  const [errors, setErrors] = useState<{
+    email?: string;
+    password?: string;
+  }>({});
+  const [isLoading, setIsLoading] = useState(false);
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
+
     try {
-      setError("");
-      setLoading(true);
-      await signIn(credentials.email, credentials.password);
-    } catch (error) {
-      if (error instanceof Error) {
-        setError(error.message);
-      } else {
-        setError("Login failed");
+      setIsLoading(true);
+      const userCredential = await signIn(email, password);
+
+      if (userCredential.user) {
+        // usersコレクションからユーザー情報を取得
+        const userDocRef = doc(db, "users", userCredential.user.uid);
+        const userDoc = await getDoc(userDocRef);
+
+        if (userDoc.exists()) {
+          const userData = userDoc.data();
+          // セッションストレージにユーザー情報を保存
+          sessionStorage.setItem(
+            "user",
+            JSON.stringify({
+              uid: userCredential.user.uid,
+              email: userCredential.user.email,
+              ...userData,
+            })
+          );
+        } else {
+          // ユーザードキュメントが存在しない場合は基本的な情報のみ保存
+          sessionStorage.setItem(
+            "user",
+            JSON.stringify({
+              uid: userCredential.user.uid,
+              email: userCredential.user.email,
+            })
+          );
+        }
+
+        router.push("/");
       }
+    } catch (error) {
+      console.error("ログインに失敗しました:", error);
+      setErrors({
+        email: "メールアドレスまたはパスワードが正しくありません",
+      });
     } finally {
-      setLoading(false);
+      setIsLoading(false);
     }
   };
 
@@ -41,9 +75,14 @@ export default function LoginPage() {
             Let&apos;s learn English vocabulary words!
           </p>
         </div>
-        {error && (
+        {errors.email && (
           <div className="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative">
-            {error}
+            {errors.email}
+          </div>
+        )}
+        {errors.password && (
+          <div className="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative">
+            {errors.password}
           </div>
         )}
         <form className="mt-8 space-y-6" onSubmit={handleSubmit}>
@@ -58,9 +97,9 @@ export default function LoginPage() {
                 type="email"
                 required
                 className="mt-1 block w-full rounded-md border border-gray-300 px-3 py-2 text-gray-900 placeholder-gray-500 focus:border-violet-500 focus:outline-none focus:ring-violet-500 sm:text-sm"
-                value={credentials.email}
-                onChange={(e) => setCredentials({ ...credentials, email: e.target.value })}
-                disabled={loading}
+                value={email}
+                onChange={(e) => setEmail(e.target.value)}
+                disabled={isLoading}
               />
             </div>
             <div>
@@ -73,9 +112,9 @@ export default function LoginPage() {
                 type="password"
                 required
                 className="mt-1 block w-full rounded-md border border-gray-300 px-3 py-2 text-gray-900 placeholder-gray-500 focus:border-violet-500 focus:outline-none focus:ring-violet-500 sm:text-sm"
-                value={credentials.password}
-                onChange={(e) => setCredentials({ ...credentials, password: e.target.value })}
-                disabled={loading}
+                value={password}
+                onChange={(e) => setPassword(e.target.value)}
+                disabled={isLoading}
               />
             </div>
           </div>
@@ -84,9 +123,9 @@ export default function LoginPage() {
             <button
               type="submit"
               className="group relative flex w-full justify-center rounded-md bg-violet-600 px-3 py-2 text-sm font-semibold text-white hover:bg-violet-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-violet-600 disabled:opacity-50"
-              disabled={loading}
+              disabled={isLoading}
             >
-              {loading ? "Logging in..." : "Login"}
+              {isLoading ? "Logging in..." : "Login"}
             </button>
 
             <Link

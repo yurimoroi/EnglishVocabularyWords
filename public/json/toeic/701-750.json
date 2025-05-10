@@ -41,7 +41,7 @@
   },
   {
     "id": 6,
-    "word": "comprehensice",
+    "word": "comprehensive",
     "meaning": "【形】総合的な、包括的な",
     "example": "We created a _____ report on the issue.",
     "translation": "私たちはその問題について総合的な報告書を作成しました。",
@@ -81,7 +81,7 @@
   },
   {
     "id": 11,
-    "word": "tarafting",
+    "word": "rafting",
     "meaning": "【名】(いかだやゴムボートでの)川下り",
     "example": "We went _____ on the river last weekend.",
     "translation": "先週末、私たちは川で川下りをしました。",
@@ -245,7 +245,7 @@
     "meaning": "【副】それぞれ",
     "example": "They arrived at 8 and 9 a.m., _____.",
     "translation": "彼らはそれぞれ午前8時と9時に到着しました。",
-    "remark": "【名】durability(耐久性、丈夫さ)"
+    "remark": ""
   },
   {
     "id": 32,
@@ -253,7 +253,7 @@
     "meaning": "【形】耐久性がある、丈夫な",
     "example": "We need a more _____ material.",
     "translation": "より耐久性のある素材が必要です。",
-    "remark": ""
+    "remark": "【名】durability(耐久性、丈夫さ)"
   },
   {
     "id": 33,
@@ -282,7 +282,7 @@
   {
     "id": 36,
     "word": "prototype",
-    "meaning": "【名】も作品、原型",
+    "meaning": "【名】試作品、原型",
     "example": "They built a _____ of the new car.",
     "translation": "彼らは新車の原型を作りました。",
     "remark": ""
@@ -337,7 +337,7 @@
   },
   {
     "id": 43,
-    "word": "courtrous",
+    "word": "courteous",
     "meaning": "【形】礼儀正しい",
     "example": "He is always _____ to guests.",
     "translation": "彼は常にお客様に礼儀正しいです。",

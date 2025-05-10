@@ -7,7 +7,7 @@ export async function POST(request: Request) {
     const { idToken } = await request.json();
 
     // Firebase Admin SDKを使用してIDトークンを検証し、セッションCookieを作成
-    const expiresIn = 60 * 60 * 24 * 5 * 1000; // 5日
+    const expiresIn = 30 * 60 * 1000; // 30分
     const sessionCookie = await auth.createSessionCookie(idToken, { expiresIn });
 
     // セッションCookieを設定

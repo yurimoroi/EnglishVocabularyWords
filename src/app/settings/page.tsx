@@ -1,18 +1,13 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { useAuth } from "@/contexts/AuthContext";
 import { z } from "zod";
 import { updatePassword } from "firebase/auth";
-
-const passwordSchema = z
-  .string()
-  .min(8, "パスワードは8文字以上で入力してください")
-  .max(30, "パスワードは30文字以下で入力してください")
-  .regex(/[a-z]/, "小文字の英字を含めてください")
-  .regex(/[A-Z]/, "大文字の英字を含めてください")
-  .regex(/[0-9]/, "数字を含めてください")
-  .regex(/[!@#$%^&*(),.?":{}|<>]/, "記号を含めてください");
+import { doc, getDoc, updateDoc } from "firebase/firestore";
+import { db } from "@/lib/firebase/firebase";
+import { directionTypes, questionTypes } from "@/options/options";
+import { passwordSchema } from "@/schema/schema";
 
 const SettingsPage = () => {
   const { user } = useAuth();
@@ -26,6 +21,75 @@ const SettingsPage = () => {
     confirmPassword?: string;
   }>({});
   const [isLoading, setIsLoading] = useState(false);
+
+  // 学習設定の状態
+  const [direction, setDirection] = useState("japaneseToEnglish");
+  const [questionType, setQuestionType] = useState("TOEIC");
+  const [isRandom, setIsRandom] = useState(false);
+  const [isOnlyWrong, setIsOnlyWrong] = useState(false);
+
+  // 設定の読み込み
+  useEffect(() => {
+    const loadSettings = () => {
+      if (!user) return;
+
+      try {
+        const userData = sessionStorage.getItem("user");
+        if (userData) {
+          const data = JSON.parse(userData);
+          setDirection(data.direction || "japaneseToEnglish");
+          setQuestionType(data.questionType || "TOEIC");
+          setIsRandom(data.isRandom || false);
+          setIsOnlyWrong(data.isOnlyWrong || false);
+        }
+      } catch (error) {
+        console.error("設定の読み込みに失敗しました:", error);
+      }
+    };
+
+    loadSettings();
+  }, [user]);
+
+  // 設定の保存
+  const saveAllSettings = async () => {
+    if (!user) return;
+
+    try {
+      setIsLoading(true);
+      const usersDocRef = doc(db, "users", user.uid);
+      const usersDoc = await getDoc(usersDocRef);
+
+      const settings = {
+        direction,
+        questionType,
+        isRandom,
+        isOnlyWrong,
+      };
+
+      if (usersDoc.exists()) {
+        await updateDoc(usersDocRef, settings);
+        // セッションストレージも更新
+        const userData = sessionStorage.getItem("user");
+        if (userData) {
+          const currentData = JSON.parse(userData);
+          sessionStorage.setItem(
+            "user",
+            JSON.stringify({
+              ...currentData,
+              ...settings,
+            })
+          );
+        }
+      }
+
+      alert("設定を保存しました");
+    } catch (error) {
+      console.error("設定の保存に失敗しました:", error);
+      alert("設定の保存に失敗しました");
+    } finally {
+      setIsLoading(false);
+    }
+  };
 
   const handlePasswordChange = () => {
     setShowPasswordModal(true);
@@ -75,9 +139,18 @@ const SettingsPage = () => {
   };
 
   return (
-    <div className="px-8 lg:px-50 py-4 bg-gray-50 h-screen overflow-auto">
+    <div className="px-8 lg:px-50 py-4 bg-gray-50 h-screen overflow-hidden">
       <div className="max-w-3xl mx-auto">
-        <h1 className="text-xl font-bold text-gray-700 mb-6">設定</h1>
+        <div className="flex justify-between items-center mb-6">
+          <h1 className="text-xl font-bold text-gray-700">設定</h1>
+          <button
+            onClick={saveAllSettings}
+            disabled={isLoading}
+            className="text-sm bg-violet-500 hover:bg-violet-600 text-white px-4 py-2 rounded-lg cursor-pointer disabled:opacity-50 disabled:cursor-not-allowed"
+          >
+            {isLoading ? "保存中..." : "保存"}
+          </button>
+        </div>
 
         <div className="bg-white rounded-lg shadow-lg p-6 mb-6">
           <h2 className="text-lg font-bold text-gray-700 mb-4">アカウント設定</h2>
@@ -112,12 +185,84 @@ const SettingsPage = () => {
           <div className="space-y-4">
             <div className="flex justify-between items-center">
               <div>
-                <p className="text-sm font-medium text-gray-700">出題順序</p>
-                <p className="text-sm text-gray-500">ランダム</p>
+                <p className="text-sm font-medium text-gray-700">問題の方向</p>
+                <select
+                  value={direction}
+                  onChange={(e) => {
+                    setDirection(e.target.value);
+                  }}
+                  className="mt-1 text-sm text-gray-700 border border-gray-300 rounded-md px-2 py-1 focus:outline-none focus:ring-2 focus:ring-violet-500"
+                >
+                  {directionTypes.map((direction) => (
+                    <option key={direction.id} value={direction.id}>
+                      {direction.label}
+                    </option>
+                  ))}
+                </select>
               </div>
-              <button className="text-xs text-gray-500 hover:text-gray-700 cursor-pointer" disabled>
-                変更
-              </button>
+            </div>
+
+            <div className="flex justify-between items-center">
+              <div>
+                <p className="text-sm font-medium text-gray-700">問題の種類</p>
+                <select
+                  value={questionType}
+                  onChange={(e) => {
+                    setQuestionType(e.target.value);
+                  }}
+                  className="mt-1 text-sm text-gray-700 border border-gray-300 rounded-md px-2 py-1 focus:outline-none focus:ring-2 focus:ring-violet-500"
+                >
+                  {questionTypes.map((questionType) => (
+                    <option key={questionType.id} value={questionType.id}>
+                      {questionType.label}
+                    </option>
+                  ))}
+                </select>
+              </div>
+            </div>
+
+            <div className="flex justify-between items-center">
+              <div>
+                <p className="text-sm font-medium text-gray-700">出題順序</p>
+                <div className="mt-1">
+                  <label className="relative inline-flex items-center cursor-pointer">
+                    <input
+                      type="checkbox"
+                      checked={isRandom}
+                      onChange={(e) => {
+                        setIsRandom(e.target.checked);
+                      }}
+                      className="sr-only peer"
+                    />
+                    <div className="w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-violet-300 rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-violet-600"></div>
+                    <span className="ml-3 text-sm text-gray-700">
+                      {isRandom ? "ランダム" : "順番通り"}
+                    </span>
+                  </label>
+                </div>
+              </div>
+            </div>
+
+            <div className="flex justify-between items-center">
+              <div>
+                <p className="text-sm font-medium text-gray-700">過去に間違えた問題</p>
+                <div className="mt-1">
+                  <label className="relative inline-flex items-center cursor-pointer">
+                    <input
+                      type="checkbox"
+                      checked={isOnlyWrong}
+                      onChange={(e) => {
+                        setIsOnlyWrong(e.target.checked);
+                      }}
+                      className="sr-only peer"
+                    />
+                    <div className="w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-violet-300 rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-violet-600"></div>
+                    <span className="ml-3 text-sm text-gray-700">
+                      {isOnlyWrong ? "オン" : "オフ"}
+                    </span>
+                  </label>
+                </div>
+              </div>
             </div>
 
             <div className="flex justify-between items-center">

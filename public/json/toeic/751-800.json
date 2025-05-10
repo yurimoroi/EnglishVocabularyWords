@@ -226,7 +226,7 @@
   {
     "id": 79,
     "word": "prestigious",
-    "meaning": "【形】毛にのある、誉れ高い",
+    "meaning": "【形】権威のある、誉れ高い",
     "example": "She graduated from a _____ university",
     "translation": "彼女は名門大学を卒業しました",
     "remark": ""
@@ -258,7 +258,7 @@
   {
     "id": 83,
     "word": "compensate",
-    "meaning": "【動】保証する",
+    "meaning": "【動】補償する",
     "example": "The company will _____ customers for the inconvenience",
     "translation": "その企業は迷惑をかけた顧客に補償します",
     "remark": ""
@@ -385,7 +385,7 @@
   },
   {
     "id": 99,
-    "word": "soecification",
+    "word": "specification",
     "meaning": "【名】仕様(書)",
     "example": "The product meets all safety _____.",
     "translation": "その製品はすべての安全仕様を満たしています",

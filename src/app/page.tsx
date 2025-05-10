@@ -9,7 +9,7 @@ const menuItems = [
     href: "/question",
   },
   {
-    title: "statistics",
+    title: "Statistics",
     description: "過去の統計を確認できます",
     href: "/statistics",
   },

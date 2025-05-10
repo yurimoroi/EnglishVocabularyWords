@@ -5,15 +5,8 @@ import { useSearchParams, useRouter } from "next/navigation";
 import { doc, setDoc, getDoc, updateDoc } from "firebase/firestore";
 import { db } from "@/lib/firebase/firebase";
 import { useAuth } from "@/contexts/AuthContext";
-
-interface Question {
-  id: number;
-  word: string;
-  meaning: string;
-  example: string;
-  translation: string;
-  remark: string;
-}
+import { FiArrowLeft, FiVolume2 } from "react-icons/fi";
+import { Question } from "@/types/answerPage";
 
 export default function AnswerPage() {
   const { user } = useAuth();
@@ -150,7 +143,7 @@ export default function AnswerPage() {
               }
 
               const processedQuestions = data.filter(
-                (question: Question, index: number) => wrongQuestion[index] === 1
+                (question: Question, index: number) => wrongQuestion[index] !== 0
               );
 
               const selectedQuestions = processedQuestions
@@ -244,10 +237,8 @@ export default function AnswerPage() {
     try {
       if (user === null) return;
 
-      // reviewsの場合はDBに登録しない
-      if (type === "reviews") return;
-
-      if (range === "overcome") return;
+      // reviewsの場合またはovercomeの場合はDBに登録しない
+      if (type === "reviews" || range === "overcome") return;
 
       // 誤った問題の保存
       const resultDocRef = doc(db, "results", user.uid);
@@ -256,8 +247,11 @@ export default function AnswerPage() {
       if (resultDoc.exists()) {
         const existingData = resultDoc.data();
         const existingWrongQuestions = existingData[type]?.[range] || [];
-        const newWrongQuestions = existingWrongQuestions.map(
-          (value: number, index: number) => value + (wrongQuestion[index] || 0)
+
+        // 新しい配列の長さに合わせて初期化
+        const initializedWrongQuestions = Array(wrongQuestion.length).fill(0);
+        const newWrongQuestions = initializedWrongQuestions.map(
+          (_, index) => (existingWrongQuestions[index] || 0) + wrongQuestion[index]
         );
 
         await updateDoc(resultDocRef, {
@@ -392,18 +386,7 @@ export default function AnswerPage() {
             onClick={() => router.push("/question")}
             className="text-gray-600 hover:text-gray-800 flex items-center cursor-pointer"
           >
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              className="h-4 w-4 mr-1"
-              viewBox="0 0 20 20"
-              fill="currentColor"
-            >
-              <path
-                fillRule="evenodd"
-                d="M9.707 16.707a1 1 0 01-1.414 0l-6-6a1 1 0 010-1.414l6-6a1 1 0 011.414 1.414L5.414 9H17a1 1 0 110 2H5.414l4.293 4.293a1 1 0 010 1.414z"
-                clipRule="evenodd"
-              />
-            </svg>
+            <FiArrowLeft />
             問題選択に戻る
           </button>
         </div>
@@ -466,18 +449,7 @@ export default function AnswerPage() {
         }}
         className="mb-2 text-xs text-gray-600 hover:text-gray-800 flex items-center cursor-pointer"
       >
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          className="h-3 w-3 mr-1"
-          viewBox="0 0 20 20"
-          fill="currentColor"
-        >
-          <path
-            fillRule="evenodd"
-            d="M9.707 16.707a1 1 0 01-1.414 0l-6-6a1 1 0 010-1.414l6-6a1 1 0 011.414 1.414L5.414 9H17a1 1 0 110 2H5.414l4.293 4.293a1 1 0 010 1.414z"
-            clipRule="evenodd"
-          />
-        </svg>
+        <FiArrowLeft />
         問題選択に戻る
       </button>
 
@@ -523,18 +495,7 @@ export default function AnswerPage() {
                   onClick={() => speakText(currentQuestion.word)}
                   className="text-xs text-gray-500 hover:text-gray-700 cursor-pointer"
                 >
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    className="h-4 w-4"
-                    viewBox="0 0 20 20"
-                    fill="currentColor"
-                  >
-                    <path
-                      fillRule="evenodd"
-                      d="M9.383 3.076A1 1 0 0110 4v12a1 1 0 01-1.707.707L4.586 13H2a1 1 0 01-1-1V8a1 1 0 011-1h2.586l3.707-3.707a1 1 0 011.09-.217zM14.657 2.929a1 1 0 011.414 0A9.972 9.972 0 0119 10a9.972 9.972 0 01-2.929 7.071 1 1 0 01-1.414-1.414A7.971 7.971 0 0017 10c0-2.21-.894-4.208-2.343-5.657a1 1 0 010-1.414zm-2.829 2.828a1 1 0 011.415 0A5.983 5.983 0 0115 10a5.984 5.984 0 01-1.757 4.243 1 1 0 01-1.415-1.415A3.984 3.984 0 0013 10a3.983 3.983 0 00-1.172-2.828 1 1 0 010-1.415z"
-                      clipRule="evenodd"
-                    />
-                  </svg>
+                  <FiVolume2 />
                 </button>
               </div>
               <p className="text-sm text-violet-600">{currentQuestion.word}</p>
@@ -558,18 +519,7 @@ export default function AnswerPage() {
                       onClick={() => speakText(currentQuestion.word)}
                       className="text-xs text-gray-500 hover:text-gray-700 cursor-pointer"
                     >
-                      <svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        className="h-4 w-4"
-                        viewBox="0 0 20 20"
-                        fill="currentColor"
-                      >
-                        <path
-                          fillRule="evenodd"
-                          d="M9.383 3.076A1 1 0 0110 4v12a1 1 0 01-1.707.707L4.586 13H2a1 1 0 01-1-1V8a1 1 0 011-1h2.586l3.707-3.707a1 1 0 011.09-.217zM14.657 2.929a1 1 0 011.414 0A9.972 9.972 0 0119 10a9.972 9.972 0 01-2.929 7.071 1 1 0 01-1.414-1.414A7.971 7.971 0 0017 10c0-2.21-.894-4.208-2.343-5.657a1 1 0 010-1.414zm-2.829 2.828a1 1 0 011.415 0A5.983 5.983 0 0115 10a5.984 5.984 0 01-1.757 4.243 1 1 0 01-1.415-1.415A3.984 3.984 0 0013 10a3.983 3.983 0 00-1.172-2.828 1 1 0 010-1.415z"
-                          clipRule="evenodd"
-                        />
-                      </svg>
+                      <FiVolume2 />
                     </button>
                   </div>
                   <p className="text-sm text-gray-600">{currentQuestion.word}</p>

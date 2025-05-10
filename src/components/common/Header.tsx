@@ -5,16 +5,7 @@ import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { Bars3Icon } from "@heroicons/react/24/outline";
 import { useAuth } from "@/contexts/AuthContext";
-import { db } from "@/lib/firebase/firebase";
-import { collection, query, where, getDocs, documentId } from "firebase/firestore";
-
-interface HeaderProps {
-  onToggleSidebar: () => void;
-}
-
-interface UserInfo {
-  name: string;
-}
+import { UserInfo, HeaderProps } from "@/types/header";
 
 export function Header({ onToggleSidebar }: HeaderProps) {
   const router = useRouter();
@@ -24,14 +15,11 @@ export function Header({ onToggleSidebar }: HeaderProps) {
   useEffect(() => {
     const fetchUserInfo = async () => {
       if (user?.uid) {
-        const usersRef = collection(db, "users");
-        const q = query(usersRef, where(documentId(), "==", user.uid));
-        const querySnapshot = await getDocs(q);
-
-        if (!querySnapshot.empty) {
-          const data = querySnapshot.docs[0].data();
+        const userData = sessionStorage.getItem("user");
+        if (userData) {
+          const { name } = JSON.parse(userData);
           setUserInfo({
-            name: data.name,
+            name,
           });
         }
       }

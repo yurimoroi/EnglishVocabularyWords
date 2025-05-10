@@ -6,27 +6,10 @@ import Link from "next/link";
 import { createUserWithEmailAndPassword } from "firebase/auth";
 import { doc, setDoc } from "firebase/firestore";
 import { auth, db } from "@/lib/firebase/firebase";
-
-interface SignupForm {
-  lastName: string;
-  firstName: string;
-  lastNameKana: string;
-  firstNameKana: string;
-  birthDate: string;
-  age: string;
-  occupation: string;
-  email: string;
-  password: string;
-  confirmPassword: string;
-}
-
-const occupationOptions = [
-  { value: "highschool", label: "highschool" },
-  { value: "university", label: "university" },
-  { value: "graduate", label: "graduate" },
-  { value: "working", label: "working" },
-  { value: "other", label: "other" },
-];
+import { occupationOptions } from "@/options/options";
+import { z } from "zod";
+import { signupSchema } from "@/schema/schema";
+import { SignupForm } from "@/types/signupPage";
 
 export default function SignupPage() {
   const router = useRouter();
@@ -48,33 +31,39 @@ export default function SignupPage() {
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
 
-    if (formData.password !== formData.confirmPassword) {
-      setError("invalid password");
-      return;
-    }
-
     try {
       setError("");
       setLoading(true);
 
+      // zodによるバリデーション
+      const validatedData = signupSchema.parse(formData);
+
       // Firebase Authenticationでユーザー登録
       const userCredential = await createUserWithEmailAndPassword(
         auth,
-        formData.email,
-        formData.password
+        validatedData.email,
+        validatedData.password
       );
 
       // Firestoreにユーザー情報を保存
       await setDoc(doc(db, "users", userCredential.user.uid), {
-        name: `${formData.lastName} ${formData.firstName}`,
-        ruby: `${formData.lastNameKana} ${formData.firstNameKana}`,
-        birth: formData.birthDate,
-        occupation: formData.occupation,
+        name: `${validatedData.lastName} ${validatedData.firstName}`,
+        ruby: `${validatedData.lastNameKana} ${validatedData.firstNameKana}`,
+        birth: validatedData.birthDate,
+        occupation: validatedData.occupation,
+        isRandom: false,
+        isOnlyWrong: false,
+        direction: "japaneseToEnglish",
+        questionType: "TOEIC",
       });
 
       router.push("/login");
     } catch (error) {
-      if (error instanceof Error) {
+      if (error instanceof z.ZodError) {
+        // zodのバリデーションエラー
+        const firstError = error.errors[0];
+        setError(firstError.message);
+      } else if (error instanceof Error) {
         setError(error.message);
       } else {
         setError("failed to create account");

@@ -65,7 +65,7 @@
   },
   {
     "id": 9,
-    "word": "transfer",
+    "word": "anniversary",
     "meaning": "【名】〜周年、記念日",
     "example": "Today is our tenth wedding _____.",
     "translation": "今日は私たちの結婚10周年記念日です。",
@@ -73,7 +73,7 @@
   },
   {
     "id": 10,
-    "word": "anniversary",
+    "word": "automatically",
     "meaning": "【副】自動的に",
     "example": "The lights turn on _____ at night.",
     "translation": "夜になると明かりが自動的につきます。",
@@ -138,7 +138,7 @@
   {
     "id": 18,
     "word": "institution",
-    "meaning": "【名】期間、団体、しきたり",
+    "meaning": "【名】機関、団体、しきたり",
     "example": "That _____ has a long history.",
     "translation": "その団体は長い歴史を持っています。",
     "remark": ""
@@ -226,7 +226,7 @@
   {
     "id": 29,
     "word": "impact",
-    "meaning": "【名】影響する",
+    "meaning": "【名】影響",
     "example": "The new law will have a big _____.",
     "translation": "新しい法律は大きな影響を与えるでしょう。",
     "remark": ""
