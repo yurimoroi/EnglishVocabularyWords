@@ -34,9 +34,19 @@ export function AuthProvider({ children }: { children: ReactNode }) {
       setUser(user);
       setLoading(false);
 
-      const pathname = ["/login", "/signup"];
+      const publicPaths = ["/login", "/signup"];
+      const currentPath = window.location.pathname;
 
-      if (user === null && !pathname.includes(window.location.pathname)) {
+      // sessionStorageのチェック
+      const sessionUser = sessionStorage.getItem("user");
+      if (!sessionUser && user) {
+        // sessionStorageに情報がない場合はログアウト処理を実行
+        signOut();
+        router.push("/login");
+        return;
+      }
+
+      if (!user && !publicPaths.includes(currentPath)) {
         router.push("/login");
       }
     });

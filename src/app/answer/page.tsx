@@ -250,9 +250,26 @@ export default function AnswerPage() {
 
         // 新しい配列の長さに合わせて初期化
         const initializedWrongQuestions = Array(wrongQuestion.length).fill(0);
-        const newWrongQuestions = initializedWrongQuestions.map(
-          (_, index) => (existingWrongQuestions[index] || 0) + wrongQuestion[index]
-        );
+
+        // ランダム出題の場合、回答を問題順に並び替える
+        let newWrongQuestions;
+        if (random === "true") {
+          // 問題の元の順序を保持するためのマッピングを作成
+          const originalOrder = questions.map((q, index) => ({
+            id: q.id,
+            wrongCount: wrongQuestion[index],
+          }));
+
+          // ID順にソート
+          originalOrder.sort((a, b) => a.id - b.id);
+
+          // ソートされた順序で新しい配列を作成
+          newWrongQuestions = originalOrder.map((item) => item.wrongCount);
+        } else {
+          newWrongQuestions = initializedWrongQuestions.map(
+            (_, index) => (existingWrongQuestions[index] || 0) + wrongQuestion[index]
+          );
+        }
 
         await updateDoc(resultDocRef, {
           count: {
@@ -270,6 +287,24 @@ export default function AnswerPage() {
           },
         });
       } else {
+        // ランダム出題の場合、回答を問題順に並び替える
+        let finalWrongQuestions;
+        if (random === "true") {
+          // 問題の元の順序を保持するためのマッピングを作成
+          const originalOrder = questions.map((q, index) => ({
+            id: q.id,
+            wrongCount: wrongQuestion[index],
+          }));
+
+          // ID順にソート
+          originalOrder.sort((a, b) => a.id - b.id);
+
+          // ソートされた順序で新しい配列を作成
+          finalWrongQuestions = originalOrder.map((item) => item.wrongCount);
+        } else {
+          finalWrongQuestions = wrongQuestion;
+        }
+
         await setDoc(resultDocRef, {
           count: {
             [type]: {
@@ -277,7 +312,7 @@ export default function AnswerPage() {
             },
           },
           [type]: {
-            [range]: wrongQuestion,
+            [range]: finalWrongQuestions,
           },
         });
       }
