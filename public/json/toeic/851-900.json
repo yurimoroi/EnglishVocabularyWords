@@ -34,7 +34,7 @@
   {
     "id": 55,
     "word": "solely",
-    "meaning": "【副】唯一、伊砦、単独で",
+    "meaning": "【副】唯一、一人で、単独で",
     "example": "The decision was made _____ by the manager.",
     "translation": "その決定はマネージャーによって単独でなされた。",
     "remark": ""
@@ -50,7 +50,7 @@
   {
     "id": 57,
     "word": "revitalize",
-    "meaning": "【動】杯活性化する、復興する",
+    "meaning": "【動】再活性化する、復興する",
     "example": "The plan to _____ the old town was welcomed.",
     "translation": "古い町を活性化する計画は歓迎された。",
     "remark": ""
@@ -65,7 +65,7 @@
   },
   {
     "id": 59,
-    "word": "contless",
+    "word": "countless",
     "meaning": "【形】数えきれないほどの、無数の",
     "example": "There are _____ opportunities in the tech field.",
     "translation": "テクノロジー分野には無数の機会がある。",
@@ -73,7 +73,7 @@
   },
   {
     "id": 60,
-    "word": "divise",
+    "word": "devise",
     "meaning": "【動】考案する、立案する",
     "example": "The engineer managed to _____ a new safety system.",
     "translation": "エンジニアは新しい安全システムを考案した。",
@@ -258,7 +258,7 @@
   {
     "id": 83,
     "word": "constraint",
-    "meaning": "【名】製薬",
+    "meaning": "【名】制約",
     "example": "The budget created a _____ on expansion plans.",
     "translation": "予算は拡大計画に制約を与えた。",
     "remark": ""

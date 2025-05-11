@@ -178,7 +178,7 @@
   {
     "id": 23,
     "word": "complement",
-    "meaning": "【動】合う、保管する",
+    "meaning": "【動】合う、補完する",
     "example": "This sauce will perfectly _____ the dish.",
     "translation": "このソースはその料理にぴったり合います。",
     "remark": ""
@@ -329,7 +329,7 @@
   },
   {
     "id": 42,
-    "word": "nututious",
+    "word": "nutritious",
     "meaning": "【形】栄養のある",
     "example": "Fruits and vegetables are very _____.",
     "translation": "果物や野菜は非常に栄養があります。",

@@ -362,32 +362,52 @@ export default function AnswerPage() {
 
       if (statisticsDoc.exists()) {
         const existingData = statisticsDoc.data();
-        const todayStats = existingData[today] || [];
-
+        const todayStats = existingData[today][0] || [];
         await updateDoc(statisticsDocRef, {
           [today]: [
-            ...todayStats,
             {
-              type,
-              range,
-              score,
-              totalQuestions: questions.length,
-              timestamp: new Date().toISOString(),
+              correctRate:
+                ((todayStats.correctRate || 0) + score) / (todayStats.correctRate ? 2 : 1),
+              numberOfWords: (todayStats.numberOfWords || 0) + questions.length,
             },
           ],
         });
+
+        if (type !== "reviews" && range !== "overcome") {
+          if (score === 100) {
+            const perfect = existingData[type]?.[range]?.perfect || 0;
+
+            await updateDoc(statisticsDocRef, {
+              [type]: {
+                ...(existingData[type] || {}),
+                [range]: {
+                  perfect: perfect + 1,
+                },
+              },
+            });
+          }
+        }
       } else {
         await setDoc(statisticsDocRef, {
           [today]: [
             {
-              type,
-              range,
-              score,
-              totalQuestions: questions.length,
-              timestamp: new Date().toISOString(),
+              correctRate: score,
+              numberOfWords: questions.length,
             },
           ],
         });
+
+        if (type !== "reviews" && range !== "overcome") {
+          if (score === 100) {
+            await updateDoc(statisticsDocRef, {
+              [type]: {
+                [range]: {
+                  perfect: 1,
+                },
+              },
+            });
+          }
+        }
       }
     } catch (error) {
       console.error("データの保存に失敗しました:", error);
