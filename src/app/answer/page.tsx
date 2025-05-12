@@ -362,13 +362,13 @@ export default function AnswerPage() {
 
       if (statisticsDoc.exists()) {
         const existingData = statisticsDoc.data();
-        const todayStats = existingData[today][0] || [];
+        const todayStats = existingData[today] || [{ correctRate: 0, numberOfWords: 0 }];
         await updateDoc(statisticsDocRef, {
           [today]: [
             {
               correctRate:
-                ((todayStats.correctRate || 0) + score) / (todayStats.correctRate ? 2 : 1),
-              numberOfWords: (todayStats.numberOfWords || 0) + questions.length,
+                ((todayStats[0].correctRate || 0) + score) / (todayStats[0].correctRate ? 2 : 1),
+              numberOfWords: (todayStats[0].numberOfWords || 0) + questions.length,
             },
           ],
         });
